@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "Road Section Type One";
+Frame1.Title = "Frame1";
+Frame1.Label1.Title = "轴系 : ";
+Frame1.Label2.Title = "文档路径 : ";
+Frame1.PushButton1.Title = "浏览...";
+Frame1.Label3.Title = "道路截面类型 : ";
+Frame1.RadioButton1.Title = "左";
+Frame1.RadioButton2.Title = "右";
+Frame1.Label4.Title = "道路中心线 : ";

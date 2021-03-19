@@ -1,0 +1,22 @@
+<meta charset="UTF-8"/>
+MainGrid.StandardsGroupBox.Label="选择要支持的标准";
+
+IFC4="产业基础分类版本 4";
+IFC_BRIDGE_V2="IFC-BRIDGE_V2";
+OmniClass_Table_11="OmniClass 表 11 - 功能构造实体";
+OmniClass_Table_12="OmniClass 表 12 - 形式构造实体";
+OmniClass_Table_13="OmniClass 表 13 - 功能空间";
+OmniClass_Table_14="OmniClass 表 14 - 形式空间";
+OmniClass_Table_21="OmniClass 表 21 - 元素";
+OmniClass_Table_22="OmniClass 表 22 - 工作结果";
+OmniClass_Table_23="OmniClass 表 23 - 产品";
+OmniClass_Table_31="OmniClass 表 31 - 阶段";
+OmniClass_Table_32="OmniClass 表 32 - 服务";
+OmniClass_Table_33="OmniClass 表 33 - 规定";
+OmniClass_Table_34="OmniClass 表 34 - 组织角色";
+OmniClass_Table_35="OmniClass 表 35 - 工具";
+OmniClass_Table_36="OmniClass 表 36 - 信息";
+OmniClass_Table_41="OmniClass 表 41 - 材料";
+OmniClass_Table_49="OmniClass 表 49 - 属性";
+Uniformat_II_Elemental_Classification="格式统一的 II 元素分类";
+Proposed_Uniformat_II_Bridge_Elements="已建议格式统一的 II 桥梁元素";

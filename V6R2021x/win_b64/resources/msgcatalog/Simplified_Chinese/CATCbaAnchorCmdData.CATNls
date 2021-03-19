@@ -1,0 +1,374 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// CATCbaAnchorCmdData:CATNls
+// Anchor feature
+//---------------------------------------------------------
+Anchor.NotDeletable.Request="无法删除部件规格";
+Anchor.NotDeletable.Diagnostic="不可删除“/P1”，因为它包含关联的用户特征“/P2”。";
+Anchor.NotDeletable.Advice="首先删除关联的用户特征。";
+
+Anchor.NotDeletablePrivate.Diagnostic="请重新考虑您的操作：您不能删除专有部件。";
+
+AnchorSet.NotDeletable.Diagnostic="不可删除此规格集，因为此集的 /P1规格特征包含关联的用户特征：/P2。";
+Multiple.Tooltip="规格特征列表中存在多个“/P”。";
+
+//---------------------------------------------------------
+// Labels in the main frame
+//---------------------------------------------------------
+Panel.Main.ListView.Label="列表视图";
+Panel.Main.Back.Label="返回";
+Panel.Main.OK.Label="确定";
+Panel.Main.Cancel.Label="取消";
+
+//---------------------------------------------------------
+// Labels in contextual menu
+//---------------------------------------------------------
+ContextualMenu.Title="局部修改";
+
+//---------------------------------------------------------
+// Context definition
+//---------------------------------------------------------
+Context.MenuName.ContextFitPanelSize="适合面板大小";
+Context.MenuName.ContextNotSelected="未选定";
+
+Context.MenuName.ContextRemoveAnchorSet="移除集";
+Context.MenuName.ContextEditAnchorPatternSet="编辑集";
+
+Context.MenuName.ContextRemoveAnchor="移除";
+Context.MenuName.ContextEditAnchor="编辑";
+
+Context.MenuName.ContextSelectTypeFromBrowser="从浏览器中选择类型";
+Context.MenuName.ContextSelectTypeFrom3D="从 3D 中选择类型";
+Context.MenuName.ContextDisplayHelper.Show="显示帮助";
+Context.MenuName.ContextDisplayHelper.Hide="隐藏帮助";
+Context.MenuName.ContextDisplay3DParm.Show="显示参数";
+Context.MenuName.ContextDisplay3DParm.Hide="隐藏参数";
+
+Context.MenuName.ContextSelectGeomInput="选择输入";
+Context.MenuName.ContextCreateProjectionPoint="投影规格";
+Context.MenuName.ContextRemoveGeomInput="移除输入";
+Context.MenuName.ContextDeleteGeomPattern="删除阵列";
+
+Context.MenuName.ContextSelectionByAnchor="按规格选择";
+Context.MenuName.ContextSelectionBySet="按集选择";
+Context.MenuName.ContextSelectionByType="按类型选择";
+Context.MenuName.ContextSelectionByComponent="按对象类型选择";
+
+Context.MenuName.ContextZDirectionNotModified="默认值";
+Context.MenuName.ContextZDirectionAbsoluteZ="绝对 Z 轴";
+
+Context.MenuName.ContextAxisSystemDefault="默认（绝对）";
+Context.MenuName.ContextAxisSystemComputed="已计算";
+Context.MenuName.ContextAxisSystemCurrent="当前轴系";
+Context.MenuName.ContextAxisSystemCreate="创建轴系";
+Context.MenuName.ContextAxisSystemCreateRobot="使用 Robot 创建轴系";
+Context.MenuName.ContextDeleteUdf="删除用户特征";
+Context.MenuName.ContextDeleteAllUdf="删除所有用户特征";
+
+Context.MenuName.ContextCreateHybridBody="插入实体";
+Context.MenuName.ContextCreateGeometricalSet="插入几何图形集";
+
+Context.MenuName.ContextRemoveAnchorInput="移除";
+Context.MenuName.ContextAnchorInputCreatePoint="创建点";
+Context.MenuName.ContextAnchorInputCreateAxisSystem="创建轴系";
+Context.MenuName.ContextAnchorInputCreateAxisSystemRobot="使用 Robot 创建轴系";
+
+Context.MenuName.ContextMetaInput="元输入";
+Context.MenuName.ContextStandardInput="标准输入";
+
+Context.MenuName.ContextExport="初始化阵列表";
+
+Context.MenuIcon.ContextSelectTypeFromBrowser="I_CbaPLMTypeBrowser.png";
+Context.MenuIcon.ContextDisplayHelper.Show="I_CegInformation.png";
+Context.MenuIcon.ContextDisplayHelper.Hide="I_CegInformation.png";
+Context.MenuIcon.ContextDisplay3DParm.Show="I_RbrDisplayParams.png";
+Context.MenuIcon.ContextDisplay3DParm.Hide="I_RbrDisplayParams.png";
+Context.MenuIcon.ContextExport="I_Civil_TableExport.png";
+
+DeleteUdf.Title="删除用户特征";
+DeleteUdf.Text.One="是否确定要删除选定用户特征？";
+DeleteUdf.Text.All="是否确定要删除列表中的所有用户特征？";
+
+//---------------------------------------------------------
+// MAIN LIST, Section 1: column names
+//---------------------------------------------------------
+HEADER_SET="规格目标";
+HEADER_ANCHOR="规格";
+HEADER_TYPE="类型";
+HEADER_COMPONENT="对象类型";
+HEADER_DESTINATION="用户特征目标";
+
+MainList.TooltipTitle="摘要列表";
+MainList.TooltipShortHelp="列示规格及其定义。";
+MainList.TooltipLongHelp="根据上下文列示规格及其定义。
+- 在“编辑输入”中，显示几何图形输入和元输入。
+- 在“编辑参数”中，显示参数。
+- 在全局列表模式中，按分类阵列和几何图形集显示所有规格。这将允许修改每一种选定几何图形集规格或所有选定几何图形集规格的类型、对象类型、用户特征目标、输入和参数。";
+
+Panel.ExposeAll.Label="全部处理";
+
+
+//---------------------------------------------------------
+// MAIN LIST, Section 2: Geometrical Inputs
+//---------------------------------------------------------
+Panel.GeomUdf.Edit="编辑";
+GeomExpander.TooltipShortHelp="选择、创建或编辑对象类型中定义的输入。";
+
+ListView.Scope.ContextSelectionByAnchor="单个";
+ListView.Scope.ContextSelectionBySet="按集";
+
+Panel.GeomPattern.Select="（选择输入）";
+GeomPatternButton.TooltipShortHelp="编辑集的输入。";
+GeomPatternButton.TooltipLongHelp="编辑集的输入。此选项与“按元素编辑”选项相互排斥。
+对阵列而言，如果新规格在阵列更新期间生成，则输入将自动设置为这些新规格。";
+
+GeomPatternCombo.TooltipShortHelp="创建新输入阵列。";
+GeomPatternCombo.TooltipLongHelp="创建新输入阵列。默认选项（选择输入）预期用户在 3D 视图或规格树中选择输入。\n\n可用的输入阵列列表取决于输入类型和规格阵列选项。\n输入类型可以是点、曲线、轴系或元输入等。\n例如，“连续下一轴阵列”仅在输入为轴系且选中轴系和规格阵列选项“将上次规格更改为轴系”时可用。\n“投影阵列”仅在输入为点时可用。\n\n输入阵列规格元素的数量必须与规格阵列数量一样。";
+
+GeomPatternRemove.TooltipShortHelp="删除输入阵列。";
+GeomPatternEdit.TooltipShortHelp="编辑输入阵列。";
+
+GeomEditButton.TooltipShortHelp="编辑选定规格的输入。";
+GeomEditButton.TooltipShortHelp="编辑选定规格的输入。此选项与“按集编辑”选项相互排斥。
+此输入将作废定义于“按设置编辑”中的值。";
+
+GeomEditRemove.TooltipShortHelp="删除选定的输入。";
+
+Panel.ParmPattern.Select="（参数输入）";
+
+ParmPatternCombo.TooltipShortHelp="创建新的参数输入阵列。";
+ParmPatternCombo.TooltipLongHelp="创建新的输入参数阵列。默认选项（选择输入）要求用户在结构树中选择输入。\n";
+ParmPatternRemove.TooltipShortHelp="删除输入参数阵列。";
+ParmPatternEdit.TooltipShortHelp="编辑输入参数阵列。";
+
+//---------------------------------------------------------
+// MAIN LIST, Section 3: Parameter Edition
+//---------------------------------------------------------
+ParmExpander.TooltipShortHelp="编辑定义于对象类型中的参数。";
+
+ParmPatternButton.TooltipShortHelp="编辑集的参数。";
+ParmPatternButton.TooltipLongHelp="编辑集的参数。此选项与“按元素编辑”选项相互排斥。
+对规格阵列而言，如果新规格在阵列更新期间生成，则此参数值会自动设置为这些新规格。";
+
+ParmEditButton.TooltipShortHelp="编辑选定规格的参数。";
+ParmEditButton.TooltipLongHelp="编辑选定规格的参数。此选项与“按集编辑”选项相互排斥。
+该值将作废定义于“按集编辑”中的值。";
+
+
+//---------------------------------------------------------
+// MAIN PANEL, Section 1: Type, Component, Anchors
+//---------------------------------------------------------
+Panel.PatternAnchorSet.AnchorsList="单个规格";
+
+AnchorPatternCombo.TooltipShortHelp="创建可用阵列列表中的阵列。";
+AnchorPatternCombo.TooltipLongHelp="创建可用阵列列表中的阵列。
+如果无选定阵列，则创建非阵列元素。";
+
+AnchorPatternBtn.TooltipShortHelp="单击以编辑阵列。";
+
+Panel.IgnoreLast.Label="将上次规格更改为轴系";
+IgnoreLastBtn.TooltipTitle="将上次规格更改为轴系";
+IgnoreLastBtn.TooltipShortHelp="将上次规格更改为轴系。";
+IgnoreLastBtn.TooltipLongHelp="将上次规格更改为轴系。\n选中此选项时，上次规格已替换为轴系。\n\n此选项对沿线路的连续元素尤其有用，比如，适应性桥板段、需要第二轴系作为输入以实例化部件的跨度。\n选中此选项后，将规格阵列作为输入的“连续下一轴阵列”可用于这些输入。\n\n如果规格阵列是选定阵列，则选定阵列中的“移除上一个”选项与规格列表中的移除上一个选定元素相对应，而此选项将上一个选定元素作为新轴系。可将两个选项组合。";
+
+ChangeObjectTypeAndDeleteUdf.Title="删除用户特征并更改对象类型";
+ChangeObjectTypeAndDeleteUdf.Text="是否要删除用户特征并更改类型或对象类型？";
+ChangeObjectTypeAndDeleteUdf.Info="单击“是”以删除用户特征并更改对象类型和发布名称。\n\n单击“应用”以删除用户特征并更改对象类型，但不更改发布名称。\n\n单击“否”退出操作。";
+ChangeObjectTypeAndDeleteUdf.Inf1="";
+
+ChangePub.Title="更改发布";
+ChangePub.Text="是否要将发布名称更改为新规格名称？";
+ChangePub.Info="如果工程连接已在这些规格特征上创建，则发布的更改将会断开工程连接。";
+
+Upgrade.Title="对象类型升级";
+Upgrade.Text="是否要升级对象类型？";
+Upgrade.Info="规格特征包含用户特征。\n升级将删除现有用户特征并重新生成它们，这可能会导致使用这些用户特征作为输入的特征的结果无效。\n可能需要手动修复。";
+
+Error.Upgrade.OUTOFMEMORY.Diagnostic="定义规格特征“/P1”的配置不存在于对象类型的最新修订版中。";
+Error.Upgrade.FAILED.Diagnostic="无法将规格特征“/P1”的对象类型升级至最新修订版。";
+
+//---------------------------------------------------------
+// MAIN PANEL, Section 2: Anchor Input List
+//---------------------------------------------------------
+HEADER_ANCHOR_INPUT="规格输入";
+HEADER_PATTERN_INPUT="阵列输入";
+HEADER.NbOfElements="元素数： ";
+
+InputList.TooltipTitle="输入列表";
+InputList.TooltipShortHelp="显示输入元素。";
+InputList.TooltipLongHelp="显示输入元素。
+- 如果结果从创建阵列中生成，比如曲线阵列，则其输入将显示为（从阵列计算）。
+- 如果结果已隔离，则其输入将显示为（已隔离）。";
+
+
+//---------------------------------------------------------
+// MAIN PANEL, Section 3: Axis System Modification
+//---------------------------------------------------------
+Panel.Modifier="轴系修改";
+ModifierExpander.TooltipShortHelp="修改结果轴系定义。";
+
+Panel.ZDirection="Z 方向";
+ZDirectionEditor.TooltipShortHelp="选择或修改所有元素的 Z 方向。";
+ZDirectionEditor.TooltipLongHelp="选择或修改所有元素的 Z 方向。
+- 默认：如果输入为轴系，则 Z 方向由输入轴系的 Z 方向定义。如果输入为点，则 Z 方向是绝对 Z 方向。
+- 绝对 Z：Z 方向是绝对 Z 方向。
+- 选择 3D 视图或规格树中的任意方向。
+
+结果 X、Y 和 Z 方向已修改：
+- 修改的 Z 方向设置为选定的 Z 方向。
+- 修改之前，修改的 X 方向垂直于 Y 方向和选定的 Z 方向。
+- 修改的 Y 方向垂直于选定的 Z 方向和修改的 X 方向。";
+
+Panel.RefAxisSystem="参考轴系";
+Panel.Reference="参考";
+RefAxisSystemEditor.TooltipShortHelp="选择结果创建于点中的参考轴系。\n此选项仅应用于创建于点中的结果。";
+
+
+//---------------------------------------------------------
+// MAIN PANEL, Section 4: Content specification
+//---------------------------------------------------------
+Panel.UdfInfo.Label="内容规格";
+UdfInfoExpander.TooltipShortHelp="需要实例化部件的输入规格。";
+UdfInfoExpander.TooltipLongHelp="需要实例化由对象类型定义的部件的输入规格。";
+
+UdfDestinationEditor.TooltipShortHelp="选择实体或几何图形集，以保存实例化的用户特征。";
+UdfDestinationEditor.TooltipLongHelp="选择实体或几何图形集，以保存实例化的用户特征。
+- 目标必须与基于特征设计的对象类型定义兼容。
+- 例如，实体用户特征不能保存在几何图形集中。
+- 如果基于特征的设计未定义于对象类型中，则此字段不可用。";
+
+Panel.MetaInput.Label="实例化模式";
+Pattern.MetaCombo.MetaInput="元输入实例化";
+Pattern.MetaCombo.StandardInput="标准实例化";
+MetaCombo.TooltipShortHelp="选择对象类型的实例化输入方法。";
+MetaCombo.TooltipLongHelp="选择对象类型的实例化输入方法。
+如果已选定“标准实例化”，则仅在输入编辑期间显示几何图形输入。
+否则，还将显示元输入。
+如果对象类型不包含元输入，则此选项不可用。";
+
+Panel.GeomUdf.Label="编辑输入";
+GeomUdfButton.TooltipShortHelp="输入几何图形输入和元输入。";
+GeomUdfButton.TooltipShortHelp="输入几何图形输入和元输入。
+元输入仅在“实例化方法”是“元输入实例化”时显示。";
+
+HelperButton.TooltipShortHelp="显示对象类型的图文说明。";
+HelperButton.TooltipLongHelp="显示对象类型的图文说明与几何图形输入中的符号。
+这在输入编辑过程中理解每个输入的含义很有用。";
+
+Panel.ParmUdf.Label="编辑参数";
+ParmUdfButton.TooltipShortHelp="编辑参数。";
+ParmUdfButton.TooltipLongHelp="编辑定义于对象类型中的参数。仅显示在恰当字段中过滤的参数。";
+
+Panel.ParmUdf.All.Label="全部";
+Panel.ParmUdf.Length.Label="长度";
+Panel.ParmUdf.Boolean.Label="布尔";
+Panel.ParmUdf.Integer.Label="整数";
+Panel.ParmUdf.Real.Label="实数";
+Panel.ParmUdf.Angle.Label="角度";
+Panel.ParmUdf.String.Label="字符串";
+Panel.ParmUdf.Area.Label="面积";
+Panel.ParmUdf.Volume.Label="体积";
+Panel.ParmUdf.Others.Label="其他";
+
+ParmUdfCombo.TooltipShortHelp="过滤要编辑的参数。";
+ParmUdfCombo.TooltipLongHelp="过滤要编辑的参数。";
+
+ParmVisuButton.TooltipShortHelp="以 3D 视图显示对应于当前选定规格的用户特征上的参数约束。";
+ParmVisuButton.TooltipLongHelp="以 3D 视图显示对应于当前选定规格的用户特征上的参数约束。
+用户可使用 3D 视图编辑显示的参数约束。
+并非显示所有参数。仅显示定义为约束的参数。如果用户想显示参数，必须特别留意对象类型设计。";
+
+Panel.Expose.Label="处理";
+ExposeButton.TooltipShortHelp="创建或更新用户特征。";
+ExposeButton.TooltipLongHelp="创建或更新所有以上规格的用户特征。如果规格并未完全定义输入，则此选项不可用。
+
+用户特征仅为完全定义输入的规格而创建。其他规格可忽略。";
+
+
+//---------------------------------------------------------
+// Different pre-defined values
+//---------------------------------------------------------
+CellResult.Required="<必需>";
+CellResult.Missing="<缺失>";
+CellResult.Multiple="（多个）";
+CellResult.Modified="（已修改）";
+CellResult.Invalid="<输入无效>";
+CellResult.Coordinates.InPattern="由阵列定义。";
+CellResult.Coordinates.ByTable="由表定义。";
+CellResult.Coordinates.ByAxis="由轴定义。";
+CellResult.Isolated="（已隔离）";
+CellResult.AnchorInputDeleted="（输入已删除）";
+
+NoSelection="（无选择）";
+
+
+//---------------------------------------------------------
+// Info, warning and error messages
+//---------------------------------------------------------
+Info.NewAnchorCreatedInside="新定位将创建于“/P1”中";
+
+Warning.ExposePowerCopySummary.Diagnostic="正在处理 /P1超级副本。如果未创建结果，请检查超级副本定义与目标的兼容性。";
+Warning.ExposeSummary.Diagnostic="/P1 用户特征已成功创建或更新。\n/P2 用户特征未创建，或者其结果无效。";
+Warning.ExposeBilan.Request="流程摘要：";
+Warning.ExposeBilan.Diagnostic="完全处理 /P1 规格特征：
+ - /P2 被忽略，因为未定义对象类型或用户特征目标，
+ - /P3 被忽略，因为输入不完整或其他原因，
+ - /P4 用户特征已成功创建或更新，
+ - /P5 用户特征已创建或更新但显示错误，
+ - /P6 超级副本也已处理。如果未创建超级副本，请检查超级副本与目标的兼容性。";
+Warning.ExposeBilan.Advice="读取以下每个规格特征的信息。";
+
+Error.BadPatternSetAggregation="选定的阵列集未在规格集下聚集。无法对其进行编辑。";
+
+Error.CATICbaAnchorCustomizeNotImplemented.Request="无法编辑选定的特征";
+Error.CATICbaAnchorCustomizeNotImplemented.Diagnostic="选定的特征未创建于当前上下文中。无法对其进行编辑。";
+Error.CATICbaAnchorCustomizeNotImplemented.Advice="更改至工作台，它已创建选定的特征，可再次尝试编辑。";
+
+Error.CantEditComponent.Request="您无法更改类型或对象类型";
+Error.CantEditComponent.Diagnostic="无法更改类型或对象类型，因为一些选定的规格特征包含用户特征。";
+Error.CantEditComponent.Advice="您需要首先删除这些已经实例化的用户特征。";
+
+Error.CantEditUdfDestination.Request="您无法更改特征目标";
+Error.CantEditUdfDestination.Diagnostic="因为一些选定的规格特征包含用户特征。";
+Error.CantEditUdfDestination.Advice="您需要首先删除这些已经实例化的用户特征。";
+
+Error.AnchorNotPublished.Request="发布无效";
+Error.AnchorNotPublished.Diagnostic="“/P1”未发布。";
+Error.AnchorNotPublished.Advice="单击当前命令中的“确定”以再次发布。";
+
+Error.Summary="存在 /P1则警告或错误消息。\n单击“消息报告”以了解详细信息。";
+
+Error.TooManyColumns="列表包含 /P1列。仅显示 /P2 列。";
+
+Warning.CreateGeometricalSetAsUdfDestination.Request="您不能将几何图形集创建为用户特征目标。";
+Warning.CreateGeometricalSetAsUdfDestination.Diagnostic="某些规格特征中使用的对象类型“/P1”为实体。";
+Warning.CreateGeometricalSetAsUdfDestination.Advice="选择或创建实体来作为用户特征目标。";
+
+Warning.ContextDisplay3DParm.NoSelection.Request="无法在 3D 视图中显示参数。";
+Warning.ContextDisplay3DParm.NoSelection.Diagnostic="未选择规格、或选定规格不具有用户特征、亦或用户特征不包含可显示于 3D 视图中的参数。";
+Warning.ContextDisplay3DParm.NoSelection.Advice="选择具有用户特征的规格。";
+
+Warning.InvalidUdfDestination.Request="无效用户特征目标";
+Warning.InvalidUdfDestination.Diagnostic="选定目标无效。对于实体用户特征，您必须选择启用混合设计的几何体。";
+Warning.InvalidUdfDestination.Advice="通过勾选“在零件实体和实体内启用混合设计”，在“首选项”上启用混合设计。";
+Warning.InputMetada="所选角色是元输入实例化的构件。
+需要切换为标准实例化。";
+//------------------------------
+// Selection message
+//------------------------------
+Select.SelectPrd="选择将在其中创建新规格特征的 3D 形状。";
+Select.SelectAnchorType="选择有类型的产品或特征，以便检索类型。";
+Select.SelectAnchorObjectType="选择有类型的产品或特征以检索对象类型。选定类型必须与当前类型相同。";
+Select.SelectObjectType="从对象类型浏览器中选择一个对象类型。";
+Select.SelectAnchorInput="选择轴系或点作为输入。";
+Select.SelectUdfDestination="选择集以用于用户特征目标。";
+Select.SelectAnchorOrSetForEdition="选择现有规格或阵列以添加至列表。";
+Select.SelectExistingAnchorInMainPanel="选择要在列表中突出显示的规格。";
+Select.SelectZDirection="选择线或平面以定义 Z 方向。";
+Select.SelectRefAxisSystemForPoint="选择参考轴系。";
+
+
+//------------------------------
+// Preference message
+//------------------------------
+OnUnderAnchorNodeClicked.Diagnostic="不能更改结果规格节点，因为已在当前节点下创建规格。\n不要创建任何规格，重新启动命令并更改此选项。";

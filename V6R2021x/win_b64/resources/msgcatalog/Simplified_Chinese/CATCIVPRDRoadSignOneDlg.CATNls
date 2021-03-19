@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+Title = "道路标牌";
+Label6.Title = "标牌类型 : ";
+Label9.Title = "道路曲面 : ";
+Label10.Title = "道路骨架线 : ";
+Label8.Title = " ";
+Label1.Title = "所选坐标 : ";
+
+FileError.Title = "错误";
+FileError.Text = "该路径下XML文件不存在，请检查 !";
+XmlError.Title = "错误";
+XmlError.Text = "从XML文件中获取数据失败,请检查文件 !";
+OpenError.Title = "错误";
+OpenError.Text = "根据ID获取零件失败,请检查ID是否存在 !";

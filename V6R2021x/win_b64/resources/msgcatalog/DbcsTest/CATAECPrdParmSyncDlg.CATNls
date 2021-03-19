@@ -1,0 +1,10 @@
+Title = "[十CATAECPrdParmSyncDlg,Title十一構ソチ－Part Parameters Synchronization]";
+Frame1.Title = "[十CATAECPrdParmSyncDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label4.Title = "[十CATAECPrdParmSyncDlg,Frame1.Label4.Title十一構ソチ－ Select Product : ]";
+Frame1.Label5.Title = "[十CATAECPrdParmSyncDlg,Frame1.Label5.Title十一構ソチ－ Mode : ]";
+Frame1.Label2.Title = "[十CATAECPrdParmSyncDlg,Frame1.Label2.Title十一構ソチ－ Header Row : ]";
+Frame1.Label3.Title = "[十CATAECPrdParmSyncDlg,Frame1.Label3.Title十一構ソチ－ Start Row : ]";
+Frame1.Label1.Title = "[十CATAECPrdParmSyncDlg,Frame1.Label1.Title十一構ソチ－ Select Excel : ]";
+Frame1.PushButton1.Title = "[十CATAECPrdParmSyncDlg,Frame1.PushButton1.Title十一構ソチ－Browse...]";
+Frame1.CheckButton2.Title = "[十CATAECPrdParmSyncDlg,Frame1.CheckButton2.Title十一構ソチ－Export]";
+Frame1.CheckButton1.Title = "[十CATAECPrdParmSyncDlg,Frame1.CheckButton1.Title十一構ソチ－Import]";

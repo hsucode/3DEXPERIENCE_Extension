@@ -1,0 +1,21 @@
+<meta charset="UTF-8"/>
+Title = "线路Excel导入";
+PushButton1.Title = "浏览...";
+Label1.Title = " Excel: ";
+Editor1.ShortHelp = "C:\Temp";
+
+
+doubleError.Title = "错误";
+doubleError.Text = "Txt File Data is Error !";
+msg.Title = "Error";
+msg.Text = "Txt Path is NULL !";
+msg1.Title = "Error";
+msg1.Text = "Txt file does not exist !";
+DataError.Title = "Error";
+DataError.Text = "Get Data From EXCEL or XML is Failed !";
+UDFError.Title = "Error";
+UDFError.Text = "UDF file does not exist or Part is not exist ，please check <startup\\Civil\\CATCIVAlignmentData\\AlignmentTemplate.xml>.";
+AxisError.Title = "Error";
+AxisError.Text = "Create Axis is Failed !";
+LengthError.Title = "Error";
+LengthError.Text = "输入的里程不能大于平曲线的长度 !";

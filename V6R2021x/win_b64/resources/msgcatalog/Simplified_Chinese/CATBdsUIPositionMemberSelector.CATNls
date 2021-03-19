@@ -1,0 +1,22 @@
+<meta charset="UTF-8"/>
+
+ProfileLabel="轮廓 ";
+SourceLabel="源";
+MirrorProfileLabel="镜像轮廓";
+
+CatalogLabel="标准";
+TypeLabel="形状";
+SizeLabel="大小 ";
+
+SeriesLabel="系列";
+DesignationLabel="指定";
+
+ShapeLabel="形状 ";
+DiameterLabel="直径 ";
+LengthLabel="长度 ";
+WidthLabel="宽度 ";
+
+PlacementMethodLabel="创建模式 ";
+RotateLabel="旋转 ";
+
+AlignmentLabel="线路 ";

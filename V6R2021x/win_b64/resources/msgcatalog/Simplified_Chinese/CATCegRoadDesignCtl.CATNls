@@ -1,0 +1,171 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// CATCegRoadDesignCtl.CATNls
+//---------------------------------------------------------------------------- 
+SelectTerrain.YesNo.Title="选择地形";
+SelectTerrain.YesNo.Question="选定地形是已修改的地形。
+是否要选择原始未修改地形？";
+SelectTerrain.YesNo.More="单击“是”，当前操作将集成到“/P1”中。
+单击“否”，将创建新的目标位置集。";
+
+EditSketch.YesNo.Title="编辑典型横截面";
+EditSketch.YesNo.Question="编辑典型横截面会重置所有横截面参数值。";
+EditSketch.YesNo.More="单击“是”编辑典型横截面。
+单击“否”退出典型横截面编辑。";
+
+UpgradeComponent.YesNo.Title="升级对象类型";
+UpgradeComponent.YesNo.Question="是否要将当前土方工程的对象类型升级到其最新版本？";
+UpgradeComponent.YesNo.More="单击“是”以升级。这样将删除典型横截面上的本地修改。
+单击“否”则不升级。";
+
+//----------------- GENERAL -------------------
+GeneralGrid.CurveLabel.Label="线路";
+GeneralGrid.SurfaceLabel.Label="曲面";
+GeneralGrid.SurfaceLabel.Road.Label="道路曲面";
+GeneralGrid.SurfaceLabel.Railway.Label="铁路曲面";
+GeneralGrid.SurfaceLabel.Platform.Label="平台";
+GeneralGrid.SweepTerrainLabel.Label="地形";
+GeneralGrid.StartLabel.Label="起始元素";
+GeneralGrid.EndLabel.Label="终止元素";
+
+//----------------- TERRAIN MODIFICATION OPTIONS -------------------
+TargetExpanderLabel="地形修改选项";
+TargetExpander.TargetExpander.Label="目标集";
+TargetExpander.Target.Label="目标集";
+TargetExpander.BooleanTerrainLabel.Label="地形";
+TargetExpander.ModifyTerrain.Label="创建已修改地形";
+TargetExpander.SplitTerrain.With.Label="通过挖掘和填充";
+TargetExpander.SplitTerrain.OnlyExcavation.Label="通过挖掘";
+TargetExpander.SplitTerrain.OnlyFilling.Label="通过填充";
+TargetExpander.SplitTerrain.Split.Label="无需挖掘和填充";
+TargetExpander.SplitTerrain.Only.Label="仅通过挖掘和填充";
+TargetExpander.CreateCutFill.Label="创建挖掘和填充工作";
+Target.New.Text="（新拉伸设置）";
+TargetExpander.FilterResultLabel.Label="保留无连接挖掘和填充工作";
+
+//----------------- OBJECT TYPE -------------------
+OTExpander.OTExpanderLabel.Label="典型横截面";
+OTExpander.TypeLabel.Label="类型";
+OTExpander.OTLabel.Label="对象类型";
+OTExpander.CompLabel.Label="横截面";
+
+//----------------- Road Design Setting -------------------
+LegacyTypeLabel.Label="使用旧对象类型";
+
+//----------------- MORE -------------------
+MoreExpanderLabel="参数";
+MoreExpander.TooltipShortHelp="定义计算选项。";
+
+MoreExpanderLabel.ExtrapolSweepLabel.Label="将横截面外插延伸至地形";
+
+MoreExpander.MoreLabel.Label="更多"; // to delete
+MoreExpander.StartOffsetLabel.Label="开始偏移"; // to delete
+MoreExpander.EndOffsetLabel.Label="结束偏移"; // to delete
+
+ParmExpanderLabel="操作区域";
+
+PreviewLabel="预览";
+
+NSelectedElements="/P1 元素";
+
+Edit.Network.Warning="拉伸设置包含多个土方工程。选择要编辑的土方工程。";
+
+DefaultSelectionName.Start="开始";
+DefaultSelectionName.End="结束";
+
+//----------------------------------------------------------------------------
+// Help
+//----------------------------------------------------------------------------
+CurveSelector.TooltipShortHelp="选择线路。";
+
+SurfaceSelector.TooltipShortHelp="选择方向朝上的曲面。";
+SurfaceSelector.Platform.TooltipShortHelp="选择平台曲面或平台轮廓。";
+SurfaceSelector.Subgrade.TooltipShortHelp="选择方向朝上的曲面以进行土方工程计算。如果土方工程普通曲面是在路基设计中计算的，则它将设置为默认曲面。";
+
+SweepTerrainSelector.TooltipShortHelp="选择方向朝上的地形。";
+
+StartSelector.TooltipShortHelp="选择起始元素。";
+
+EndSelector.TooltipShortHelp="选择终止元素。";
+
+CompSelector.TooltipShortHelp="选择典型横截面。";
+
+InOutExpander.TooltipShortHelp="选择几何输入和结果输出。";
+InOutExpander.TooltipLongHelp="为用户特征选择几何输入并指定结果输出。";
+
+ParmExpander.TooltipShortHelp="为每个截面定义参数。";
+
+TargetExpander.TooltipShortHelp="定义目标集。";
+TargetExpander.TooltipLongHelp="定义将在其下聚集结果土方工程或路基的目标集。如果结果已聚集，则不能更改其目标。";
+
+TargetSelector.TooltipShortHelp="选择目标集。";
+TargetSelector.TooltipLongHelp="选择目标集，在其中将聚集结果土方工程或路基。";
+
+BooleanTerrainSelector.TooltipShortHelp="选择要修改的地形。";
+TargetTerrainSelector.TooltipShortHelp="选择挖掘和填充拉伸将外插延伸至的地形。";
+
+AddTargetBtn.TooltipShortHelp="创建或移除目标集。";
+
+ModifyTerrain.TooltipShortHelp="创建已修改地形。";
+SplitTerrain.TooltipShortHelp="为结果修改地形选择一个选项。";
+CreateCutFill.TooltipShortHelp="创建挖掘和填充工程。";
+FilterResult.TooltipShortHelp="保留或移除非连接的挖掘和填充作业。";
+FilterResult.TooltipLongHelp="保留或移除未直接与道路、铁路或平台连接的挖掘和填充作业。";
+
+SectionExpander.TooltipShortHelp="定义横截面。";
+SectionEditor.TooltipShortHelp="选择典型横截面。";
+SectionEditor.TooltipLongHelp="选择当前零件中的典型横截面。";
+
+EditSectionBtn.TooltipShortHelp="创建或编辑典型横截面。";
+EditSectionBtn.TooltipLongHelp="编辑现有典型横截面，如不存在则新建一个。";
+
+RemoveSectionBtn.TooltipShortHelp="移除典型横截面。";
+
+DisplayDimBtn.TooltipShortHelp="显示典型横截面约束。";
+DisplayDimBtn.TooltipLongHelp="显示典型横截面约束。用户可以编辑显示的约束。";
+
+RevertBtn.TooltipShortHelp="交换横截面轮廓。";
+RevertBtn.TooltipLongHelp="交换横截面的右侧轮廓和左侧轮廓。";
+
+ExtrapolSweep.TooltipShortHelp="将横截面轮廓外插延伸至地形。";
+ExtrapolSweep.TooltipLongHelp="将横截面轮廓的最后一段外插延伸至地形。";
+
+//----------------------------------------------------------------------------
+// Specific to Modify Terrain/Stretch Set
+//----------------------------------------------------------------------------
+ModifyTerrain.Cut="挖掘";
+ModifyTerrain.Fill="填充";
+
+UpdateTargetTerrain.YesNo.Title="将地形设置为土方工程";
+UpdateTargetTerrain.YesNo.Question="/P1 土方工程“/P2”没有地形。 
+是否要为其设置地形？
+单击“是”，这些土方工程将被修改并可能影响其他项。
+单击“否”，它们不会被修改，并且在挖掘和填充作业计算过程中它们可能会不一致。";
+
+//----------------------------------------------------------------------------
+// Selection status bar message
+//----------------------------------------------------------------------------
+State1.SelectAlignmentSurface="选择线路曲面。";
+State1.SelectAlignmentCurve="选择线路曲线。";
+State1.SelectPlatform="选择平台。";
+State1.SelectStartElement="选择起始元素。";
+State1.SelectEndElement="选择终止元素。";
+State1.SelectSweepTerrain="选择地形。";
+State1.SelectBooleanTerrain="选择要修改的地形。";
+State1.SelectTarget="选择目标集。";
+State1.SelectSweepSet="选择土方工程。";
+State1.SelectCrossSectionSketch="选择横截面。";
+State1.SelectSectionPoint="选择点、平面或曲面。";
+State1.SelectCrossSectionUdf="选择路基以共享相同的典型横截面。";
+State1.SelectModifyTerrainInput="选择土方工程、路基或其他元素以修改地形或整合路基图层。";
+State1.SelectLinearStretchInput="选择土方工程或路基。";
+
+Warning.State1.SelectSectionPoint.1="尚未选择线路方式。不可选择点。\n请首先选择线路方式。";
+Warning.State1.SelectModifyTerrainInput.1="未将选定元素键入为挖掘作业或填充作业。";
+
+//----------------------------------------------------------------------------
+// Specific Split
+//----------------------------------------------------------------------------
+SplitSideLabel="分割：另一侧";
+
+MaxStepManualPrecisionLabel="最大步长";

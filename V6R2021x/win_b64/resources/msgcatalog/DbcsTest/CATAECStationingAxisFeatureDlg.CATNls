@@ -1,0 +1,17 @@
+Title = "[十CATAECStationingAxisFeatureDlg,Title十一構ソチ－CATAECStationingAxisFeatureDlg]";
+Frame1.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Title十一構ソチ－Frame1]";
+Frame1.Label6.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label6.Title十一構ソチ－ Axis_Length : ]";
+Frame1.Label7.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label7.Title十一構ソチ－ Gap : ]";
+Frame1.Label4.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label4.Title十一構ソチ－ Point_V : ]";
+Frame1.Label5.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label5.Title十一構ソチ－ Stationing : ]";
+Frame1.Label2.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label2.Title十一構ソチ－ ID : ]";
+Frame1.Label3.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label3.Title十一構ソチ－ Point_H : ]";
+Frame1.Label1.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label1.Title十一構ソチ－ Plane : ]";
+msg1.Title = "[十CATAECStationingAxisFeatureDlg,msg1.Title十一構ソチ－Error]";
+Frame1.Label8.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label8.Title十一構ソチ－ Left_Slope : ]";
+Frame1.Label9.Title = "[十CATAECStationingAxisFeatureDlg,Frame1.Label9.Title十一構ソチ－ Right_Slope : ]";
+msg2.Title = "[十CATAECStationingAxisFeatureDlg,msg2.Title十一構ソチ－Error]";
+msg3.Title = "[十CATAECStationingAxisFeatureDlg,msg3.Title十一構ソチ－Error]";
+msg1.Text = "[十CATAECStationingAxisFeatureDlg,msg1.Text十一構ソチ－InitFeature is Failed !]";
+msg2.Text = "[十CATAECStationingAxisFeatureDlg,msg2.Text十一構ソチ－Please Input 0 or 1 !]";
+msg3.Text = "[十CATAECStationingAxisFeatureDlg,msg3.Text十一構ソチ－Create or Modify is Failed !]";

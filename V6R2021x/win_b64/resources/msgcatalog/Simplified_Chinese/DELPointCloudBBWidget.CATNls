@@ -1,0 +1,28 @@
+<meta charset="UTF-8"/>
+//Bounding Box Type
+CATMainPanelGrid.BoundingBoxType.BoundingBoxTrap.TooltipShortHelp="通过选择框创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxTrap.TooltipLongHelp="通过选择框创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipShortHelp="通过包络体创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxVolume.TooltipLongHelp="通过包络体创建边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxAlignment.TooltipShortHelp="通过线路生成边界框";
+CATMainPanelGrid.BoundingBoxType.BoundingBoxAlignment.TooltipLongHelp="通过线路和宽度创建边界框。线路可以通过两个点进行限制";
+
+//Label
+CATMainPanelGrid.BoundingBoxVolumeGrid.ElementLabel.Text="元素";
+
+CATMainPanelGrid.BoundingBoxAlignmentGrid.AlignmentLabel.Text="线路";
+CATMainPanelGrid.BoundingBoxAlignmentGrid.StartPointLabel.Text="起点";
+CATMainPanelGrid.BoundingBoxAlignmentGrid.EndPointLabel.Text="终点";
+
+DefaultValue="默认（无）";
+
+CATMainPanelGrid.BoundingBoxAlignmentGrid.WidthLabel.Text="宽度";
+
+//Trap selection
+CATMainPanelGrid.BoundingBoxTrapGrid.DefaultTrap.Label="初始化";
+CATMainPanelGrid.BoundingBoxTrapGrid.DefaultTrap.TooltipShortHelp="使用大点云边界框进行初始化";
+CATMainPanelGrid.BoundingBoxTrapGrid.DefaultTrap.TooltipLongHelp="使用大点云边界框进行初始化";
+CATMainPanelGrid.BoundingBoxTrapGrid.ResetTrap.Label="重置";
+CATMainPanelGrid.BoundingBoxTrapGrid.ResetTrap.TooltipShortHelp="重置当前的框选择";
+CATMainPanelGrid.BoundingBoxTrapGrid.ResetTrap.TooltipLongHelp="重置当前的框选择";
+

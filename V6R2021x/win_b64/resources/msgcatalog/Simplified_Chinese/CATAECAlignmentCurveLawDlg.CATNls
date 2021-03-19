@@ -1,0 +1,5 @@
+<meta charset="UTF-8"/>
+Title = "线路法则";
+Label1.Title = "定位轴系 ";
+Label2.Title = "水平曲线 ";
+Label3.Title = "yz方向的纵向曲线 ";

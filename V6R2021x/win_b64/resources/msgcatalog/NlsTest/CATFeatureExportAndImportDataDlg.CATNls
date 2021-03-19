@@ -1,0 +1,14 @@
+Excel.Label2.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Label2.Title~ Héåder Røw :]";
+Title = "[~CATFeatureExportAndImportDataDlg,Title~ UDF Synchrønîzåtion ]";
+Excel.Label3.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Label3.Title~ Påraméters Nümber :]";
+Excel.Excelpath.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Excelpath.Title~ Excél Fîle Påth   : ]";
+Excel.Label4.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Label4.Title~ Stårt Wrîting Røw :]";
+Excel.Label5.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Label5.Title~ Mødé :]";
+Frame1.Title = "[~CATFeatureExportAndImportDataDlg,Frame1.Title~ Sétüp]";
+Frame1.SelAxis.Title = "[~CATFeatureExportAndImportDataDlg,Frame1.SelAxis.Title~ UDF Séts  :]";
+Frame1.PushButton1.Title = "[~CATFeatureExportAndImportDataDlg,Frame1.PushButton1.Title~ PüshButtøn1]";
+Excel.RadioButton2.Title = "[~CATFeatureExportAndImportDataDlg,Excel.RadioButton2.Title~ Impørt]";
+Excel.RadioButton1.Title = "[~CATFeatureExportAndImportDataDlg,Excel.RadioButton1.Title~ Expørt]";
+Excel.BrowseExcel.Title = "[~CATFeatureExportAndImportDataDlg,Excel.BrowseExcel.Title~ Brøwsé...]";
+Excel.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Title~ Excél]";
+Excel.Label1.Title = "[~CATFeatureExportAndImportDataDlg,Excel.Label1.Title~ Héåder Cølümn  :]";

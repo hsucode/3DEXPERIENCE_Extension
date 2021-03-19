@@ -1,0 +1,24 @@
+<meta charset="UTF-8"/>
+Title = "UDF Multi Instantiate";
+Label1.Title = "Template List : ";
+Label2.Title = "Open Template : ";
+PushButton1.Title = "Open";
+IconLabel.Title = " ";
+PushButton2.Title = "Parameters";
+
+FileError.Title = "错误";
+FileError.Text = "该路径下XML文件不存在，请检查 !";
+XmlError.Title = "Error";
+XmlError.Text = "从XML文件中获取数据失败,请检查文件 !";
+OpenError.Title = "Error";
+OpenError.Text = "根据ID获取零件失败,请检查ID是否存在 !";
+OpenWindowError.Title = "Error";
+OpenWindowError.Text = "打开到窗口失败 !";
+UDFInputError.Title = "Error";
+UDFInputError.Text = "获取模板输入失败 !";
+UDFError.Title = "Error";
+UDFError.Text = "没有找到对应的UDF或PowerCopy !";
+InputNumError.Title = "Error";
+InputNumError.Text = "选择的集合内特征需要为1或为已选择集合内最大特征数量 !";
+InputTypeError.Title = "Error";
+InputTypeError.Text = "选择集合内某些特征类型与Template要求的输入类型不一致 !";

@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATAECBDG3DModelingWorkbench.Title      = "Building 3D Design Extension";
+CATAECBDG3DModelingWorkbench.ShortHelp  = "Building 3D Design Extension";
+CATAECBDG3DModelingWorkbench.Help       = "Building 3D Design Extension";
+CATAECBDG3DModelingWorkbench.LongHelp   = "Building 3D Design Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR 
+//---------------------------------------------------------------------------- 
+
+GridSection.Title="グリッド";
+DataSection.Title="グローバルデータ";
+StructureSection.Title="構造";
+DraftingSection.Title="図面";

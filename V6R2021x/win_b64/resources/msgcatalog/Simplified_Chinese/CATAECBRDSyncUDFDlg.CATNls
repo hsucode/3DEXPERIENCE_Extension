@@ -1,0 +1,10 @@
+Title = "UDF构件数据同步";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 产品 ";
+Frame1.Label2.Title = " 表头 ";
+Frame1.Label3.Title = " 写入起始行";
+Frame1.Label4.Title = " Excel 路径 ";
+Frame1.PushButton1.Title = "浏览...";
+Frame1.Label5.Title = " 几何集名称 ";
+DiagramFrame.Label6.Title = "Label6";
+DiagramFrame.Title = "分析图";

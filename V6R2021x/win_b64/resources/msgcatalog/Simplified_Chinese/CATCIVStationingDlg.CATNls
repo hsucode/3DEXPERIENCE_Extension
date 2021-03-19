@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title = "桩号点";
+Label1.Title = "线路曲线 ";
+Label2.Title = "起点 ";
+Label3.Title = "方向 ";
+Label4.Title = "距离 ";
+PushButton1.Title = "反转";

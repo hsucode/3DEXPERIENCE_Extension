@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+Title = "UDF Synchronization ";
+Excel.Title = "Excel";
+Excel.Excelpath.Title = "Excel File Path   : ";
+Excel.BrowseExcel.Title = "Browse...";
+Excel.Label1.Title = "Header Column  :";
+Excel.Label2.Title = "Header Row :";
+Excel.Label3.Title = "Parameters Number :";
+Excel.Label4.Title = "Start Writing Row :";
+Frame1.Title = "Setup";
+Frame1.SelAxis.Title = "UDF Sets  :";
+Frame1.PushButton1.Title = "PushButton1";
+Excel.Label5.Title = "Mode :";
+Excel.RadioButton1.Title = "Export";
+Excel.RadioButton2.Title = "Import";

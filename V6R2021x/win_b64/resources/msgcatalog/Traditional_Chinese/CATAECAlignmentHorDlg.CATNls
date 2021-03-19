@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+Title = "水平曲线 ";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 选择轴系 : ";
+Frame1.Label2.Title = " 导入数据 : ";
+Frame1.PushButton1.Title = " 导入 ";
+Frame1.PushButton2.Title = " 刷新预览";
+Frame1.Label3.Title = " 行 : ";
+Frame1.Label4.Title = " 列 : ";

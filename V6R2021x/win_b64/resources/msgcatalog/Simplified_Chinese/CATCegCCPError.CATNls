@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+ERR_AlignmentSetAlreadyExists="线路集已存在，无法在此处粘贴其他线路集";
+
+ERR_RoadNodeAlreadyExists="道路节点已存在，无法在此处粘贴其他道路节点";
+ERR_RailwayNodeAlreadyExists="铁路节点已存在，无法在此处粘贴其他铁路节点";
+ERR_DrainageNodeAlreadyExists="流域节点已存在，无法在此处粘贴其他流域节点";

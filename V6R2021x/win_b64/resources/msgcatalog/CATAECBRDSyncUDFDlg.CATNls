@@ -1,0 +1,10 @@
+Title = " CATAECBRDSyncUDFDlg";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = " Product : ";
+Frame1.Label2.Title = " Header Row :";
+Frame1.Label3.Title = " Start Row :";
+Frame1.Label4.Title = " Excel Path : ";
+Frame1.PushButton1.Title = "Browse...";
+Frame1.Label5.Title = " Geometrical Set Name : ";
+DiagramFrame.Label6.Title = "Label6";
+DiagramFrame.Title = "Diagram";

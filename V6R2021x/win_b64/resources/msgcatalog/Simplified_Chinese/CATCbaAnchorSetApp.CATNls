@@ -1,0 +1,22 @@
+<meta charset="UTF-8"/>
+//------------------------------------
+// CATCbaAnchorSetApp.CANls
+//------------------------------------
+
+InvalidInput="无效输入";
+
+BadInput.CmpName="类型“/P2”的对象类型“/P1”输入错误";
+BadInput.Deck.MoreThanOneCurve="/P1：包含至少两个“/P2”的输入曲线。只允许一个输入曲线。";
+BadInput.Deck.MoreThanOneAxis="/P1：包含至少两个“/P2”的输入第二轴系。只允许一个第二轴系。";
+BadInput.Deck.MoreThanOnePoint="/P1：包含至少两个“/P2”的输入点。只允许一个点。";
+
+BadInput.UnknownGeomInput="/P1：未识别几何图形输入“/P2”。";
+BadInput.UnknownMetaInput="/P1：未识别元输入“/P2”。识别的元输入为：“/P3”";
+BadInput.MetaWithoutDeckUdf="“/P1”的对象类型包含元输入“/P2”，它需要将所有桥板的用户特征作为输入。您需要将所有桥板实例化。";
+
+BadInput.PatternSupport.HasSpan="承板不均衡，且“/P2”的对象类型“/P1”需要元输入“/P3”作为输入。该输入在均衡模式下实例化承板用户特征时生成。选择没有此类输入的对象类型。";
+
+ProjectionError="“/P1”中发生错误。\n\n将特定特征投影到地形失败。\n\n选择其他地形。";
+
+ErrorMessage.PointType.StartStation="起点站类型无效。必须将其定义为桥梁起点。";
+ErrorMessage.PointType.EndStation="终点站类型无效。不得定义为“未定义”。";

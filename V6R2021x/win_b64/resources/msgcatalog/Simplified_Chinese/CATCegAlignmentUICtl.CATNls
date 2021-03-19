@@ -1,0 +1,30 @@
+<meta charset="UTF-8"/>
+
+CATCegAlignmentPanel_Edit="线路定义";
+CATCegAlignmentPanel_CreateVertical="垂直线路创建";
+CATCegAlignmentPanel_Create3D="3D 线路创建";
+
+PkPointsExpander.Label="点";
+PkPointsExpander.Tooltip="单击以查看点";
+
+AlignmentGroup.Alignment.Text="线路";
+HAlignmentGroup.HAlignment.Text="平面线路";
+HAlignmentGroup.HAlignmentEditButton.Tooltip="单击以编辑水平线路草图";
+VAlignmentGroup.VAlignment.Text="纵面线路";
+VAlignmentGroup.VAlignmentEditButton.Tooltip="单击以编辑垂直线路草图";
+3DSelectGroup.3DSelect.Text="其他 3D 对象";
+3DSelectGroup.TerrainSelect.Text="地形和地质";
+
+SelectHAlignment="选择水平线路";
+SelectAlignment="选择线路";
+
+ButtonsGroup.VAlignmentButton.Label="创建垂直线路";
+ButtonsGroup.VAlignmentButton.Tooltip="单击以创建垂直线路草图";
+ButtonsGroup.3DAlignmentButton.Label="创建 3D 线路";
+ButtonsGroup.3DAlignmentButton.Tooltip="单击以创建 3D 线路曲线";
+
+VerticalExists.Title="垂直线路创建";
+VerticalExists.Text="此水平线路已存在垂直线路。";
+VerticalExists.Info="是否要创建新的垂直线路？";
+
+TerrainSelection.OldCutAndFillFeature.Error="无法添加地形或地质。您必须升级所有线路的挖掘和填充元素。";

@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+Title = "道路附属";
+Label1.Title = "起点桩号 : ";
+Label2.Title = "左偏移 : ";
+Label4.Title = "终点桩号 : ";
+Label5.Title = "右偏移 : ";
+Label9.Title = "道路曲面 : ";
+Label10.Title = "道路骨架线 : ";
+Label8.Title = " ";
+Label6.Title = "明细类型 : ";
+Label7.Title = "显示类型 : ";
+RadioButton1.Title = "左侧";
+RadioButton2.Title = "右侧";
+RadioButton3.Title = "双侧";
+Label3.Title = "间距 : ";
+Label11.Title = "附属类型 : ";
+
+
+CurveLengthError.Title = "Error";
+CurveLengthError.Text = "桩号终点不能大于曲线长度";

@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// CATCbaUIPatternSupportCmd:CATNls
+//---------------------------------------------------------
+CATCbaUIPatternSupportCmd.Title="桥梁支持面阵列";
+CATCbaUIPatternSupportCmd.UndoTitle="桥梁支持面阵列";
+
+Warning.Title="阵列编辑";
+Warning.Text.SupportPattern="桥梁支持面阵列不可直接编辑。请启动桥梁设计助手进行编辑。";
+Warning.Text.DeckPattern="桥梁承板阵列不可直接编辑。请启动桥梁设计助手进行编辑。";

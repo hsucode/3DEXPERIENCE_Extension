@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+Title = "桥梁桩号点定义";
+Label1.Title = "线路 ";
+Label2.Title = "起点 ";
+Label3.Title = "起始桩号  ";
+
+msg.Title = "错误";
+msg.Text = "不得为空并且必须为实数";
+
+msg1.Title = "错误";
+msg1.Text = "创建失败";

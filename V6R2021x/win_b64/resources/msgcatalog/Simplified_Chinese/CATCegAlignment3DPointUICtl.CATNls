@@ -1,0 +1,15 @@
+<meta charset="UTF-8"/>
+
+Title="线路点";
+
+txtAlignment.Text="3D 线路";
+AlignmentEditorCtl.TooltipShortHelp="选择 3D 线路";
+ThirdAxis="Z 轴标高";
+
+txtProjection.Text="投影";
+
+ComboProject.TooltipShortHelp="选择投影模式\n - 无：在水平线路上\n - 在 3D 线路上\n - 在地形/图层上";
+ComboProject.None="无";
+ComboProject.Alignment3D="在 3D 线路上";
+ComboProject.Terrain="在地形上";
+ComboProject.Layer="在图层 /P1上";

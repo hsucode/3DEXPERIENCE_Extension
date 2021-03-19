@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+Title = "CATCIVRoadSign";
+TabContainer1.TabPage1.Frame1.Label1.Title = "Part ID";
+TabContainer1.TabPage1.Frame1.PushButton1.Title = "PushButton1";
+TabContainer1.TabPage1.Frame1.Label2.Title = "UDF Name ";
+TabContainer1.TabPage1.Frame1.Label3.Title = "Version";
+TabContainer1.TabPage1.Frame1.Title = "Template";
+TabContainer1.TabPage1.Frame2.Title = "Input";
+TabContainer1.TabPage1.Frame2.Label4.Title = "Curve";
+TabContainer1.TabPage1.Frame2.Label5.Title = "Stationing ";
+TabContainer1.TabPage1.Title = "Page1";
+TabContainer1.TabPage2.Title = "Page2";
+TabContainer1.TabPage3.Title = "Page3";
+TabContainer1.TabPage4.Title = "Page4";

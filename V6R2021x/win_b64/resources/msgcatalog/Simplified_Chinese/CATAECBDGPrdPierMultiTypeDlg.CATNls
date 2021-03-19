@@ -1,0 +1,13 @@
+<meta charset="UTF-8"/>
+
+Title = "基于轴系实例化多类型UDF";
+Excel.Excelpath.Title = "Excel文件路径   : ";
+Excel.BrowseExcel.Title = "浏览...";
+Excel.Title = "Excel";
+Frame1.Title = "轴系";
+Frame1.SelAxis.Title = "选择轴系集合 :";
+Frame1.PushButton1.Title = "PushButton1";
+Excel.Label3.Title = "起始列号 :";
+Excel.Label4.Title = "起始行号 :";
+Frame1.Label1.Title = "目标产品 ：";
+

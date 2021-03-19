@@ -1,0 +1,7 @@
+Title = "[十CATParmAnimationDlg,Title十一構ソチ－Parameters Animation Definition]";
+Frame1.Title = "[十CATParmAnimationDlg,Frame1.Title十一構ソチ－Setup]";
+Frame1.Label4.Title = "[十CATParmAnimationDlg,Frame1.Label4.Title十一構ソチ－Folder Path : ]";
+Frame1.Label2.Title = "[十CATParmAnimationDlg,Frame1.Label2.Title十一構ソチ－Param Interval : ]";
+Frame1.Label3.Title = "[十CATParmAnimationDlg,Frame1.Label3.Title十一構ソチ－Change Step : ]";
+Frame1.Label1.Title = "[十CATParmAnimationDlg,Frame1.Label1.Title十一構ソチ－Select Param : ]";
+Frame1.PushButton1.Title = "[十CATParmAnimationDlg,Frame1.PushButton1.Title十一構ソチ－Browse...]";

@@ -1,0 +1,13 @@
+<meta charset="UTF-8"/>
+
+Title = "UDF数据导出";
+Excel.Excelpath.Title = "Excel路径: ";
+Excel.BrowseExcel.Title = "浏览...";
+Excel.Title = "Excel";
+Frame1.Title = "设置";
+Excel.Label1.Title = "表头列号:";
+Excel.Label2.Title = "表头行号:";
+Frame1.SelAxis.Title = "UDF列表:";
+Frame1.PushButton1.Title = "PushButton1";
+Excel.Label3.Title = "参数数量:";
+Excel.Label4.Title = "写入行号:";

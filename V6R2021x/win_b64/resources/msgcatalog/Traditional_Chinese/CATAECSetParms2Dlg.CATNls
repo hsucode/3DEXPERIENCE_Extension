@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title = "添加参数";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "选择物体 ";
+Frame1.Label2.Title = "Text 路径 ";
+Frame1.PushButton1.Title = "浏览...";
+Frame1.PushButton2.Title = "添加...";

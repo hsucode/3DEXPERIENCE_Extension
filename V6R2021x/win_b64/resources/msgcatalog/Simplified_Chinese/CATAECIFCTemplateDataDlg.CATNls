@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "IFC框架数据输出";
+Frame1.Title = "设置";
+Frame1.Label2.Title = "选择产品 : ";
+Frame1.Label1.Title = "构件类型 : ";
+Frame1.Label3.Title = "Excel文件路径 : ";
+Frame1.SelectorList1.Title = "                              ";
+Frame1.RadioButton1.Title = "垂直输出";
+Frame1.Label4.Title = "输出格式: ";
+Frame1.RadioButton2.Title = "水平输出";
