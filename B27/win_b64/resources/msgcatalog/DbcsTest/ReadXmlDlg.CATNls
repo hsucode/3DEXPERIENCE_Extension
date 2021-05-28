@@ -1,0 +1,6 @@
+Frame011.Title = "[十ReadXmlDlg,Frame011.Title十一構ソチ－Content]";
+Title = "[十ReadXmlDlg,Title十一構ソチ－XML Operation]";
+Frame001.PushButtonSelectPath.Title = "[十ReadXmlDlg,ushButtonSelectPath.Title十一構ソチ－Select Path]";
+Frame004.PushButtonWriteXml.Title = "[十ReadXmlDlg,.PushButtonWriteXml.Title十一構ソチ－Write Xml]";
+Frame001.LabelDir.Title = "[十ReadXmlDlg,Frame001.LabelDir.Title十一構ソチ－Directory: ]";
+Frame004.PushButtonReadXml.Title = "[十ReadXmlDlg,4.PushButtonReadXml.Title十一構ソチ－Read Xml]";

@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "墙扣洞工具(圆形洞口)";
+Frame001.Title = "请选择元素,设置半径";
+Frame001.Label002.Title = "几何体:";
+Frame001.Label004.Title = "洞口轮廓线:";
+Frame001.Label006.Title = "洞口方向线:";
+Frame001.Label008.Title = "洞口半径:";
+// END WIZARD REPLACEMENT ZONE

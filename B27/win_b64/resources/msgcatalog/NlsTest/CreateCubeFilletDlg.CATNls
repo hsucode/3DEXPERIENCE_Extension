@@ -1,0 +1,7 @@
+Title = "[~CreateCubeFilletDlg,Title~ Créåte Cübe]";
+Label011.Title = "[~CreateCubeFilletDlg,Label011.Title~ mm]";
+LabelFirstLimit.Title = "[~CreateCubeFilletDlg,LabelFirstLimit.Title~ Fîrst Limit: ]";
+LabelRadius.Title = "[~CreateCubeFilletDlg,LabelRadius.Title~ Rådîüs: ]";
+Label012.Title = "[~CreateCubeFilletDlg,Label012.Title~ mm]";
+Label010.Title = "[~CreateCubeFilletDlg,Label010.Title~ mm]";
+LabelSecondLimit.Title = "[~CreateCubeFilletDlg,LabelSecondLimit.Title~ Sécønd Lîmit: ]";

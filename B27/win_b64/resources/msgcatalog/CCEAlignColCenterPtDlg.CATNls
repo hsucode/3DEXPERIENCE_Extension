@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "柱中心点齐";
+Frame002.Title = "对象";
+Frame002.Label004.Title = "目标柱：";
+Frame002.Label006.Title = "修正柱：";
+// END WIZARD REPLACEMENT ZONE

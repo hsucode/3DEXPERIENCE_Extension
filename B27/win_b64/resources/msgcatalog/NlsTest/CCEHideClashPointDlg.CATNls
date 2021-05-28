@@ -1,0 +1,5 @@
+Title = "[~CCEHideClashPointDlg,Title~ Shøw Hîdé Text]";
+Frame001.Title = "[~CCEHideClashPointDlg,Frame001.Title~ Ståtüs]";
+Frame001.ShowRadioB.Title = "[~CCEHideClashPointDlg,Frame001.ShowRadioB.Title~ Shøw]";
+Frame001.HideRadioB.Title = "[~CCEHideClashPointDlg,Frame001.HideRadioB.Title~ Hîdé]";
+Frame004.Title = "[~CCEHideClashPointDlg,Frame004.Title~ Z Vålüé Regîøn(mm)]";

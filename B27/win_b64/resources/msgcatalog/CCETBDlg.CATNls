@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "刷铜板PC程序";
+Frame001.Title = "请选择";
+Frame001.Label002.Title = "几何图形集名";
+// END WIZARD REPLACEMENT ZONE

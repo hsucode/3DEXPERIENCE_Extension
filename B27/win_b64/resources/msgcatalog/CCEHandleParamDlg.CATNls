@@ -1,0 +1,9 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "参数变更";
+Frame005.Title = "对象";
+ Frame005.PrdML.ColumnTitle1 = "名称                     ";
+ Frame005.PrdML.ColumnTitle2 = "状态     ";
+Frame007.Title = "数据更新电子表格";
+Frame007.Label009.Title = "路径：";
+Frame007.BtnOpen.Title = "选择";
+// END WIZARD REPLACEMENT ZONE

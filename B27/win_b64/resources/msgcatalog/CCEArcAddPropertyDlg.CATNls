@@ -1,0 +1,11 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "向Product批量添加自定义属性";
+Frame001.Title = "Product对象列表";
+Frame001.PushButton023.Title = "清空列表";
+Frame014.Title = "属性";
+Frame014.Label016.Title = "名称:";
+Frame014.Label018.Title = "  值:";
+Frame020.Title = "模式";
+Frame020.RadioButton021.Title = "新增或更新";
+Frame020.RadioButton022.Title = "清空";
+// END WIZARD REPLACEMENT ZONE

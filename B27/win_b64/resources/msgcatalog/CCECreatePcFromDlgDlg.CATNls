@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "创建单个PC或UDF";
+BApply = "重置输入元素";
+FrameFolderSelect.Title = "PC文件夹路径（默认为上次设置）";
+FrameFolderSelect.PcPathPBt.Title = "更改";
+FramePcTypeSelect.Title = "PC类型";
+FramePcLib.Title = "Pc库";
+// END WIZARD REPLACEMENT ZONE

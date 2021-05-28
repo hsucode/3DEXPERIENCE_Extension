@@ -1,0 +1,10 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "元素投影";
+Frame001.Title = "请选择需要投影的元素：";
+Frame001.Label002.Title = "元素名称  ";
+Frame004.Title = "请设置绝对标高：";
+Frame004.Label005.Title = "绝对标高：";
+// END WIZARD REPLACEMENT ZONE
+
+
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,3 @@
+Title = "[~CreateLineDlg,Title~ Créåte Lîne]";
+LabelFirstPoint.Title = "[~CreateLineDlg,LabelFirstPoint.Title~ Pøînt 1: ]";
+LabelSecondPoint.Title = "[~CreateLineDlg,LabelSecondPoint.Title~ Pøînt 2: ]";

@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "读取点集创建连接线";
+Frame001.Title = "输入点集";
+Frame001.Label004.Title = "几何图形集1:";
+Frame001.Label005.Title = "几何图形集2:";
+// END WIZARD REPLACEMENT ZONE

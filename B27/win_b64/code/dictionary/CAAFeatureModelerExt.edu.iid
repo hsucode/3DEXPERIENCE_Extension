@@ -1,0 +1,10 @@
+# COPYRIGHT Dassault Systemes 2002
+#======================================================================
+# IID definititions CAAFeatureExtensionExt.edu.iid
+#  associated with framework CAAFeatureExtensionExt.edu
+#======================================================================
+# DO NOT EDIT :: THE CAA2 WIZARDS WILL ADD CODE HERE
+{c36df0e2-d28e-11d4-9f14-00d0b7511dfd}     CAAIFmExtBiogNovel
+{7E653694-CFEA-497a-A21E-321A906FAFC7}	   CAAIFmExtNovel
+{E10A5DE4-4975-4017-A78E-013DEAF5DC4F}     CAAIFmExtHistNovel
+# END WIZARD EDITION ZONE

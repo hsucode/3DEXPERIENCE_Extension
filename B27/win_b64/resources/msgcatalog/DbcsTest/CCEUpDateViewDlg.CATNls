@@ -1,0 +1,11 @@
+Title = "[廫CCEUpDateViewDlg,Title廫堦峔僜僠亅刷新视图]";
+Frame009.Label013.Title = "[廫CCEUpDateViewDlg,Frame009.Label013.Title廫堦峔僜僠亅文件名称：]";
+Frame001.Title = "[廫CCEUpDateViewDlg,Frame001.Title廫堦峔僜僠亅字体]";
+Frame002.Label007.Title = "[廫CCEUpDateViewDlg,Frame002.Label007.Title廫堦峔僜僠亅X坐标：]";
+Frame001.Label004.Title = "[廫CCEUpDateViewDlg,Frame001.Label004.Title廫堦峔僜僠亅表格字号：]";
+Frame002.Title = "[廫CCEUpDateViewDlg,Frame002.Title廫堦峔僜僠亅表格位置]";
+Frame002.Label008.Title = "[廫CCEUpDateViewDlg,Frame002.Label008.Title廫堦峔僜僠亅Y坐标：]";
+Frame009.Title = "[廫CCEUpDateViewDlg,Frame009.Title廫堦峔僜僠亅面板信息另存]";
+Frame009.Label010.Title = "[廫CCEUpDateViewDlg,Frame009.Label010.Title廫堦峔僜僠亅路径：]";
+Frame009.BtnOpen.Title = "[廫CCEUpDateViewDlg,Frame009.BtnOpen.Title廫堦峔僜僠亅打开]";
+Frame001.Label003.Title = "[廫CCEUpDateViewDlg,Frame001.Label003.Title廫堦峔僜僠亅曲面编号字号：]";

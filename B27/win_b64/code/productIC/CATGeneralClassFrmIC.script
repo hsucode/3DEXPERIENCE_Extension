@@ -1,0 +1,39 @@
+<I.C SCRIPT>  WINNT 1
+M8 1 "" ""
+M1 4 CATGSMUseItf,1,3,1
+M1 2 System,1
+M1 2 ObjectModelerBase,1
+M1 2 ObjectSpecsLegacy,1
+M1 2 MecModInterfaces,1
+M1 2 GeometricObjects,1
+M1 2 GMModelInterfaces,1
+M1 2 SpaceAnalysisInterfaces,1
+M1 2 Visualization,1
+M1 2 DialogEngine,1
+M1 2 MechanicalModelerUI,1
+M1 2 ApplicationFrame,1
+M1 2 ObjectSpecsModeler,1
+M1 2 ObjectModelerNavigator,1
+M1 2 VisualizationBase,1
+M1 2 Dialog,1
+M1 2 Mathematics,1
+M1 2 KnowledgeModeler,1
+M1 2 KnowledgeInterfaces,1
+M1 2 CATMecModUseItf,1
+M1 2 CATMecModLiveUseItf,1
+M1 2 GSMInterfaces,1
+M1 2 MechanicalCommands,1
+M1 2 ProductStructure,1
+M1 2 MechanicalModeler,1
+M1 2 LiteralFeatures,1
+M1 2 InteractiveInterfaces,1
+M1 2 ComponentsCatalogsInterfaces,1
+M1 2 ConstraintModelerUI,1
+M1 2 ConstraintModeler,1
+M1 2 ConstraintModelerInterfaces,1
+M1 2 CATArrangementInterfaces,1
+M1 2 ProductStructureInterfaces,1
+M1 2 PartInterfaces,1
+M1 2 MeasureGeometryInterfaces,1
+M1 2 CATIPublicFunctions,1
+EOF

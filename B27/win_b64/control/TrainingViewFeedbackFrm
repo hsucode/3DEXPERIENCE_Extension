@@ -1,0 +1,9 @@
+.\win_b64\code\productIC\TrainingViewFeedbackFrmIC.required
+.\win_b64\code\lib\TrainingViewFeedbackM.lib
+.\win_b64\code\dictionary\YFAirventViewFeedbackFrm.dico
+.\win_b64\code\lib\TrainingViewFeedbackM.exp
+.\win_b64\code\bin\TrainingViewFeedbackM.dll
+.\win_b64\code\bin\TrainingViewFeedbackM.pdb
+.\win_b64\code\productIC\TrainingViewFeedbackFrmIC.xml
+.\win_b64\code\productIC\TrainingViewFeedbackFrmIC.script
+.\win_b64\control\TrainingViewFeedbackFrm

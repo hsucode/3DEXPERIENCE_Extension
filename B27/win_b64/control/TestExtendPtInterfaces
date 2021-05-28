@@ -1,0 +1,11 @@
+.\win_b64\code\lib\TestExtendPtItf.lib
+.\win_b64\code\productIC\TestExtendPtInterfacesIC.script
+.\win_b64\code\productIC\TestExtendPtInterfacesIC.xml
+.\win_b64\code\dictionary\TestExtendPtInterfaces.iid
+.\win_b64\code\productIC\TestExtendPtInterfacesIC.required
+.\win_b64\code\bin\TestExtendPtItf.dll
+.\win_b64\code\bin\TestExtendPtItf.pdb
+.\win_b64\code\lib\TestExtendPtItf.exp
+.\win_b64\code\dictionary\TestExtendPtInterfaces.dico
+.\win_b64\code\lib\TestExtendPtInterfacesUUID.lib
+.\win_b64\control\TestExtendPtInterfaces

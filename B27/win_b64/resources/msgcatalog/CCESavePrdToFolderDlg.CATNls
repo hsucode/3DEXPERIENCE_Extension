@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "保存Product到本地";
+Frame001.Title = "当前已选Product";
+Frame001.Label002.Title = "名称：";
+// END WIZARD REPLACEMENT ZONE

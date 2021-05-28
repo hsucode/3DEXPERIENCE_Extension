@@ -1,0 +1,10 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "施工时间定义";
+PrdFrame.Title = "对象";
+ PrdFrame.PrdML.ColumnTitle1 = "标识     ";
+ PrdFrame.PrdML.ColumnTitle2 = "名称           ";
+TimeFrame.Title = "时间信息";
+TimeFrame.STLabel.Title = "起始日期";
+TimeFrame.ETLabel.Title = "结束日期";
+TimeFrame.DTLabel.Title = "周期";
+// END WIZARD REPLACEMENT ZONE

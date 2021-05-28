@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "CGR转换工具3";
+Frame001.Title = "请选择文件保存路径:";
+Frame001.Label002.Title = "路径:";
+Frame001.PushButton004.Title = "浏览";
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,12 @@
+.\win_b64\code\bin\CommonFuncMod.pdb
+.\win_b64\code\bin\CommonFuncMod.dll
+.\win_b64\code\bin\CommonToolMod.dll
+.\win_b64\code\lib\CommonFuncMod.lib
+.\win_b64\code\lib\CommonToolMod.lib
+.\win_b64\code\bin\CommonToolMod.pdb
+.\win_b64\code\lib\CommonToolMod.exp
+.\win_b64\code\productIC\UtilityFWIC.required
+.\win_b64\code\productIC\UtilityFWIC.xml
+.\win_b64\code\lib\CommonFuncMod.exp
+.\win_b64\code\productIC\UtilityFWIC.script
+.\win_b64\control\UtilityFW

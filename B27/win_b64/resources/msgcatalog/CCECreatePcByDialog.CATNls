@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "遍历几何图形集创建多个PC或UDF";
+BApply = "重置输入条件";
+FrameFolderSelect.Title = "文件夹路径";
+FrameFolderSelect.PcPathPBt.Title = "选择";
+FramePcTypeSelect.Title = "PC类型";
+// END WIZARD REPLACEMENT ZONE

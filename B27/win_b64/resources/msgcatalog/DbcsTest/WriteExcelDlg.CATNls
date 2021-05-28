@@ -1,0 +1,4 @@
+Title = "[十WriteExcelDlg,Title十一構ソチ－Write Excel]";
+LabelSavePath.Title = "[十WriteExcelDlg,LabelSavePath.Title十一構ソチ－Directory :]";
+PushButtonSelectPath.Title = "[十WriteExcelDlg,ushButtonSelectPath.Title十一構ソチ－Select Path]";
+PushButtonReadXls.Title = "[十WriteExcelDlg,PushButtonReadXls.Title十一構ソチ－Read Excel]";

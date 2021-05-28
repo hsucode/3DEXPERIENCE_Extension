@@ -1,0 +1,4 @@
+BCancel = "[~CDlgModelViewer,BCancel~ 下一个]";
+Title = "[~CDlgModelViewer,Title~ 工序模型]";
+BPreview = "[~CDlgModelViewer,BPreview~ 删除]";
+BOK = "[~CDlgModelViewer,BOK~ 上一个]";

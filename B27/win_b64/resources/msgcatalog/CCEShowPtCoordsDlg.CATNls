@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "创建管路节点";
+Frame001.Title = "基准";
+Frame001.PtnAddAssimble.Title = "添加";
+Frame004.Title = "对象";
+Frame005.Title = "模式选择";
+Frame005.PrdNoteCheckB.Title = "装配出图模式";
+// END WIZARD REPLACEMENT ZONE

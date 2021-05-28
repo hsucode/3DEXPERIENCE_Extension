@@ -1,0 +1,9 @@
+.\win_b64\code\lib\TrainingTempM.exp
+.\win_b64\code\lib\TrainingTempM.lib
+.\win_b64\code\productIC\TrainingTempFrmIC.required
+.\win_b64\code\productIC\TrainingTempFrmIC.script
+.\win_b64\code\bin\TrainingTempM.pdb
+.\win_b64\code\dictionary\YFDatumTempFrm.dico
+.\win_b64\code\bin\TrainingTempM.dll
+.\win_b64\code\productIC\TrainingTempFrmIC.xml
+.\win_b64\control\TrainingTempFrm

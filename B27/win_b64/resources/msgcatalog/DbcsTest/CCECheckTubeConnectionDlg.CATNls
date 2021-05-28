@@ -1,0 +1,10 @@
+BCancel = "[\CCECheckTubeConnectionDlg,BCancel\ˆê\ƒ\ƒ`|¹Ø±Õ]";
+Title = "[\CCECheckTubeConnectionDlg,Title\ˆê\ƒ\ƒ`|¹ÜÂ·Á¬½Ó¼ì²é]";
+Frame001.Title = "[\CCECheckTubeConnectionDlg,Frame001.Title\ˆê\ƒ\ƒ`|Î´Ó/Á¢¹ÜÁ¬½ÓµÄºá¹Ü£º]";
+Frame001.MulErrorHorizontalTubes.ColumnTitle1 = "[\CCECheckTubeConnectionDlg,izontalTubes.ColumnTitle1\ˆê\ƒ\ƒ`|ĞòºÅ]";
+Frame001.MulErrorHorizontalTubes.ColumnTitle2 = "[\CCECheckTubeConnectionDlg,izontalTubes.ColumnTitle2\ˆê\ƒ\ƒ`|¹ÜÂ·]";
+Label002.Title = "[\CCECheckTubeConnectionDlg,Label002.Title\ˆê\ƒ\ƒ`|Á¢¹Ü£º]";
+Frame004.Title = "[\CCECheckTubeConnectionDlg,Frame004.Title\ˆê\ƒ\ƒ`|ºá¹Ü]";
+Frame004.BtnDeleteSelected.Title = "[\CCECheckTubeConnectionDlg,4.BtnDeleteSelected.Title\ˆê\ƒ\ƒ`|     É¾³ıËùÑ¡     ]";
+Frame004.BtnDeleteAll.Title = "[\CCECheckTubeConnectionDlg,ame004.BtnDeleteAll.Title\ˆê\ƒ\ƒ`|     É¾³ıËùÓĞ     ]";
+BOK = "[\CCECheckTubeConnectionDlg,BOK\ˆê\ƒ\ƒ`|¼ì²é]";

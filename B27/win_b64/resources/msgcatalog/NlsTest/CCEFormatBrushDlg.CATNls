@@ -1,0 +1,9 @@
+BtnDeleteAll.Title = "[~CCEFormatBrushDlg,BtnDeleteAll.Title~ 清空列表]";
+Title = "[~CCEFormatBrushDlg,Title~ 管线格式刷]";
+Frame001.Title = "[~CCEFormatBrushDlg,Frame001.Title~ 对象]";
+Frame009.CekBtnHight.Title = "[~CCEFormatBrushDlg,rame009.CekBtnHight.Title~ 标高   ]";
+Frame009.CekBtnRadius.Title = "[~CCEFormatBrushDlg,ame009.CekBtnRadius.Title~ 管径或截面尺寸   ]";
+BtnDeleteSelect.Title = "[~CCEFormatBrushDlg,BtnDeleteSelect.Title~ 删除所选]";
+Frame009.Title = "[~CCEFormatBrushDlg,Frame009.Title~ 格式化选项]";
+Frame009.CekBtn.Title = "[~CCEFormatBrushDlg,Frame009.CekBtn.Title~ 结构树位置   ]";
+Label010.Title = "[~CCEFormatBrushDlg,Label010.Title~       ]";

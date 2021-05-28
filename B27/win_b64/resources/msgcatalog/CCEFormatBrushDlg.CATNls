@@ -1,0 +1,11 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "管线格式刷";
+Frame001.Title = "对象";
+Frame009.Title = "格式化选项";
+Frame009.CekBtnHight.Title = "标高   ";
+Frame009.CekBtnRadius.Title = "管径或截面尺寸   ";
+Frame009.CekBtn.Title = "结构树位置   ";
+BtnDeleteSelect.Title = "删除所选";
+Label010.Title = "      ";
+BtnDeleteAll.Title = "清空列表";
+// END WIZARD REPLACEMENT ZONE

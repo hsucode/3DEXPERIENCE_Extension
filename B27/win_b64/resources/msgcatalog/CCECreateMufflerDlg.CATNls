@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "创建Muffler";
+UDF.Label002.Title = "    类型:";
+UDF.Label003.Title = "    材质:";
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "喷淋头修正工具";
+Frame001.Title = "选择";
+Frame001.Label002.Title = "喷淋头文件数目:";
+// END WIZARD REPLACEMENT ZONE

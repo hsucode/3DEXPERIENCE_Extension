@@ -1,0 +1,27 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "碰撞检查";
+BOK = "检查";
+BCancel = "关闭";
+Frame001.Title = "检查对象";
+Frame001.BtnDeleteAll.Title = "       删除所有       ";
+Frame001.BtnDeleteSelect.Title = " 删除所选 ";
+Frame002.Title = "发生碰撞零件";
+ Frame002.MltClash.ColumnTitle1 = "序号";
+ Frame002.MltClash.ColumnTitle2 = "类型";
+ Frame002.MltClash.ColumnTitle3 = "碰撞点坐标";
+ Frame002.MltClash.ColumnTitle4 = "零件1";
+ Frame002.MltClash.ColumnTitle5 = "零件2";
+Frame002.Frame008.Title = "圆管尺寸过滤设置";
+Frame002.Frame008.Label009.Title = "圆管尺寸(请在点击“检查”前设置，小于等于该值的管件碰撞将不予考虑)";
+Frame003.Title = "选项";
+Frame003.CekBtnInterClash.Title = "检查内部碰撞";
+Frame003.RadClash.Title = "碰撞";
+Frame003.RadConnect.Title = "接触       ";
+Frame003.RadClashAndConnect.Title = "接触+碰撞";
+Frame004.Title = "导出电子表格";
+Frame004.Label005.Title = "路  径：";
+Frame004.BtnOpen.Title = "选择";
+Frame007.Title = "导出Part文件";
+Frame007.BtnClashPart.Title = "生成碰撞信息Part文件";
+Frame007.STRBoolPB.Title = "结构件自动扣减";
+// END WIZARD REPLACEMENT ZONE

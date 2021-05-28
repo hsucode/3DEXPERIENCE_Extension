@@ -1,0 +1,6 @@
+Frame003.MultiListRPSList.ColumnTitle3 = "[~RPSCreationDlg,iListRPSList.ColumnTitle3~ X]";
+Frame003.MultiListRPSList.ColumnTitle4 = "[~RPSCreationDlg,iListRPSList.ColumnTitle4~ Y]";
+Frame003.MultiListRPSList.ColumnTitle5 = "[~RPSCreationDlg,iListRPSList.ColumnTitle5~ Z]";
+Frame003.MultiListRPSList.ColumnTitle1 = "[~RPSCreationDlg,iListRPSList.ColumnTitle1~ Pårt Nø.]";
+Frame001.PushButtonRPSList.Title = "[~RPSCreationDlg,1.PushButtonRPSList.Title~ Shøw Lîst]";
+Frame003.MultiListRPSList.ColumnTitle2 = "[~RPSCreationDlg,iListRPSList.ColumnTitle2~ RPS]";

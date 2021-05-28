@@ -1,0 +1,9 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "墙创建工具";
+Frame001.Title = "请选择元素：";
+Frame001.Label002.Title = "上标高面：";
+Frame001.Label004.Title = "下标高面：";
+Frame001.Label006.Title = "草图：";
+Frame008.Title = "请设置墙名称：";
+Frame008.Label009.Title = "墙名称：  ";
+// END WIZARD REPLACEMENT ZONE

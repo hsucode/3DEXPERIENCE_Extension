@@ -1,0 +1,9 @@
+CAAOsmBook = "[十CAAOsmCatalogSUNLS,CAAOsmBook十一構ソチ－Book]";
+CAAOsmLibrary = "[十CAAOsmCatalogSUNLS,CAAOsmLibrary十一構ソチ－Library]";
+CAAOsmAdd = "[十CAAOsmCatalogSUNLS,CAAOsmAdd十一構ソチ－Add]";
+CAAOsmSquare = "[十CAAOsmCatalogSUNLS,CAAOsmSquare十一構ソチ－Square]";
+CAAOsmDictionary = "[十CAAOsmCatalogSUNLS,CAAOsmDictionary十一構ソチ－Dictionary]";
+CAAOsmPublisher = "[十CAAOsmCatalogSUNLS,CAAOsmPublisher十一構ソチ－Publisher]";
+CAAOsmChapter = "[十CAAOsmCatalogSUNLS,CAAOsmChapter十一構ソチ－Chapter]";
+CAAOsmNovel = "[十CAAOsmCatalogSUNLS,CAAOsmNovel十一構ソチ－Novel]";
+CAAOsmBarCode = "[十CAAOsmCatalogSUNLS,CAAOsmBarCode十一構ソチ－BarCode]";

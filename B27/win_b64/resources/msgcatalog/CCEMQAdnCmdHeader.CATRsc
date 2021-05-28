@@ -1,0 +1,15 @@
+CCEMQAdnCmdHeader.CCERasSrfAlgNorDrtCmdHdr.Icon.Normal = "I_RasSrfAlgNorDrt";
+
+CCEMQAdnCmdHeader.CCECWRegroupCmdHdr.Icon.Normal = "I_CCECWRegroupCmd";  
+
+CCEMQAdnCmdHeader.RegroupCopperNet.Icon.Normal = "I_TBTW";  
+
+CCEMQAdnCmdHeader.FDTW.Icon.Normal = "I_FDTW";
+
+CCEMQAdnCmdHeader.LineSeperation.Icon.Normal = "I_LineSeperation";
+
+CCEMQAdnCmdHeader.TW.Icon.Normal = "I_TW";
+
+CCEMQAdnCmdHeader.LineParal.Icon.Normal = "I_LineParal";
+
+

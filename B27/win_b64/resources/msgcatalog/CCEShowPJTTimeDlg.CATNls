@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "显示进度";
+Frame001.Title = "选择状态";
+Frame001.ASRB.Title = "显示全部";
+Frame001.AHRB.Title = "隐藏全部";
+Frame001.SSTRB.Title = "显示某时间段";
+Frame001.HSTRB.Title = "隐藏某时间段";
+Frame002.Title = "时间段";
+Frame002.Label007.Title = "起始日期";
+Frame002.Label008.Title = "结束日期";
+// END WIZARD REPLACEMENT ZONE
+
+
+// END WIZARD REPLACEMENT ZONE

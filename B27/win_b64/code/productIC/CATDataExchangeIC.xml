@@ -1,0 +1,37 @@
+<?xml version='1.0' ?>
+<codeFramework xmlns = "http://www.3ds.ic" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "http://www.3ds.ic ICModel.xsd">
+  <prerequisite name = "System" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ApplicationFrame" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "DialogEngine" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "Dialog" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "KnowledgeInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectModelerBase" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectSpecsModeler" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "MecModInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "InteractiveInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "MechanicalModeler" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "MechanicalModelerUI" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "VisualizationBase" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "Mathematics" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectModelerNavigator" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "Visualization" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GMModelInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "TopologicalOperatorsLight" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "TopologicalOperators" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GSMInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "DraftingInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ProductStructureUI" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GeometricObjects" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "SketcherInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ProductStructure" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectModelerSystem" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "SpaceAnalysisInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "MeasureGeometryInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectSpecsLegacy" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GMOperatorsInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATMecModLiveUseItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATMecModUseItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATGSMUseItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "InfInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GeometricOperators" access = "Public" expose = "ExposePrereq"/>
+</codeFramework>

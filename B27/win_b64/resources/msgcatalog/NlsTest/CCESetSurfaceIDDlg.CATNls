@@ -1,0 +1,3 @@
+Title = "[~CCESetSurfaceIDDlg,Title~ 设置曲面ID]";
+Frame001.Label002.Title = "[~CCESetSurfaceIDDlg,Frame001.Label002.Title~ 曲面名称：]";
+Frame001.Label003.Title = "[~CCESetSurfaceIDDlg,Frame001.Label003.Title~ 曲面编号：]";

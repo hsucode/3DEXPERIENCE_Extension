@@ -1,0 +1,12 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "管路连接检查";
+BOK = "检查";
+BCancel = "关闭";
+Frame001.Title = "未与立管连接的横管：";
+ Frame001.MulErrorHorizontalTubes.ColumnTitle1 = "序号";
+ Frame001.MulErrorHorizontalTubes.ColumnTitle2 = "管路";
+Label002.Title = "立管：";
+Frame004.Title = "横管";
+Frame004.BtnDeleteAll.Title = "     删除所有     ";
+Frame004.BtnDeleteSelected.Title = "     删除所选     ";
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,5 @@
+Title = "[~DrwSetColorDlg,Title~ Sét Prøpertîes]";
+LabelObject.Title = "[~DrwSetColorDlg,LabelObject.Title~ Objéct:]";
+LabelColor.Title = "[~DrwSetColorDlg,LabelColor.Title~ Cølor:]";
+LabelLineThickness.Title = "[~DrwSetColorDlg,LabelLineThickness.Title~ Lîné TH:]";
+LabelLineType.Title = "[~DrwSetColorDlg,LabelLineType.Title~ Lîné Type:]";

@@ -1,0 +1,16 @@
+.\win_b64\code\bin\ktBasicServer.dll
+.\win_b64\code\productIC\ktSoftwareFWIC.xml
+.\win_b64\code\bin\ktExcelService.pdb
+.\win_b64\code\lib\ktBasicServer.lib
+.\win_b64\code\productIC\ktSoftwareFWIC.script
+.\win_b64\code\bin\ktGeneralPrtService.dll
+.\win_b64\code\lib\ktGeneralPrtService.lib
+.\win_b64\code\lib\ktBasicServer.exp
+.\win_b64\code\lib\ktExcelService.lib
+.\win_b64\code\productIC\ktSoftwareFWIC.required
+.\win_b64\code\bin\ktGeneralPrtService.pdb
+.\win_b64\code\bin\ktBasicServer.pdb
+.\win_b64\code\bin\ktExcelService.dll
+.\win_b64\code\lib\ktGeneralPrtService.exp
+.\win_b64\code\lib\ktExcelService.exp
+.\win_b64\control\ktSoftwareFW

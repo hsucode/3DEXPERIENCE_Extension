@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "复制UDF";
+Frame001.Title = "UDF对象";
+Frame001.Label002.Title = "名称:";
+Frame004.Title = "复制到几何图形集";
+Frame004.Label005.Title = "名称:";
+// END WIZARD REPLACEMENT ZONE

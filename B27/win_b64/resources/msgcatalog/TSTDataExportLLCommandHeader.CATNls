@@ -1,0 +1,62 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+// END WIZARD REPLACEMENT ZONE
+TSTDataExportLLCommandHeader.DataExport.Help = "Export UDF Data.....";
+TSTDataExportLLCommandHeader.DataExport.ShortHelp = "Export UDF Data.....";
+TSTDataExportLLCommandHeader.DataExport.LongHelp = "Export UDF Data.....";
+
+TSTDataExportLLCommandHeader.DataExportProduct.Help = "选择Product文件，导出Product下所有Part文件中UDF的相关信息(选择Excel的表头文件)";
+TSTDataExportLLCommandHeader.DataExportProduct.ShortHelp = "选择Product文件，导出Product下所有Part文件中UDF的相关信息(选择Excel的表头文件)";
+TSTDataExportLLCommandHeader.DataExportProduct.LongHelp = "选择Product文件，导出Product下所有Part文件中UDF的相关信息(选择Excel的表头文件)";
+
+TSTDataExportLLCommandHeader.DataCollection.Title     = "汇总选择Excel表格的相关信息，要求选择表格的第四列、第三列和第八列不为空";
+TSTDataExportLLCommandHeader.DataCollection.ShortHelp = "汇总选择Excel表格的相关信息，要求选择表格的第四列、第三列和第八列不为空";
+TSTDataExportLLCommandHeader.DataCollection.Help      = "汇总选择Excel表格的相关信息，要求选择表格的第四列、第三列和第八列不为空";
+TSTDataExportLLCommandHeader.DataCollection.LongHelp  = "汇总选择Excel表格的相关信息，要求选择表格的第四列、第三列和第八列不为空";
+
+TSTDataExportLLCommandHeader.CCECreatePcByDialogCmdHdr.Title     = "遍历几何图形集创建多个PC或UDF";
+TSTDataExportLLCommandHeader.CCECreatePcByDialogCmdHdr.ShortHelp = "遍历几何图形集创建多个PC或UDF";
+TSTDataExportLLCommandHeader.CCECreatePcByDialogCmdHdr.Help      = "遍历几何图形集创建多个PC或UDF";
+TSTDataExportLLCommandHeader.CCECreatePcByDialogCmdHdr.LongHelp  = "使用此命令遍历几何图形集创建多个PC或UDF";
+
+
+TSTDataExportLLCommandHeader.WallCreation.Title     = "利用草图创建墙";
+TSTDataExportLLCommandHeader.WallCreation.ShortHelp = "利用草图创建墙";
+TSTDataExportLLCommandHeader.WallCreation.Help      = "利用草图创建墙";
+TSTDataExportLLCommandHeader.WallCreation.LongHelp  = "使用此命令利用草图创建墙";
+
+TSTDataExportLLCommandHeader.CCECreatePcFromDlgCmdHdr.Title     = "创建单个PC或UDF";
+TSTDataExportLLCommandHeader.CCECreatePcFromDlgCmdHdr.ShortHelp = "创建单个PC或UDF";
+TSTDataExportLLCommandHeader.CCECreatePcFromDlgCmdHdr.Help      = "创建单个PC或UDF";
+TSTDataExportLLCommandHeader.CCECreatePcFromDlgCmdHdr.LongHelp  = "使用此命令创建单个PC或UDF";
+
+TSTDataExportLLCommandHeader.ElementProject.Title     = "投影相关线条到指定标高的面上";
+TSTDataExportLLCommandHeader.ElementProject.ShortHelp = "投影相关线条到指定标高的面上";
+TSTDataExportLLCommandHeader.ElementProject.Help      = "投影相关线条到指定标高的面上";
+TSTDataExportLLCommandHeader.ElementProject.LongHelp  = "使用此命令投影相关线条到指定标高的面上";
+
+TSTDataExportLLCommandHeader.WallHoleCreation.Title     = "墙扣洞工具(矩形)";
+TSTDataExportLLCommandHeader.WallHoleCreation.ShortHelp = "墙扣洞工具(矩形)";
+TSTDataExportLLCommandHeader.WallHoleCreation.Help      = "墙扣洞工具(矩形)";
+TSTDataExportLLCommandHeader.WallHoleCreation.LongHelp  = "墙扣洞工具(矩形)";
+
+TSTDataExportLLCommandHeader.WallHoleCirCreation.Title     = "墙扣洞工具(圆形)";
+TSTDataExportLLCommandHeader.WallHoleCirCreation.ShortHelp = "墙扣洞工具(圆形)";
+TSTDataExportLLCommandHeader.WallHoleCirCreation.Help      = "墙扣洞工具(圆形)";
+TSTDataExportLLCommandHeader.WallHoleCirCreation.LongHelp  = "墙扣洞工具(圆形)";
+
+TSTDataExportLLCommandHeader.CCEAlignColCenterPtCmdHdr.Title     = "柱中心对齐";
+TSTDataExportLLCommandHeader.CCEAlignColCenterPtCmdHdr.ShortHelp = "柱中心对齐";
+TSTDataExportLLCommandHeader.CCEAlignColCenterPtCmdHdr.Help      = "柱中心对齐";
+TSTDataExportLLCommandHeader.CCEAlignColCenterPtCmdHdr.LongHelp  = "柱中心对齐";
+
+
+TSTDataExportLLCommandHeader.ExcelDataCollection.Title     = "选择多个Excel表格，根据需要勾选汇总";
+TSTDataExportLLCommandHeader.ExcelDataCollection.ShortHelp = "选择多个Excel表格，根据需要勾选汇总";
+TSTDataExportLLCommandHeader.ExcelDataCollection.Help      = "选择多个Excel表格，根据需要勾选汇总";
+TSTDataExportLLCommandHeader.ExcelDataCollection.LongHelp  = "选择多个Excel表格，根据需要勾选汇总";
+
+TSTDataExportLLCommandHeader.CCEArcAddPropertyCmdHdr.Title     = "批量添加用户自定义属性";
+TSTDataExportLLCommandHeader.CCEArcAddPropertyCmdHdr.ShortHelp = "批量添加用户自定义属性";
+TSTDataExportLLCommandHeader.CCEArcAddPropertyCmdHdr.Help      = "批量添加用户自定义属性";
+TSTDataExportLLCommandHeader.CCEArcAddPropertyCmdHdr.LongHelp  = "批量添加用户自定义属性";
+

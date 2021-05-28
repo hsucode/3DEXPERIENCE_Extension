@@ -1,0 +1,14 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Frame004.Title = "选择管件及PC定位点";
+Frame004.Label005.Title = "管件数目：";
+Frame004.PushButton010.Title = "反转方向";
+Frame011.Title = "选择对象";
+Frame011.Label001.Title = "对象名称： ";
+Frame011.PushButton003.Title = "加载Excel";
+// END WIZARD REPLACEMENT ZONE
+
+
+// END WIZARD REPLACEMENT ZONE
+
+
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,12 @@
+.\win_b64\code\lib\ExcelHandler.exp
+.\win_b64\code\lib\ExcelHandler.lib
+.\win_b64\code\lib\SQLHandler.lib
+.\win_b64\code\bin\SQLHandler.pdb
+.\win_b64\code\bin\ExcelHandler.pdb
+.\win_b64\code\bin\ExcelHandler.dll
+.\win_b64\code\productIC\ExternalAppFWIC.xml
+.\win_b64\code\productIC\ExternalAppFWIC.script
+.\win_b64\code\productIC\ExternalAppFWIC.required
+.\win_b64\code\bin\SQLHandler.dll
+.\win_b64\code\lib\SQLHandler.exp
+.\win_b64\control\ExternalAppFW

@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Show Hide Text";
+Frame001.Title = "Status";
+Frame001.ShowRadioB.Title = "Show";
+Frame001.HideRadioB.Title = "Hide";
+Frame004.Title = "Z Value Region(mm)";
+// END WIZARD REPLACEMENT ZONE

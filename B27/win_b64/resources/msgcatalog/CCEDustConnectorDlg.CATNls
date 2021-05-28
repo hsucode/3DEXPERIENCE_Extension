@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Frame001.Title = "请选择各管件";
+Frame001.Label002.Title = "管件数量";
+Frame001.CheckButton1.Title = "直角";
+// END WIZARD REPLACEMENT ZONE

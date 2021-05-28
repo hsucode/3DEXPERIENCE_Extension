@@ -1,0 +1,11 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "CGR转换工具";
+Label001.Title = "路径:";
+PushButton003.Title = "浏览";
+Frame004.Title = "转换格式";
+Frame004.RadioButton005.Title = "Part";
+Frame004.RadioButton006.Title = "CGR";
+// END WIZARD REPLACEMENT ZONE
+
+
+// END WIZARD REPLACEMENT ZONE

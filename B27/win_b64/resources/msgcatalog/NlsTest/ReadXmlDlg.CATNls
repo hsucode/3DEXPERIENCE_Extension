@@ -1,0 +1,6 @@
+Frame011.Title = "[~ReadXmlDlg,Frame011.Title~ Cøntént]";
+Title = "[~ReadXmlDlg,Title~ XML Opéråtîøn]";
+Frame001.PushButtonSelectPath.Title = "[~ReadXmlDlg,ushButtonSelectPath.Title~ Sélect Påth]";
+Frame004.PushButtonWriteXml.Title = "[~ReadXmlDlg,.PushButtonWriteXml.Title~ Wrîté Xml]";
+Frame001.LabelDir.Title = "[~ReadXmlDlg,Frame001.LabelDir.Title~ Dîréctøry: ]";
+Frame004.PushButtonReadXml.Title = "[~ReadXmlDlg,4.PushButtonReadXml.Title~ Réåd Xml]";

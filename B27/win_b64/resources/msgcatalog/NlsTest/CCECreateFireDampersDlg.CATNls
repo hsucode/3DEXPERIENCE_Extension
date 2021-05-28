@@ -1,0 +1,3 @@
+Title = "[~CCECreateFireDampersDlg,Title~ 创建风管阀件]";
+Frame001.Title = "[~CCECreateFireDampersDlg,Frame001.Title~ PC]";
+Frame001.Label002.Title = "[~CCECreateFireDampersDlg,Frame001.Label002.Title~ 类型：]";

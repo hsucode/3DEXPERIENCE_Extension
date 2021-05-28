@@ -1,0 +1,8 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "创建风机盘管工具";
+Frame001.Title = "管对象";
+Frame001.Label002.Title = "Run 1:";
+PushButton006.Title = "反转方向";
+Frame007.Title = "选择";
+Frame007.CheckButton008.Title = "有回风管";
+// END WIZARD REPLACEMENT ZONE

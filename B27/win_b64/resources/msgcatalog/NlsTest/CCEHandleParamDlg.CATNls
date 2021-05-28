@@ -1,0 +1,7 @@
+Frame005.Title = "[~CCEHandleParamDlg,Frame005.Title~ 对象]";
+Title = "[~CCEHandleParamDlg,Title~ 参数变更]";
+Frame007.BtnOpen.Title = "[~CCEHandleParamDlg,Frame007.BtnOpen.Title~ 选择]";
+Frame007.Label009.Title = "[~CCEHandleParamDlg,Frame007.Label009.Title~ 路径：]";
+Frame005.PrdML.ColumnTitle1 = "[~CCEHandleParamDlg,ame005.PrdML.ColumnTitle1~ 名称                     ]";
+Frame005.PrdML.ColumnTitle2 = "[~CCEHandleParamDlg,ame005.PrdML.ColumnTitle2~ 状态     ]";
+Frame007.Title = "[~CCEHandleParamDlg,Frame007.Title~ 数据更新电子表格]";

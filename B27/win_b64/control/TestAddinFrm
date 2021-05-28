@@ -1,0 +1,9 @@
+.\win_b64\code\productIC\TestAddinFrmIC.script
+.\win_b64\code\productIC\TestAddinFrmIC.required
+.\win_b64\code\lib\TestAddinMod.exp
+.\win_b64\code\bin\TestAddinMod.pdb
+.\win_b64\code\bin\TestAddinMod.dll
+.\win_b64\code\lib\TestAddinMod.lib
+.\win_b64\code\productIC\TestAddinFrmIC.xml
+.\win_b64\code\dictionary\TestAddinFrm.dico
+.\win_b64\control\TestAddinFrm

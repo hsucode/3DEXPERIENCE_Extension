@@ -1,0 +1,5 @@
+Title = "[廫CCDIGetSrfAreaDlg,Title廫堦峔僜僠亅计算Surface面积出表]";
+Frame001.Title = "[廫CCDIGetSrfAreaDlg,Frame001.Title廫堦峔僜僠亅   ]";
+Frame001.BtnOpen.Title = "[廫CCDIGetSrfAreaDlg,Frame001.BtnOpen.Title廫堦峔僜僠亅浏览]";
+Frame001.Label006.Title = "[廫CCDIGetSrfAreaDlg,Frame001.Label006.Title廫堦峔僜僠亅 面所在几何图形集：]";
+Frame001.Label002.Title = "[廫CCDIGetSrfAreaDlg,Frame001.Label002.Title廫堦峔僜僠亅     Excel表保存路径：]";

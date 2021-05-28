@@ -1,0 +1,3 @@
+Title = "[~TXTReadCmd,Title~ TXT Réåd]";
+Frame008.PushButtonSelectFile.Title = "[~TXTReadCmd,ushButtonSelectFile.Title~ Sélect Fîle]";
+Frame004.PushButtonReadTXT.Title = "[~TXTReadCmd,4.PushButtonReadTXT.Title~ Réåd TXT]";

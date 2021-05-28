@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "创建结构树";
+Label002.Title = "数据路径：";
+Label005.Title = "模型路径：";
+BtnOpenModulePath.Title = "打开";
+BtnOpen.Title = "打开";
+// END WIZARD REPLACEMENT ZONE

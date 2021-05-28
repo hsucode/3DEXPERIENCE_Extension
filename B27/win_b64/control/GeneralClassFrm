@@ -1,0 +1,9 @@
+.\win_b64\code\lib\GeneralClassMod.exp
+.\win_b64\code\productIC\GeneralClassFrmIC.required
+.\win_b64\code\productIC\GeneralClassFrmIC.xml
+.\win_b64\code\lib\GeneralClassMod.lib
+.\win_b64\code\dictionary\GeneralClassFrm.dico
+.\win_b64\code\bin\GeneralClassMod.dll
+.\win_b64\code\bin\GeneralClassMod.pdb
+.\win_b64\code\productIC\GeneralClassFrmIC.script
+.\win_b64\control\GeneralClassFrm

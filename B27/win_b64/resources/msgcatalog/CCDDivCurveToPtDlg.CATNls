@@ -1,0 +1,15 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "在曲线上定义等距分割点";
+Frame009.Title = "输入元素";
+Frame009.Label004.Title = "曲线:";
+Frame009.Label014.Title = "距离:";
+Frame009.Label016.Title = "mm";
+Frame009.Label018.Title = "起点";
+Frame010.Title = "方向";
+Frame010.ReversePB.Title = "反转点的顺续";
+Frame017.Title = "端点";
+Frame017.CB1.Title = "包含起点";
+Frame022.Title = "等距点类型";
+Frame022.RBLine.Title = "直线距离";
+Frame022.RBCrv.Title = "曲线距离";
+// END WIZARD REPLACEMENT ZONE

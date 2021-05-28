@@ -1,0 +1,3 @@
+Title = "[~CopyPasteNewDlg,Title~ Cøpy And Påsté]";
+LabelDestinationToPaste.Title = "[~CopyPasteNewDlg,lDestinationToPaste.Title~ Déstînåtiøn: ]";
+LabelElemToCopy.Title = "[~CopyPasteNewDlg,LabelElemToCopy.Title~ Elément: ]";

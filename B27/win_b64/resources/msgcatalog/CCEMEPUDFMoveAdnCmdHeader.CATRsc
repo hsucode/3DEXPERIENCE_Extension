@@ -1,0 +1,9 @@
+ //UDFÒÆ¶¯¹¤¾ß 
+CCEMEPUDFMoveAdnCmdHeader.MoveInXYPlane.Icon.Normal = "I_MoveInXYPlane";
+CCEMEPUDFMoveAdnCmdHeader.MoveInZAxis.Icon.Normal = "I_MoveInZAxis";
+CCEMEPUDFMoveAdnCmdHeader.MoveInZAxis2.Icon.Normal = "I_MoveInZAxis2";
+CCEMEPUDFMoveAdnCmdHeader.FFRotation.Icon.Normal = "I_FFRotation";
+CCEMEPUDFMoveAdnCmdHeader.MoveAlongDirection.Icon.Normal = "I_MoveAlongDirection";
+CCEMEPUDFMoveAdnCmdHeader.RunSurfs.Icon.Normal = "I_RunSurfs";
+CCEMEPUDFMoveAdnCmdHeader.MoveInZAxis2.Icon.Normal = "I_MoveInZAxis2";
+CCEMEPUDFMoveAdnCmdHeader.CopyUdf.Icon.Normal = "I_CopyUDF";

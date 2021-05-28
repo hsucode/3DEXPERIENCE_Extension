@@ -1,0 +1,35 @@
+CCEMQAdnCmdHeader.CCERasSrfAlgNorDrtCmdHdr.Title     = "偏移平面交点";
+CCEMQAdnCmdHeader.CCERasSrfAlgNorDrtCmdHdr.ShortHelp = "偏移平面交点";
+CCEMQAdnCmdHeader.CCERasSrfAlgNorDrtCmdHdr.Help      = "偏移平面交点";
+CCEMQAdnCmdHeader.CCERasSrfAlgNorDrtCmdHdr.LongHelp  = "使用此命令偏移平面交点";
+
+
+CCEMQAdnCmdHeader.CCECWRegroupCmdHdr.Title     = "龙骨重组,调用PC";
+CCEMQAdnCmdHeader.CCECWRegroupCmdHdr.ShortHelp = "龙骨重组,调用PC";
+CCEMQAdnCmdHeader.CCECWRegroupCmdHdr.Help      = "龙骨重组,调用PC";
+CCEMQAdnCmdHeader.CCECWRegroupCmdHdr.LongHelp  = "龙骨重组,调用PC";
+
+CCEMQAdnCmdHeader.RegroupCopperNet.Title     = "铜板铜网,调用PC";
+CCEMQAdnCmdHeader.RegroupCopperNet.ShortHelp = "铜板铜网,调用PC";
+CCEMQAdnCmdHeader.RegroupCopperNet.Help      = "铜板铜网,调用PC";
+CCEMQAdnCmdHeader.RegroupCopperNet.LongHelp  = "铜板铜网,调用PC";
+
+CCEMQAdnCmdHeader.FDTW.Title     = "封顶铜网,调用PC";
+CCEMQAdnCmdHeader.FDTW.ShortHelp = "封顶铜网,调用PC";
+CCEMQAdnCmdHeader.FDTW.Help      = "封顶铜网,调用PC";
+CCEMQAdnCmdHeader.FDTW.LongHelp  = "封顶铜网,调用PC";
+
+CCEMQAdnCmdHeader.LineSeperation.Title     = "平分线";
+CCEMQAdnCmdHeader.LineSeperation.ShortHelp = "平分线";
+CCEMQAdnCmdHeader.LineSeperation.Help      = "平分线";
+CCEMQAdnCmdHeader.LineSeperation.LongHelp  = "平分线";
+
+CCEMQAdnCmdHeader.TW.Title     = "刷铜网";
+CCEMQAdnCmdHeader.TW.ShortHelp = "刷铜网";
+CCEMQAdnCmdHeader.TW.Help      = "刷铜网";
+CCEMQAdnCmdHeader.TW.LongHelp  = "刷铜网";
+
+CCEMQAdnCmdHeader.LineParal.Title     = "以430mm为步长平分线";
+CCEMQAdnCmdHeader.LineParal.ShortHelp = "以430mm为步长平分线";
+CCEMQAdnCmdHeader.LineParal.Help      = "以430mm为步长平分线";
+CCEMQAdnCmdHeader.LineParal.LongHelp  = "以430mm为步长平分线";

@@ -1,0 +1,5 @@
+Title = "[~CCEWElementProjectDlg,Title~ ÔªËØÍ¶Ó°]";
+Frame004.Label005.Title = "[~CCEWElementProjectDlg,Frame004.Label005.Title~ ¾ø¶Ô±ê¸ß£º]";
+Frame001.Title = "[~CCEWElementProjectDlg,Frame001.Title~ Ç/Ñ¡ÔñĞèÒªÍ¶Ó°µÄÔªËØ£º]";
+Frame004.Title = "[~CCEWElementProjectDlg,Frame004.Title~ Ç/ÉèÖÃ¾ø¶Ô±ê¸ß£º]";
+Frame001.Label002.Title = "[~CCEWElementProjectDlg,Frame001.Label002.Title~ ÔªËØÃû³Æ  ]";

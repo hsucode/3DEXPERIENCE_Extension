@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "面提取边线";
+Frame001.Title = "提取边线";
+Frame001.Label002.Title = "    面所在几何图形集:";
+Frame001.Label004.Title = "边线所在几何图形集:";
+// END WIZARD REPLACEMENT ZONE

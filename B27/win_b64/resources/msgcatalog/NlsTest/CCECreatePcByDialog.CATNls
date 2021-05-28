@@ -1,0 +1,5 @@
+BApply = "[~CCECreatePcByDialog,BApply~ ÖØÖÃÊäÈ/Ìõ¼ş]";
+Title = "[~CCECreatePcByDialog,Title~ ±éÀú¼¸ºÎÍ¼ĞÎ¼¯´´½¨¶à¸öPC»òUDF]";
+FrameFolderSelect.PcPathPBt.Title = "[~CCECreatePcByDialog,derSelect.PcPathPBt.Title~ Ñ¡Ôñ]";
+FrameFolderSelect.Title = "[~CCECreatePcByDialog,FrameFolderSelect.Title~ ÎÄ¼ş¼ĞÂ·¾¶]";
+FramePcTypeSelect.Title = "[~CCECreatePcByDialog,FramePcTypeSelect.Title~ PCÀàĞÍ]";

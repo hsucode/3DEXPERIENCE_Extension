@@ -1,0 +1,7 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "计算Surface面积出表";
+Frame001.Title = "   ";
+Frame001.Label002.Title = "     Excel表保存路径：";
+Frame001.BtnOpen.Title = "浏览";
+Frame001.Label006.Title = " 面所在几何图形集：";
+// END WIZARD REPLACEMENT ZONE

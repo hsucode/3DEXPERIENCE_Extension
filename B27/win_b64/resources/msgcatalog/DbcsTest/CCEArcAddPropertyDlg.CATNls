@@ -1,0 +1,9 @@
+Title = "[廫CCEArcAddPropertyDlg,Title廫堦峔僜僠亅向Product批量添加自定义属性]";
+Frame001.Title = "[廫CCEArcAddPropertyDlg,Frame001.Title廫堦峔僜僠亅Product对象列表]";
+Frame014.Title = "[廫CCEArcAddPropertyDlg,Frame014.Title廫堦峔僜僠亅属性]";
+Frame014.Label018.Title = "[廫CCEArcAddPropertyDlg,Frame014.Label018.Title廫堦峔僜僠亅  值:]";
+Frame020.Title = "[廫CCEArcAddPropertyDlg,Frame020.Title廫堦峔僜僠亅模式]";
+Frame001.PushButton023.Title = "[廫CCEArcAddPropertyDlg,me001.PushButton023.Title廫堦峔僜僠亅清空列表]";
+Frame020.RadioButton021.Title = "[廫CCEArcAddPropertyDlg,e020.RadioButton021.Title廫堦峔僜僠亅新增或更新]";
+Frame014.Label016.Title = "[廫CCEArcAddPropertyDlg,Frame014.Label016.Title廫堦峔僜僠亅名称:]";
+Frame020.RadioButton022.Title = "[廫CCEArcAddPropertyDlg,e020.RadioButton022.Title廫堦峔僜僠亅清空]";

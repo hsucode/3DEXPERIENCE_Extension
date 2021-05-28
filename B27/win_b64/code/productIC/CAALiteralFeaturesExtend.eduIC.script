@@ -1,0 +1,15 @@
+<I.C SCRIPT>  WINNT 3
+M8 1 "" ""
+M2 1 CAALiteralFeatures.tst
+M1 4 System,1,3,1
+M1 2 SystemTS,1
+M1 4 FeatureModelerExt,1,3,1
+M1 2 CATMecModLiveUseItf,1
+M1 2 CATMecModUseItf,1
+M1 4 KnowledgeInterfaces,1,3,1
+M1 2 CATPLMComponentInterfaces,1
+M1 2 CATPLMIntegrationAccess,1
+M1 2 CATPLMIdentificationAccess,1
+M1 2 CAALiteralFeatures.edu,2
+M1 4 SpecialAPI,1,3,1
+EOF

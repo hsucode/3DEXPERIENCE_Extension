@@ -1,0 +1,3 @@
+Title = "[~CCESavePrdToFolderDlg,Title~ 保存Pr鴇點t到本地]";
+Frame001.Title = "[~CCESavePrdToFolderDlg,Frame001.Title~ 当前已选Pr鴇點t]";
+Frame001.Label002.Title = "[~CCESavePrdToFolderDlg,Frame001.Label002.Title~ 名称：]";

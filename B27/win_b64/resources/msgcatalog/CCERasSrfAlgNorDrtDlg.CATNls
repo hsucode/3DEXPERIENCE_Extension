@@ -1,0 +1,13 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "沿法线方向偏移面";
+BOK = "偏移";
+BApply = "重置";
+BCancel = "取消";
+Frame001.Title = "面1";
+Frame005.Title = "面2";
+Frame013.Title = "面3";
+Frame015.Title = "交点";
+Frame016.Title = "偏移值（mm）";
+Frame017.Title = "PC路径";
+Frame017.BtnSTDOpen.Title = "选择";
+// END WIZARD REPLACEMENT ZONE

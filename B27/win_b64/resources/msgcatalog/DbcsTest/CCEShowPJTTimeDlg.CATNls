@@ -1,0 +1,9 @@
+Title = "[廫CCEShowPJTTimeDlg,Title廫堦峔僜僠亅显示进度]";
+Frame001.Title = "[廫CCEShowPJTTimeDlg,Frame001.Title廫堦峔僜僠亅选择状态]";
+Frame002.Label007.Title = "[廫CCEShowPJTTimeDlg,Frame002.Label007.Title廫堦峔僜僠亅起始日期]";
+Frame001.HSTRB.Title = "[廫CCEShowPJTTimeDlg,Frame001.HSTRB.Title廫堦峔僜僠亅隐藏某时间段]";
+Frame002.Title = "[廫CCEShowPJTTimeDlg,Frame002.Title廫堦峔僜僠亅时间段]";
+Frame002.Label008.Title = "[廫CCEShowPJTTimeDlg,Frame002.Label008.Title廫堦峔僜僠亅结束日期]";
+Frame001.ASRB.Title = "[廫CCEShowPJTTimeDlg,Frame001.ASRB.Title廫堦峔僜僠亅显示全部]";
+Frame001.AHRB.Title = "[廫CCEShowPJTTimeDlg,Frame001.AHRB.Title廫堦峔僜僠亅隐藏全部]";
+Frame001.SSTRB.Title = "[廫CCEShowPJTTimeDlg,Frame001.SSTRB.Title廫堦峔僜僠亅显示某时间段]";

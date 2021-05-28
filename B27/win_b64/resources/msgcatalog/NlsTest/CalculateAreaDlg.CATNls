@@ -1,0 +1,7 @@
+Title = "[~CalculateAreaDlg,Title~ A5工具]";
+Frame002.RB4.Title = "[~CalculateAreaDlg,Frame002.RB4.Title~ 手动]";
+Frame001.Title = "[~CalculateAreaDlg,Frame001.Title~ 选项]";
+Frame001.RB1.Title = "[~CalculateAreaDlg,Frame001.RB1.Title~ 模型更新     ]";
+Frame002.Title = "[~CalculateAreaDlg,Frame002.Title~ 更新模式]";
+Frame001.RB2.Title = "[~CalculateAreaDlg,Frame001.RB2.Title~ 模型更新+图纸输出]";
+Frame002.RB3.Title = "[~CalculateAreaDlg,Frame002.RB3.Title~ 自动           ]";
