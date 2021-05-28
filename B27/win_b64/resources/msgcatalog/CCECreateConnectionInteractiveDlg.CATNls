@@ -1,7 +1,0 @@
-// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
-Title = "创建管线连接件";
-Frame003.Title = "对象1";
-Frame005.Title = "对象2";
-Frame007.Title = "PC所在文件夹路径";
-Frame007.PcPathPBt.Title = "选择";
-// END WIZARD REPLACEMENT ZONE

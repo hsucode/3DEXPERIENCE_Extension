@@ -1,8 +1,0 @@
-	
-# Implementation of interfaces on a library to be able to add user functions
-CAALifDicoLibrary		CATIAddLibrary               libCAALifBasis
-CAALifDicoLibrary		CATICreateInstance			 libCAALifBasis
-
-# Implementation of CAAIMyFeatureEvents on a customer object to give an example of how subscribe to parameters events
-CAALifMyObjectEventsImpl            CAAILifMyObjectEvents	         libCAALifBasis
-

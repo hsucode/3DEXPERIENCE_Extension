@@ -1,8 +1,0 @@
-Title = "[十CDlgModifyProperties,Title十一構ソチ－ﾐﾞｸﾄBOMﾊ";
-Frame002.RadioButtonBefore.Title = "[十CDlgModifyProperties,2.RadioButtonBefore.Title十一構ソチ－InsertBefore]";
-FrameBOMTree.Title = "[十CDlgModifyProperties,FrameBOMTree.Title十一構ソチ－BOMﾊ";
-Frame002.RadioButtonChild.Title = "[十CDlgModifyProperties,02.RadioButtonChild.Title十一構ソチ－InsertAsChild]";
-Frame002.RadioButtonDelete.Title = "[十CDlgModifyProperties,2.RadioButtonDelete.Title十一構ソチ－Delete]";
-Frame002.RadioButtonAfter.Title = "[十CDlgModifyProperties,02.RadioButtonAfter.Title十一構ソチ－InsertAfter]";
-Frame002.LabelName.Title = "[十CDlgModifyProperties,Frame002.LabelName.Title十一構ソチ－ﾃ﨤ﾆ｣ｺ]";
-Frame002.RadioButtonChangeName.Title = "[十CDlgModifyProperties,dioButtonChangeName.Title十一構ソチ－Change Name]";

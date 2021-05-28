@@ -1,7 +1,0 @@
-Title = "[十RPSInsertDlg,Title十一構ソチ－RPS Insert]";
-Frame011.MultiListQueryResult.ColumnTitle2 = "[十RPSInsertDlg,tQueryResult.ColumnTitle2十一構ソチ－Part No.]";
-Frame011.MultiListQueryResult.ColumnTitle1 = "[十RPSInsertDlg,tQueryResult.ColumnTitle1十一構ソチ－Index]";
-LabelSelectPart.Title = "[十RPSInsertDlg,LabelSelectPart.Title十一構ソチ－Select Part:]";
-PushButtonQuery.Title = "[十RPSInsertDlg,PushButtonQuery.Title十一構ソチ－Query]";
-LabelRefPart.Title = "[十RPSInsertDlg,LabelRefPart.Title十一構ソチ－Reference: ]";
-BOK = "[十RPSInsertDlg,BOK十一構ソチ－Insert]";

@@ -1,9 +1,0 @@
-PushButtonCompass.Title = "[~TestDlg,PushButtonCompass.Title~ Cømpåss Tést]";
-LabelAxis.Title = "[~TestDlg,LabelAxis.Title~ Axîs:]";
-PushButtonProjection.Title = "[~TestDlg,ushButtonProjection.Title~ Prøjéctîon]";
-PushButton3DView.Title = "[~TestDlg,PushButton3DView.Title~ 3D Vîéw]";
-PushButtonCOUT.Title = "[~TestDlg,PushButtonCOUT.Title~ cøüt]";
-LabelLine.Title = "[~TestDlg,LabelLine.Title~ Lîné:]";
-PushButtonReadTxt.Title = "[~TestDlg,PushButtonReadTxt.Title~ Réåd Txt]";
-PushButtonMidPtOnSurf.Title = "[~TestDlg,shButtonMidPtOnSurf.Title~ Mîd Pt On Sürf]";
-PushButtonStartOtherCmd.Title = "[~TestDlg,ButtonStartOtherCmd.Title~ Stårt øthér command]";

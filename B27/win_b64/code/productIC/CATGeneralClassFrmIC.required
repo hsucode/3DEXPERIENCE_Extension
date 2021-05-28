@@ -1,19 +1,25 @@
 C:\Program Files\Dassault Systemes\B27\.\ApplicationFrame
 C:\Program Files\Dassault Systemes\B27\.\BSFBuildtimeData
+C:\Program Files\Dassault Systemes\B27\.\BasicTopologicalOpe
 C:\Program Files\Dassault Systemes\B27\.\CATArrangementInterfaces
 C:\Program Files\Dassault Systemes\B27\.\CATGSMUseItf
+C:\Program Files\Dassault Systemes\B27\.\CATIAApplicationFrame
 C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_XUS_Code\CAAV5BatchRun\.\CATIPublicFunctions
 C:\Program Files\Dassault Systemes\B27\.\CATMecModLiveUseItf
 C:\Program Files\Dassault Systemes\B27\.\CATMecModUseItf
+C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_XUS_Code\CAAV5BatchRun\.\CATXMLFrm
 C:\Program Files\Dassault Systemes\B27\.\ComponentsCatalogsInterfaces
 C:\Program Files\Dassault Systemes\B27\.\ConstraintModeler
 C:\Program Files\Dassault Systemes\B27\.\ConstraintModelerInterfaces
 C:\Program Files\Dassault Systemes\B27\.\ConstraintModelerUI
 C:\Program Files\Dassault Systemes\B27\.\Dialog
 C:\Program Files\Dassault Systemes\B27\.\DialogEngine
+C:\Program Files\Dassault Systemes\B27\.\DraftingInterfaces
 C:\Program Files\Dassault Systemes\B27\.\GMModelInterfaces
 C:\Program Files\Dassault Systemes\B27\.\GSMInterfaces
 C:\Program Files\Dassault Systemes\B27\.\GeometricObjects
+C:\Program Files\Dassault Systemes\B27\.\GeometricOperators
+C:\Program Files\Dassault Systemes\B27\.\InfInterfaces
 C:\Program Files\Dassault Systemes\B27\.\InteractiveInterfaces
 C:\Program Files\Dassault Systemes\B27\.\KnowledgeInterfaces
 C:\Program Files\Dassault Systemes\B27\.\KnowledgeModeler
@@ -24,6 +30,7 @@ C:\Program Files\Dassault Systemes\B27\.\MecModInterfaces
 C:\Program Files\Dassault Systemes\B27\.\MechanicalCommands
 C:\Program Files\Dassault Systemes\B27\.\MechanicalModeler
 C:\Program Files\Dassault Systemes\B27\.\MechanicalModelerUI
+C:\Program Files\Dassault Systemes\B27\.\NewTopologicalObjects
 C:\Program Files\Dassault Systemes\B27\.\ObjectModelerBase
 C:\Program Files\Dassault Systemes\B27\.\ObjectModelerNavigator
 C:\Program Files\Dassault Systemes\B27\.\ObjectSpecsLegacy
@@ -31,15 +38,17 @@ C:\Program Files\Dassault Systemes\B27\.\ObjectSpecsModeler
 C:\Program Files\Dassault Systemes\B27\.\PartInterfaces
 C:\Program Files\Dassault Systemes\B27\.\ProductStructure
 C:\Program Files\Dassault Systemes\B27\.\ProductStructureInterfaces
+C:\Program Files\Dassault Systemes\B27\.\SketcherInterfaces
 C:\Program Files\Dassault Systemes\B27\.\SpaceAnalysisInterfaces
 C:\Program Files\Dassault Systemes\B27\.\System
+C:\Program Files\Dassault Systemes\B27\.\TopologicalOperators
+C:\Program Files\Dassault Systemes\B27\.\VPMInterfaces
 C:\Program Files\Dassault Systemes\B27\.\Visualization
 C:\Program Files\Dassault Systemes\B27\.\VisualizationBase
 C:\Program Files\Dassault Systemes\B27\.\AdvancedMathematics
 C:\Program Files\Dassault Systemes\B27\.\AdvancedTopologicalOpe
 C:\Program Files\Dassault Systemes\B27\.\AdvancedTopologicalOpeLight
 C:\Program Files\Dassault Systemes\B27\.\AutomationInterfaces
-C:\Program Files\Dassault Systemes\B27\.\BasicTopologicalOpe
 C:\Program Files\Dassault Systemes\B27\.\BatchInfrastructure
 C:\Program Files\Dassault Systemes\B27\.\CAT3DXmlInterfaces
 C:\Program Files\Dassault Systemes\B27\.\CATAssemblyInterfaces
@@ -52,7 +61,6 @@ C:\Program Files\Dassault Systemes\B27\.\CATElfiniOpenSoftware
 C:\Program Files\Dassault Systemes\B27\.\CATFuzzyOperators
 C:\Program Files\Dassault Systemes\B27\.\CATGSMIDLItf
 C:\Program Files\Dassault Systemes\B27\.\CATGraphicProperties
-C:\Program Files\Dassault Systemes\B27\.\CATIAApplicationFrame
 C:\Program Files\Dassault Systemes\B27\.\CATIADataBasics
 C:\Program Files\Dassault Systemes\B27\.\CATIADataMacFortran
 C:\Program Files\Dassault Systemes\B27\.\CATImmWtpInterfaces
@@ -90,7 +98,6 @@ C:\Program Files\Dassault Systemes\B27\.\CurveBasedTopoOperators
 C:\Program Files\Dassault Systemes\B27\.\DCM3D
 C:\Program Files\Dassault Systemes\B27\.\DMAPSInterfaces
 C:\Program Files\Dassault Systemes\B27\.\DataCommonProtocolUse
-C:\Program Files\Dassault Systemes\B27\.\DraftingInterfaces
 C:\Program Files\Dassault Systemes\B27\.\FeatureCommands
 C:\Program Files\Dassault Systemes\B27\.\FileMenu
 C:\Program Files\Dassault Systemes\B27\.\FreeFormOperators
@@ -101,11 +108,9 @@ C:\Program Files\Dassault Systemes\B27\.\GMPolyOperators
 C:\Program Files\Dassault Systemes\B27\.\GenericNaming
 C:\Program Files\Dassault Systemes\B27\.\GenericNamingIntegration
 C:\Program Files\Dassault Systemes\B27\.\GeometricObjectsCGM
-C:\Program Files\Dassault Systemes\B27\.\GeometricOperators
 C:\Program Files\Dassault Systemes\B27\.\GeometryVisualization
 C:\Program Files\Dassault Systemes\B27\.\Graph
 C:\Program Files\Dassault Systemes\B27\.\HLRBase
-C:\Program Files\Dassault Systemes\B27\.\InfInterfaces
 C:\Program Files\Dassault Systemes\B27\.\LCCommon
 C:\Program Files\Dassault Systemes\B27\.\LiteralsEditor
 C:\Program Files\Dassault Systemes\B27\.\Mainwin
@@ -115,7 +120,6 @@ C:\Program Files\Dassault Systemes\B27\.\MechanicalModelerLive
 C:\Program Files\Dassault Systemes\B27\.\Multimedia
 C:\Program Files\Dassault Systemes\B27\.\Navigator2Interfaces
 C:\Program Files\Dassault Systemes\B27\.\NavigatorInterfaces
-C:\Program Files\Dassault Systemes\B27\.\NewTopologicalObjects
 C:\Program Files\Dassault Systemes\B27\.\ObjectModelerBaseUI
 C:\Program Files\Dassault Systemes\B27\.\ObjectModelerCATIA
 C:\Program Files\Dassault Systemes\B27\.\ObjectModelerCATSDM
@@ -141,7 +145,6 @@ C:\Program Files\Dassault Systemes\B27\.\SDMSTEPForm
 C:\Program Files\Dassault Systemes\B27\.\SGMOperatorsInterfaces
 C:\Program Files\Dassault Systemes\B27\.\SIMInterfaces
 C:\Program Files\Dassault Systemes\B27\.\SimulationInterfaces
-C:\Program Files\Dassault Systemes\B27\.\SketcherInterfaces
 C:\Program Files\Dassault Systemes\B27\.\SketcherToolsUI
 C:\Program Files\Dassault Systemes\B27\.\SpecialAPI
 C:\Program Files\Dassault Systemes\B27\.\SurfacicGeoOperators
@@ -149,7 +152,6 @@ C:\Program Files\Dassault Systemes\B27\.\SurfacicInfrastructure
 C:\Program Files\Dassault Systemes\B27\.\SurfacicMathematics
 C:\Program Files\Dassault Systemes\B27\.\SurfacicTopoOperators
 C:\Program Files\Dassault Systemes\B27\.\Tessellation
-C:\Program Files\Dassault Systemes\B27\.\TopologicalOperators
 C:\Program Files\Dassault Systemes\B27\.\TopologicalOperatorsLight
 C:\Program Files\Dassault Systemes\B27\.\VBA
 C:\Program Files\Dassault Systemes\B27\.\VENFORTRAN

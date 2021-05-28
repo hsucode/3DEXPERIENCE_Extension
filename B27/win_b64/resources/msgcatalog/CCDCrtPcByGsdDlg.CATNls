@@ -1,8 +1,0 @@
-// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
-Title = "创建PowerCopy";
-Frame001.Title = "  输入条件";
-Frame001.Label007.Title = "几何图形集名称:";
-Frame001.Label010.Title = "            每组个数:";
-Frame016.Title = "PowerCopy";
-Frame016.PushButton004.Title = "加载路径";
-// END WIZARD REPLACEMENT ZONE

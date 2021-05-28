@@ -1,6 +1,0 @@
-PushButton006.Title = "[~CCECreateFCUDlg,PushButton006.Title~ 反转方向]";
-Title = "[~CCECreateFCUDlg,Title~ 创建风机盘管工具]";
-Frame001.Title = "[~CCECreateFCUDlg,Frame001.Title~ 管对象]";
-Frame007.CheckButton008.Title = "[~CCECreateFCUDlg,e007.CheckButton008.Title~ 有回风管]";
-Frame001.Label002.Title = "[~CCECreateFCUDlg,Frame001.Label002.Title~ R黱 1:]";
-Frame007.Title = "[~CCECreateFCUDlg,Frame007.Title~ 选择]";

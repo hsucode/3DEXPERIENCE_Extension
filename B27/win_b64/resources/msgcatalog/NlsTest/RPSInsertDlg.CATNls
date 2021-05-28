@@ -1,7 +1,0 @@
-Title = "[~RPSInsertDlg,Title~ RPS Insért]";
-Frame011.MultiListQueryResult.ColumnTitle2 = "[~RPSInsertDlg,tQueryResult.ColumnTitle2~ Pårt Nø.]";
-Frame011.MultiListQueryResult.ColumnTitle1 = "[~RPSInsertDlg,tQueryResult.ColumnTitle1~ Indéx]";
-LabelSelectPart.Title = "[~RPSInsertDlg,LabelSelectPart.Title~ Sélect Pårt:]";
-PushButtonQuery.Title = "[~RPSInsertDlg,PushButtonQuery.Title~ Qüéry]";
-LabelRefPart.Title = "[~RPSInsertDlg,LabelRefPart.Title~ Réference: ]";
-BOK = "[~RPSInsertDlg,BOK~ Insért]";

@@ -1,8 +1,0 @@
-Title = "[~CCEAddPJTTimeDlg,Title~ 施工时间定义]";
-PrdFrame.Title = "[~CCEAddPJTTimeDlg,PrdFrame.Title~ 对象]";
-PrdFrame.PrdML.ColumnTitle2 = "[~CCEAddPJTTimeDlg,dFrame.PrdML.ColumnTitle2~ 名称           ]";
-TimeFrame.STLabel.Title = "[~CCEAddPJTTimeDlg,TimeFrame.STLabel.Title~ 起始日期]";
-TimeFrame.Title = "[~CCEAddPJTTimeDlg,TimeFrame.Title~ 时间信息]";
-TimeFrame.DTLabel.Title = "[~CCEAddPJTTimeDlg,TimeFrame.DTLabel.Title~ 周期]";
-PrdFrame.PrdML.ColumnTitle1 = "[~CCEAddPJTTimeDlg,dFrame.PrdML.ColumnTitle1~ 标识     ]";
-TimeFrame.ETLabel.Title = "[~CCEAddPJTTimeDlg,TimeFrame.ETLabel.Title~ 结束日期]";

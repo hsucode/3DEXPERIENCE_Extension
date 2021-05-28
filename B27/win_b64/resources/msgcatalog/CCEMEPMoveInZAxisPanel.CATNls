@@ -1,7 +1,0 @@
-// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
-Title = "UDF沿着Z轴移动";
-Frame001.Title = "请选择UDF对象";
-Frame001.Label002.Title = "UDF个数:";
-Frame007.Title = "请输入参数";
-Frame007.Label008.Title = "相对标高值:";
-// END WIZARD REPLACEMENT ZONE

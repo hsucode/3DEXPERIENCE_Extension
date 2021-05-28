@@ -1,4 +1,0 @@
-Title = "[~WriteExcelDlg,Title~ Wrîté Excel]";
-LabelSavePath.Title = "[~WriteExcelDlg,LabelSavePath.Title~ Dîréctøry :]";
-PushButtonSelectPath.Title = "[~WriteExcelDlg,ushButtonSelectPath.Title~ Sélect Påth]";
-PushButtonReadXls.Title = "[~WriteExcelDlg,PushButtonReadXls.Title~ Réåd Excel]";

@@ -1,9 +1,0 @@
-PushButtonCompass.Title = "[十TestDlg,PushButtonCompass.Title十一構ソチ－Compass Test]";
-LabelAxis.Title = "[十TestDlg,LabelAxis.Title十一構ソチ－Axis:]";
-PushButtonProjection.Title = "[十TestDlg,ushButtonProjection.Title十一構ソチ－Projection]";
-PushButton3DView.Title = "[十TestDlg,PushButton3DView.Title十一構ソチ－3D View]";
-PushButtonCOUT.Title = "[十TestDlg,PushButtonCOUT.Title十一構ソチ－cout]";
-LabelLine.Title = "[十TestDlg,LabelLine.Title十一構ソチ－Line:]";
-PushButtonReadTxt.Title = "[十TestDlg,PushButtonReadTxt.Title十一構ソチ－Read Txt]";
-PushButtonMidPtOnSurf.Title = "[十TestDlg,shButtonMidPtOnSurf.Title十一構ソチ－Mid Pt On Surf]";
-PushButtonStartOtherCmd.Title = "[十TestDlg,ButtonStartOtherCmd.Title十一構ソチ－Start other command]";

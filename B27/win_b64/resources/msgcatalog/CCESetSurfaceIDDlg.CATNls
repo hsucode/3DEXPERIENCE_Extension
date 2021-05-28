@@ -1,5 +1,0 @@
-// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
-Title = "设置曲面ID";
-Frame001.Label002.Title = "曲面名称：";
-Frame001.Label003.Title = "曲面编号：";
-// END WIZARD REPLACEMENT ZONE

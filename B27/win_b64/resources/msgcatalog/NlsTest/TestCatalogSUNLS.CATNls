@@ -1,7 +1,0 @@
-CAAOsmBook = "[~TestCatalogSUNLS,CAAOsmBook~ Bøok]";
-CAAOsmAdd = "[~TestCatalogSUNLS,CAAOsmAdd~ Add]";
-CAAOsmSquare = "[~TestCatalogSUNLS,CAAOsmSquare~ Sqüåré]";
-CAAOsmDictionary = "[~TestCatalogSUNLS,CAAOsmDictionary~ Dîctiønåry]";
-CAAOsmPublisher = "[~TestCatalogSUNLS,CAAOsmPublisher~ Püblîshér]";
-CAAOsmChapter = "[~TestCatalogSUNLS,CAAOsmChapter~ Chåptér]";
-CAAOsmNovel = "[~TestCatalogSUNLS,CAAOsmNovel~ Nøvél]";

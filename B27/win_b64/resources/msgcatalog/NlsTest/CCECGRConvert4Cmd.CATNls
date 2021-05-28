@@ -1,6 +1,0 @@
-Title = "[~CCECGRConvert4Cmd,Title~ CGR转换工具]";
-Frame004.RadioButton006.Title = "[~CCECGRConvert4Cmd,e004.RadioButton006.Title~ CGR]";
-Frame004.Title = "[~CCECGRConvert4Cmd,Frame004.Title~ 转换格式]";
-PushButton003.Title = "[~CCECGRConvert4Cmd,PushButton003.Title~ 浏览]";
-Frame004.RadioButton005.Title = "[~CCECGRConvert4Cmd,e004.RadioButton005.Title~ P錼t]";
-Label001.Title = "[~CCECGRConvert4Cmd,Label001.Title~ 路径:]";

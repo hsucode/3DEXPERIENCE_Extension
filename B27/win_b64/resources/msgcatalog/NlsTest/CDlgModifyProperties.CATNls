@@ -1,8 +1,0 @@
-Title = "[~CDlgModifyProperties,Title~ ÐÞ¸ÄBOMÊ÷]";
-Frame002.RadioButtonBefore.Title = "[~CDlgModifyProperties,2.RadioButtonBefore.Title~ InsértBeføre]";
-FrameBOMTree.Title = "[~CDlgModifyProperties,FrameBOMTree.Title~ BOMÊ÷]";
-Frame002.RadioButtonChild.Title = "[~CDlgModifyProperties,02.RadioButtonChild.Title~ InsértAsChîld]";
-Frame002.RadioButtonDelete.Title = "[~CDlgModifyProperties,2.RadioButtonDelete.Title~ Délete]";
-Frame002.RadioButtonAfter.Title = "[~CDlgModifyProperties,02.RadioButtonAfter.Title~ InsértAfter]";
-Frame002.LabelName.Title = "[~CDlgModifyProperties,Frame002.LabelName.Title~ Ãû³Æ£º]";
-Frame002.RadioButtonChangeName.Title = "[~CDlgModifyProperties,dioButtonChangeName.Title~ Chångé Name]";

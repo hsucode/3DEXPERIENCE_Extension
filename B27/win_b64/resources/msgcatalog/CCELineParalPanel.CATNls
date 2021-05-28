@@ -1,6 +1,0 @@
-// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
-Title = "元素平移工具";
-Frame001.Title = "请选择相关元素";
-Frame001.Label002.Title = "面";
-Frame001.Label004.Title = "线条  ";
-// END WIZARD REPLACEMENT ZONE

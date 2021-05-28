@@ -1,5 +1,0 @@
-CCEShapeAdnCmdHeader.CCESetSurfaceIDCmdHdr.Icon.Normal = "I_CCESingle";
-CCEShapeAdnCmdHeader.CCEHideIDCmdHdr.Icon.Normal = "I_CCEHide";
-CCEShapeAdnCmdHeader.CCEShowIDCmdHdr.Icon.Normal = "I_CCEShow";
-CCEShapeAdnCmdHeader.CCESetGroupIDCmdHdr.Icon.Normal = "I_CCEGroup";
-CCEShapeAdnCmdHeader.CCEClearAllIDCmdHdr.Icon.Normal = "I_CCEClearAll";

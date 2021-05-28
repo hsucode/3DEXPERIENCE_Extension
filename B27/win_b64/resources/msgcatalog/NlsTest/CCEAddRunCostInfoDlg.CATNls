@@ -1,8 +1,0 @@
-Frame005.Title = "[~CCEAddRunCostInfoDlg,Frame005.Title~ 错误日志保存文件夹路径]";
-Title = "[~CCEAddRunCostInfoDlg,Title~ 管线赋造价属性]";
-Frame001.PrdML.ColumnTitle2 = "[~CCEAddRunCostInfoDlg,ame001.PrdML.ColumnTitle2~      Pr鴇點t名称     ]";
-Frame001.Title = "[~CCEAddRunCostInfoDlg,Frame001.Title~ 对象]";
-Frame005.BtnOpen.Title = "[~CCEAddRunCostInfoDlg,Frame005.BtnOpen.Title~ 选择]";
-Frame004.Title = "[~CCEAddRunCostInfoDlg,Frame004.Title~ 赋造价信息Exc閘路径]";
-Frame001.PrdML.ColumnTitle1 = "[~CCEAddRunCostInfoDlg,ame001.PrdML.ColumnTitle1~       编号     ]";
-Frame004.BtnSTDOpen.Title = "[~CCEAddRunCostInfoDlg,Frame004.BtnSTDOpen.Title~ 选择]";

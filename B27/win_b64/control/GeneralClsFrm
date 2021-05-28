@@ -1,9 +1,0 @@
-.\win_b64\code\productIC\GeneralClsFrmIC.script
-.\win_b64\code\productIC\GeneralClsFrmIC.required
-.\win_b64\code\dictionary\STWeldingCheckGeneralClsFrm.dico
-.\win_b64\code\lib\GeneralClsM.exp
-.\win_b64\code\productIC\GeneralClsFrmIC.xml
-.\win_b64\code\bin\GeneralClsM.dll
-.\win_b64\code\lib\GeneralClsM.lib
-.\win_b64\code\bin\GeneralClsM.pdb
-.\win_b64\control\GeneralClsFrm

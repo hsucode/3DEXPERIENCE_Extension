@@ -1,6 +1,0 @@
-BApply = "[~CCECreatePcFromDlgDlg,BApply~ ÖØÖÃÊäÈ/ÔªËØ]";
-FramePcLib.Title = "[~CCECreatePcFromDlgDlg,FramePcLib.Title~ Pc¿â]";
-Title = "[~CCECreatePcFromDlgDlg,Title~ ´´½¨µ¥¸öPC»òUDF]";
-FrameFolderSelect.PcPathPBt.Title = "[~CCECreatePcFromDlgDlg,derSelect.PcPathPBt.Title~ ¸ü¸Ä]";
-FrameFolderSelect.Title = "[~CCECreatePcFromDlgDlg,FrameFolderSelect.Title~ PCÎÄ¼ş¼ĞÂ·¾¶£¨Ä¬ÈÏÎªÉÏ´ÎÉèÖÃ£©]";
-FramePcTypeSelect.Title = "[~CCECreatePcFromDlgDlg,FramePcTypeSelect.Title~ PCÀàĞÍ]";

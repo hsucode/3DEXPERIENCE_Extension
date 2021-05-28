@@ -1,6 +1,0 @@
-Frame007.PushButtonBrowser.Title = "[~CDlgOutputFile,7.PushButtonBrowser.Title~ 浏览]";
-Title = "[~CDlgOutputFile,Title~ 装配工艺]";
-Frame006.CheckButtonProcess.Title = "[~CDlgOutputFile,.CheckButtonProcess.Title~ 装配工艺卡]";
-Frame006.CheckButtonParts.Title = "[~CDlgOutputFile,06.CheckButtonParts.Title~ 配套明细表]";
-Frame006.CheckButtonProcessEqui.Title = "[~CDlgOutputFile,ckButtonProcessEqui.Title~ 工艺装备明细表]";
-BOK = "[~CDlgOutputFile,BOK~ 输出]";

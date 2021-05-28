@@ -36,4 +36,14 @@ M1 2 ProductStructureInterfaces,1
 M1 2 PartInterfaces,1
 M1 2 MeasureGeometryInterfaces,1
 M1 2 CATIPublicFunctions,1
+M1 2 DraftingInterfaces,1
+M1 2 SketcherInterfaces,1
+M1 2 NewTopologicalObjects,1
+M1 2 TopologicalOperators,1
+M1 2 BasicTopologicalOpe,1
+M1 2 InfInterfaces,1
+M1 2 CATIAApplicationFrame,1
+M1 2 GeometricOperators,1
+M1 2 CATXMLFrm,1
+M1 2 VPMInterfaces,1
 EOF

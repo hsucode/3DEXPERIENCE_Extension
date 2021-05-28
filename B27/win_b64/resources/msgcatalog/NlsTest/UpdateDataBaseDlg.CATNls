@@ -1,5 +1,0 @@
-Title = "[~UpdateDataBaseDlg,Title~ Updåté Data Base]";
-MultiListPartList.ColumnTitle2 = "[~UpdateDataBaseDlg,ListPartList.ColumnTitle2~ Sélect]";
-MultiListPartList.ColumnTitle1 = "[~UpdateDataBaseDlg,ListPartList.ColumnTitle1~ Pårt Nø.]";
-Frame002.PushButtonRefresh.Title = "[~UpdateDataBaseDlg,2.PushButtonRefresh.Title~ Réfresh Lîst]";
-Frame002.PushButtonWriteExcel.Title = "[~UpdateDataBaseDlg,ushButtonWriteExcel.Title~ Wrîté Excel]";

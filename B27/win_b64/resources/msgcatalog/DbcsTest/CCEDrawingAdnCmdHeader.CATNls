@@ -1,8 +1,0 @@
-CCEDrawingAdnCmdHeader.CCEClearOldViewCmdHdr.Help = "[廫CCEDrawingAdnCmdHeader,CEClearOldViewCmdHdr.Help廫堦峔僜僠亅更新视图]";
-CCEDrawingAdnCmdHeader.CCEClearOldViewCmdHdr.LongHelp = "[廫CCEDrawingAdnCmdHeader,earOldViewCmdHdr.LongHelp廫堦峔僜僠亅使用此命令删除原有视图]";
-CCEDrawingAdnCmdHeader.CCEClearOldViewCmdHdr.Title = "[廫CCEDrawingAdnCmdHeader,EClearOldViewCmdHdr.Title廫堦峔僜僠亅删除原有视图]";
-CCEDrawingAdnCmdHeader.CCEClearOldViewCmdHdr.ShortHelp = "[廫CCEDrawingAdnCmdHeader,arOldViewCmdHdr.ShortHelp廫堦峔僜僠亅删除原有视图]";
-CCEDrawingAdnCmdHeader.CCEUpDateViewCmdHdr.Title = "[廫CCEDrawingAdnCmdHeader,CCEUpDateViewCmdHdr.Title廫堦峔僜僠亅更新视图]";
-CCEDrawingAdnCmdHeader.CCEUpDateViewCmdHdr.LongHelp = "[廫CCEDrawingAdnCmdHeader,UpDateViewCmdHdr.LongHelp廫堦峔僜僠亅使用此命令更新视图]";
-CCEDrawingAdnCmdHeader.CCEUpDateViewCmdHdr.ShortHelp = "[廫CCEDrawingAdnCmdHeader,pDateViewCmdHdr.ShortHelp廫堦峔僜僠亅更新视图]";
-CCEDrawingAdnCmdHeader.CCEUpDateViewCmdHdr.Help = "[廫CCEDrawingAdnCmdHeader,.CCEUpDateViewCmdHdr.Help廫堦峔僜僠亅更新视图]";

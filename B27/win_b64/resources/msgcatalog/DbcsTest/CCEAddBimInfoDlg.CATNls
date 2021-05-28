@@ -1,8 +1,0 @@
-FrameObjects.MulPrds.ColumnTitle1 = "[廫CCEAddBimInfoDlg,ects.MulPrds.ColumnTitle1廫堦峔僜僠亅标识]";
-Title = "[廫CCEAddBimInfoDlg,Title廫堦峔僜僠亅添加BIM信息]";
-FrameObjects.FrmAddMode.BtnClearProps.Title = "[廫CCEAddBimInfoDlg,dMode.BtnClearProps.Title廫堦峔僜僠亅清除BIM信息]";
-FrameObjects.Title = "[廫CCEAddBimInfoDlg,FrameObjects.Title廫堦峔僜僠亅对象]";
-FrameObjects.FrmAddMode.CkbAddMode.Title = "[廫CCEAddBimInfoDlg,mAddMode.CkbAddMode.Title廫堦峔僜僠亅追加模式]";
-FrameObjects.BtnDeleteSelect.Title = "[廫CCEAddBimInfoDlg,cts.BtnDeleteSelect.Title廫堦峔僜僠亅删除所选]";
-FrameObjects.MulPrds.ColumnTitle2 = "[廫CCEAddBimInfoDlg,ects.MulPrds.ColumnTitle2廫堦峔僜僠亅名称]";
-FrameMajor.Label003.Title = "[廫CCEAddBimInfoDlg,FrameMajor.Label003.Title廫堦峔僜僠亅设备]";

@@ -1,8 +1,0 @@
-CCDMQWksAdnCmdHeader.CCDExtEdgFrmSrfCmdHdr.Icon.Normal = "I_ExtEdge";
-CCDMQWksAdnCmdHeader.CCDCrtPcByGsdCmdHdr.Icon.Normal = "I_CrtPc";
-CCDMQWksAdnCmdHeader.CCDDivCurveToPtCmdHdr.Icon.Normal = "I_DivCrv";
-CCDMQWksAdnCmdHeader.CCDCreateLineByPtCmdHdr.Icon.Normal = "I_ConnectPt";
-CCDMQWksAdnCmdHeader.CCDMultiSplitCmdHdr.Icon.Normal = "I_SplitSrf";
-CCDMQWksAdnCmdHeader.CCDGetSrfAreaCmdHdr.Icon.Normal = "I_Output";
-CCDMQWksAdnCmdHeader.CalculateAreaCmdHdr.Icon.Normal = "I_A5";
-CCDMQWksAdnCmdHeader.ExportDataToExcelCmdHdr.Icon.Normal = "I_ExportDate";

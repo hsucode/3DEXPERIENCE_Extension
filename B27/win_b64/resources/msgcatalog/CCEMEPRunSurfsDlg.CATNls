@@ -1,5 +1,0 @@
-// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
-Title = "管件对象生成面工具";
-Frame001.Title = "请选择管子对象";
-Frame001.Label002.Title = "管子名称：";
-// END WIZARD REPLACEMENT ZONE

@@ -1,5 +1,0 @@
-Title = "[~CCECreateTreeCmd,Title~ 创建结构树]";
-Label002.Title = "[~CCECreateTreeCmd,Label002.Title~ 数据路径：]";
-Label005.Title = "[~CCECreateTreeCmd,Label005.Title~ 模型路径：]";
-BtnOpen.Title = "[~CCECreateTreeCmd,BtnOpen.Title~ 打开]";
-BtnOpenModulePath.Title = "[~CCECreateTreeCmd,BtnOpenModulePath.Title~ 打开]";
