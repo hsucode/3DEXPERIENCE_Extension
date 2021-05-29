@@ -34,4 +34,5 @@
   <prerequisite name = "CATGSMUseItf" access = "Public" expose = "ExposePrereq"/>
   <prerequisite name = "InfInterfaces" access = "Public" expose = "ExposePrereq"/>
   <prerequisite name = "GeometricOperators" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "MechanicalCommands" access = "Public" expose = "ExposePrereq"/>
 </codeFramework>

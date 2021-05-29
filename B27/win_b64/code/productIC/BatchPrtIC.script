@@ -22,7 +22,6 @@ M1 2 KnowledgeInterfaces,1
 M1 2 CATMecModUseItf,1
 M1 2 CATMecModLiveUseItf,1
 M1 2 GSMInterfaces,1
-M1 2 CATIPublicFunctions,1
 M1 2 ProductStructure,1
 M1 2 CATGeneralClassFrm,1
 M1 2 CATGSMIDLItf,1
@@ -34,4 +33,5 @@ M1 2 ConstraintModeler,1
 M1 2 ConstraintModelerInterfaces,1
 M1 2 LiteralFeatures,1
 M1 2 MechanicalModeler,1
+M1 2 CATIPublicFunctions,1
 EOF

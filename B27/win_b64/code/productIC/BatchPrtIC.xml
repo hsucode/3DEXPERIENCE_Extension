@@ -22,7 +22,6 @@
   <prerequisite name = "CATMecModUseItf" access = "Public"/>
   <prerequisite name = "CATMecModLiveUseItf" access = "Public"/>
   <prerequisite name = "GSMInterfaces" access = "Public"/>
-  <prerequisite name = "CATIPublicFunctions" access = "Public"/>
   <prerequisite name = "ProductStructure" access = "Public"/>
   <prerequisite name = "CATGeneralClassFrm" access = "Public"/>
   <prerequisite name = "CATGSMIDLItf" access = "Public"/>
@@ -34,4 +33,5 @@
   <prerequisite name = "ConstraintModelerInterfaces" access = "Public"/>
   <prerequisite name = "LiteralFeatures" access = "Public"/>
   <prerequisite name = "MechanicalModeler" access = "Public"/>
+  <prerequisite name = "CATIPublicFunctions" access = "Public"/>
 </codeFramework>
