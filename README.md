@@ -9,20 +9,18 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  双击里面的bat 使用
+2.	在 https://www.bilibili.com/ 内搜索我的视频号：  bili_15278973154
 
 #### 使用说明
 
-1.  CreateBridgeSkeletonData(CATIMmiPrtContainer_var spiPrtContainer, CATListOfDouble iDistanceList,CATListOfCATUnicodeString iStationingString, CATListValCATBaseUnknown_var spiInputList, CATBaseUnknown_var spiPart,CATBaseUnknown_var spiStartPoint)
-		输入：
-			"道路中心线" 
-			"道路平面线" 
-			"道路左侧边线" 
-			"道路右侧边线" 
-			"道路地形线" 
-		输出：
+##功能列表
+    * CreateBridgeSkeleton
+        	输入："道路中心线"	"道路平面线" "道路左侧边线" "道路右侧边线" "道路地形线" 
+    		输出："道路中心线"  "道路中心线"
+    * CreateBridgeSkeleton
+            输入："道路中心线"	"道路平面线" "道路左侧边线" "道路右侧边线" "道路地形线" 
+    		输出："道路中心线"  "道路中心线"
 
 2.  xxxx
 3.  xxxx
