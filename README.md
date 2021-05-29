@@ -15,7 +15,15 @@
 
 #### 使用说明
 
-1.  xxxx
+1.  CreateBridgeSkeletonData(CATIMmiPrtContainer_var spiPrtContainer, CATListOfDouble iDistanceList,CATListOfCATUnicodeString iStationingString, CATListValCATBaseUnknown_var spiInputList, CATBaseUnknown_var spiPart,CATBaseUnknown_var spiStartPoint)
+		输入：
+			"道路中心线" 
+			"道路平面线" 
+			"道路左侧边线" 
+			"道路右侧边线" 
+			"道路地形线" 
+		输出：
+
 2.  xxxx
 3.  xxxx
 
