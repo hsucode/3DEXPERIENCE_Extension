@@ -11,6 +11,21 @@
 
 1.  双击里面的bat 使用
 2.	在 https://www.bilibili.com/ 内搜索我的视频号：  bili_15278973154
+3.	
+
+ *   CAAV6BatchRun\BatchLauncher.bat
+ *   CAAV6BatchRun\BatchLaunchertst.bat
+ *   CAAV6BatchRun\BatchPrdLauncher.bat
+ *   CAAV6BatchRun\CATCivAlignmentCmd.bat
+ *   CAAV6BatchRun\CATDeletePrdFeature.bat
+ *   CAAV6BatchRun\CreateBridgeSkeleton.bat
+ *   CAAV6BatchRun\ExportBeamUDFData.bat
+ *   CAAV6BatchRun\ExportPrdUDFData.bat
+ *   CAAV6BatchRun\Install_config_win_b64
+ *   CAAV6BatchRun\NavigaterPrdModel.bat
+ *   CAAV6BatchRun\SyncBeamData.bat
+ *   CAAV6BatchRun\SyncPartParameters.bat
+ *   CAAV6BatchRun\SyncPierData.bat
 
 #### 使用说明
 
