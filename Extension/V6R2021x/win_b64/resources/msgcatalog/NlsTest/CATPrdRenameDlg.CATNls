@@ -1,6 +1,0 @@
-Title = "[~CATPrdRenameDlg,Title~ Rénåme Defînitiøn]";
-Frame1.Editor1.Text = "[~CATPrdRenameDlg,Frame1.Editor1.Text~ A_]";
-Frame1.Title = "[~CATPrdRenameDlg,Frame1.Title~ Sétüp]";
-Frame1.Label2.Title = "[~CATPrdRenameDlg,Frame1.Label2.Title~ Indéx : ]";
-Frame1.Label1.Title = "[~CATPrdRenameDlg,Frame1.Label1.Title~ Strîng: ]";
-Frame1.Editor2.Title = "1";

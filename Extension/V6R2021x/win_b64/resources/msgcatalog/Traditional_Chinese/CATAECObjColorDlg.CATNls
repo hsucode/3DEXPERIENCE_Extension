@@ -1,7 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "構件色彩定義";
-Frame1.Title = "設置";
-Frame1.Label1.Title = "列表 :";
-Frame1.PushButton1.Title = "移除";
-Frame1.Label2.Title = "構件 :";
-Frame1.Label3.Title = "RGB :";

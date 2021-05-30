@@ -1,7 +1,0 @@
-Label1.Title = "[廫CATDRWFromAxisSetDlg,Label1.Title廫堦峔僜僠亅Axis Sets : ]";
-Title = "[廫CATDRWFromAxisSetDlg,Title廫堦峔僜僠亅CATDRWFromAxisSetDlg]";
-msg1.Title = "[廫CATDRWFromAxisSetDlg,msg1.Title廫堦峔僜僠亅Error]";
-Label2.Title = "[廫CATDRWFromAxisSetDlg,Label2.Title廫堦峔僜僠亅Product : ]";
-msg.Title = "[廫CATDRWFromAxisSetDlg,msg.Title廫堦峔僜僠亅Error]";
-msg1.Text = "[廫CATDRWFromAxisSetDlg,msg1.Text廫堦峔僜僠亅创建图纸或创建视图失败]";
-msg.Text = "[廫CATDRWFromAxisSetDlg,msg.Text廫堦峔僜僠亅Axis数量或Part数量小于1]";

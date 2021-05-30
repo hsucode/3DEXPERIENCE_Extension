@@ -1,9 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "Road Section Loft";
-Frame1.Title = "Frame1";
-Frame1.Label1.Title = "Excel";
-Frame1.PushButton1.Title = "Browse...";
-Frame1.Label2.Title = "UDF";
-Frame1.PushButton2.Title = "Catalog";
-Frame1.Label3.Title = "Curve";
-Frame1.Label4.Title = "Sheet Name";

@@ -1,9 +1,0 @@
-Title = "[廫CATInstantiatePrdUDFT1Dlg,Title廫堦峔僜僠亅产品实例化UDF]";
-Frame1.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Title廫堦峔僜僠亅setup : ]";
-Frame1.Label6.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Label6.Title廫堦峔僜僠亅 选择Product : ]";
-Frame1.Label4.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Label4.Title廫堦峔僜僠亅 UDF Name : ]";
-Frame1.Label5.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Label5.Title廫堦峔僜僠亅 版本号 :  ]";
-Frame1.Label2.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Label2.Title廫堦峔僜僠亅 选择曲线(单选) : ]";
-Frame1.Label3.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Label3.Title廫堦峔僜僠亅 Part Name :  :]";
-Frame1.Label1.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.Label1.Title廫堦峔僜僠亅 选择点(多选) :]";
-Frame1.PushButton1.Title = "[廫CATInstantiatePrdUDFT1Dlg,Frame1.PushButton1.Title廫堦峔僜僠亅PushButton1]";

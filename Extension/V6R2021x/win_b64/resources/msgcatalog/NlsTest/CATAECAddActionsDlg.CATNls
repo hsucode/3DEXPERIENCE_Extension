@@ -1,7 +1,0 @@
-Title = "[~CATAECAddActionsDlg,Title~ Add Actîøn]";
-Frame1.Title = "[~CATAECAddActionsDlg,Frame1.Title~ Fråmé1]";
-Frame1.Label2.Title = "[~CATAECAddActionsDlg,Frame1.Label2.Title~ Txt fîlé påth : ]";
-Frame1.Label1.Title = "[~CATAECAddActionsDlg,Frame1.Label1.Title~ Rélåtîøns Set: ]";
-Frame1.PushButton1.Title = "[~CATAECAddActionsDlg,Frame1.PushButton1.Title~ Brøwsé...]";
-msg.Title = "[~CATAECAddActionsDlg,msg.Title~ Errør]";
-msg.Text = "[~CATAECAddActionsDlg,msg.Text~ Pléåse select the cørrect fîle path !]";

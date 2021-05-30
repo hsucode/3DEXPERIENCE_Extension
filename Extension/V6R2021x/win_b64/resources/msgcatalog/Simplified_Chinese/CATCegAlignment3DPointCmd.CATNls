@@ -1,5 +1,0 @@
-<meta charset="UTF-8"/>
-CATCegAlignment3DPointCmd.Title="3D 线路点";
-CATCegAlignment3DPointCmd.UndoTitle="3D 线路点";
-
-CATCegAlignment3DPointCmd.InitialState.Message="选择 3D 线路";

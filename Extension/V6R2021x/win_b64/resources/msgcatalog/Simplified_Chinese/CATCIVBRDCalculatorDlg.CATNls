@@ -1,8 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "梁数计算器";
-Label1.Title = "轴系列表";
-Label2.Title = "左侧路边线 ";
-Label3.Title = "右侧路边线 ";
-Label4.Title = "标准梁距  ";
-Label5.Title = "最大梁距";
-Label6.Title = "最小梁距";

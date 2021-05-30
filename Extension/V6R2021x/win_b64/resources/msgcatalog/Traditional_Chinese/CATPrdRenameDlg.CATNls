@@ -1,7 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "重命名";
-Frame1.Title = "设置";
-Frame1.Label1.Title = "字符串 ";
-Frame1.Label2.Title = "索引 ";
-Frame1.Editor1.Text = "A_";
-Frame1.Editor2.Title = "1";

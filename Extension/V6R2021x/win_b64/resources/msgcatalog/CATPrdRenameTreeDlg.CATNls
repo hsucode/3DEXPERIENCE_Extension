@@ -1,8 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "CATPrdRenameTreeDlg";
-Label1.Title = "Modify Name : ";
-Label2.Title = "Product : ";
-msg.Title = "Error";
-msg.Text = "请输入要修改的名称";
-msg1.Title = "Error";
-msg1.Text = "Run is Failed !";

@@ -1,9 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "桥墩宽度定义";
-Frame1.Title = "示意图";
-Frame2.Title = "设置";
-Frame2.Label1.Title = "轴系列表 ";
-Frame1.DiagramLabel.Title = "Label2";
-Frame2.Label3.Title = "道路边线 ";
-Frame2.Label2.Title = "类型";
-Frame2.Label4.Title = "线路平曲线 ";

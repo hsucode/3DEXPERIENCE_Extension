@@ -1,6 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "曲綫修剪";
-SelAxis.Title = "曲綫:";
-SelRoadCurve.Title = "平面或軸系:";
-PushButton1.Title = "PushButton1";
-PushButton2.Title = "PushButton1";

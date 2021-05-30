@@ -1,5 +1,0 @@
-Title = "Road Law ";
-Frame1.Title = "Setup";
-Frame1.Label1.Title = "Select Axis : ";
-Frame1.Label2.Title = " Text Path  : ";
-Frame1.PushButton1.Title = "Browse...";
