@@ -4,6 +4,7 @@ C:\Program Files\Dassault Systemes\B421\.\AfrStandard
 C:\Program Files\Dassault Systemes\B421\.\BSFBuildtimeData
 C:\Program Files\Dassault Systemes\B421\.\CAACloudQsrItf
 C:\Program Files\Dassault Systemes\B421\.\CAT3DPhysicalRepInterfaces
+C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_XUS_Code\CAAV6BatchRun\.\CATAECObjectModeler
 C:\Program Files\Dassault Systemes\B421\.\CATAnnotationUseItf
 C:\Program Files\Dassault Systemes\B421\.\CATDraftingGenUseItf
 C:\Program Files\Dassault Systemes\B421\.\CATFmtModelInterfaces
@@ -77,7 +78,9 @@ C:\Program Files\Dassault Systemes\B421\.\VisualizationInterfaces
 C:\Program Files\Dassault Systemes\B421\.\AdvancedMathematics
 C:\Program Files\Dassault Systemes\B421\.\AfrComponentsModel
 C:\Program Files\Dassault Systemes\B421\.\AfrNavigator
+C:\Program Files\Dassault Systemes\B421\.\BatchInfrastructure
 C:\Program Files\Dassault Systemes\B421\.\CATAnnotationIDLItf
+C:\Program Files\Dassault Systemes\B421\.\CATCivAlignmentUseItf
 C:\Program Files\Dassault Systemes\B421\.\CATDibModelerUseItf
 C:\Program Files\Dassault Systemes\B421\.\CATFmtToolsBase
 C:\Program Files\Dassault Systemes\B421\.\CATImmVPMInterfaces
@@ -86,10 +89,12 @@ C:\Program Files\Dassault Systemes\B421\.\CATImmVPMNavInterfaces
 C:\Program Files\Dassault Systemes\B421\.\CATMmrAutomationInterfaces
 C:\Program Files\Dassault Systemes\B421\.\CATPLMIntegrationAccessItf
 C:\Program Files\Dassault Systemes\B421\.\CATPLMIntegrationInterfaces
+C:\Program Files\Dassault Systemes\B421\.\CATPartUseItf
 C:\Program Files\Dassault Systemes\B421\.\CATStyleProcessor
 C:\Program Files\Dassault Systemes\B421\.\CATTTRSUseItf
 C:\Program Files\Dassault Systemes\B421\.\CATView
 C:\Program Files\Dassault Systemes\B421\.\CATVirtualVaultSystem
+C:\Program Files\Dassault Systemes\B421\.\Communications
 C:\Program Files\Dassault Systemes\B421\.\DataCommonProtocolExt
 C:\Program Files\Dassault Systemes\B421\.\ECMAScriptEngine
 C:\Program Files\Dassault Systemes\B421\.\Graph

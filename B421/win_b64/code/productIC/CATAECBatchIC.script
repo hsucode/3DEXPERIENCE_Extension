@@ -71,8 +71,9 @@ M1 4 PLMLibraryInterfaces,1,3,1
 M1 4 CAACloudQsrItf,1,3,1
 M1 4 CATPartConstraintUseItf,1,3,1
 M1 4 CATSketcherIDLItf,1,3,1
+M1 2 AfrStandard,1
 M1 4 CATGSMIDLItf,1,3,1
 M1 4 KnowledgeIDLItf,1,3,1
 M1 4 CATIPublicFunctions,1,3,1
-M1 2 AfrStandard,1
+M1 4 CATAECObjectModeler,1,3,1
 EOF

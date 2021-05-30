@@ -5,4 +5,8 @@
 .\win_b64\code\lib\CATBrdModeler.lib
 .\win_b64\code\bin\CATBrdModeler.pdb
 .\win_b64\code\lib\CATBrdModeler.exp
+.\win_b64\code\bin\CATExcelData.dll
+.\win_b64\code\lib\CATExcelData.lib
+.\win_b64\code\bin\CATExcelData.pdb
+.\win_b64\code\lib\CATExcelData.exp
 .\win_b64\control\CATAECObjectModeler

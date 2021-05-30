@@ -15,6 +15,8 @@
 .\win_b64\code\bin\ExportPierData.pdb
 .\win_b64\code\bin\ExportPrdUDFData.exe
 .\win_b64\code\bin\ExportPrdUDFData.pdb
+.\win_b64\code\bin\GetExcelData.exe
+.\win_b64\code\bin\GetExcelData.pdb
 .\win_b64\code\bin\NavigaterPrdModel.exe
 .\win_b64\code\bin\NavigaterPrdModel.pdb
 .\win_b64\code\bin\PRDAllUdfExportData.exe

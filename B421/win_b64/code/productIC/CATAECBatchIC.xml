@@ -71,8 +71,9 @@
   <prerequisite name = "CAACloudQsrItf" access = "Public" expose = "ExposePrereq"/>
   <prerequisite name = "CATPartConstraintUseItf" access = "Public" expose = "ExposePrereq"/>
   <prerequisite name = "CATSketcherIDLItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "AfrStandard" access = "Public"/>
   <prerequisite name = "CATGSMIDLItf" access = "Public" expose = "ExposePrereq"/>
   <prerequisite name = "KnowledgeIDLItf" access = "Public" expose = "ExposePrereq"/>
   <prerequisite name = "CATIPublicFunctions" access = "Public" expose = "ExposePrereq"/>
-  <prerequisite name = "AfrStandard" access = "Public"/>
+  <prerequisite name = "CATAECObjectModeler" access = "Public" expose = "ExposePrereq"/>
 </codeFramework>
