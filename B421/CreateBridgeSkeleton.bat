@@ -19,7 +19,7 @@ set PartName="prd-60736172-00021397"
 set PartVersion="A.1"
 set PLMType="VPMReference"
 set LoginTicket="QUNDOEFFOTJFMTA2NDZBRDkwNzc4QzREQjY1ODBEQjd8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
-set ExcelPath="C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_XUS_Code\CAAV6BatchRun\InputData\CATCIVBridgeData.xlsx"
+set ExcelPath="%~dp0\InputData\CATCIVBridgeData.xlsx"
 set geoName="LNS"
 
 
