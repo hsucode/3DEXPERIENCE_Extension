@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+Title = "线路检查";
+Label1.Title = "线路集合 :           ";
+Frame1.Title = "平曲线检查";
+Frame1.CheckButton1.Title = "检查偏角";
+Frame1.CheckButton2.Title = "圆曲线半径";
+Frame1.CheckButton3.Title = "缓和曲线长度";
+Frame1.CheckButton4.Title = "平曲线总长";
+Frame2.Title = "竖曲线检查";
+Frame2.CheckButton5.Title = "圆弧半径";
+Frame2.CheckButton6.Title = "T长(弧长的一半)";
+Frame2.CheckButton7.Title = "纵坡度";
+Frame2.CheckButton8.Title = "坡长";
+
+msg1.Title = "Error";
+msg1.Text = "结构缺失 !";
+msg2.Title = "Error";
+msg2.Text = "缺少特征所在的集合 !";

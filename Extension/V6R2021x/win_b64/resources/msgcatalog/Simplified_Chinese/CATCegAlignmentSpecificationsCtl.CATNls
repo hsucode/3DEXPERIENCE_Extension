@@ -1,0 +1,20 @@
+<meta charset="UTF-8"/>
+Title="规格";
+SpecificationsExpanderLabel="轮廓规格";
+LanesExpanderLabel="行驶路线车道分配";
+AddSpecRoadCommonLabel="添加道路规格";
+AddlaneDistribLabel="添加行驶路线车道分配";
+ShouldersExpanderLabel="路肩分配";
+AddShouldersDistribLabel="添加路肩分配";
+RulesExpanderLabel="规则";
+ParameterLabel="参数";
+FirstWayLeftSide="第一路线左侧";
+FirstWayCenter="第一路线中心";
+FirstWayRightSide="第一路线右侧";
+LaneWithIndex="车道 #/P1";
+Reset="恢复先前过载的 PkPoint 或线路的值";
+Edit="编辑 PkPoint 以使其值过载";
+ProfileLabel="轮廓";
+Warning="未找到一个或多个线路规则";
+LaneToolTip="宽度 = /P1\n横向间隙 = /P2";
+ProjectSpecificationsExpanderLabel="项目规格";

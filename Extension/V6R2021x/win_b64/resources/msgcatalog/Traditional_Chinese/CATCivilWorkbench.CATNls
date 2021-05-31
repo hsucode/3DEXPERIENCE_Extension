@@ -1,0 +1,18 @@
+<meta charset="UTF-8"/>
+
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATCivilWorkbench.Title      = "Building and Civil Assemblies Extension";
+CATCivilWorkbench.ShortHelp  = "Building and Civil Assemblies Extension";
+CATCivilWorkbench.Help       = "Building and Civil Assemblies Extension";
+CATCivilWorkbench.LongHelp   = "Building and Civil Assemblies Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR
+//----------------------------------------------------------------------------
+AdditionalSection.Title="擴展";
+BridgeSubstructureSection.Title = "下部結構";
+BridgeSuperstructureSection.Title = "上部結構";
+BridgeGlobalDataSection.Title="全局數據";
+DPCivil3DWkbSection.Title="功能擴展";

@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+Title = "截面定义";
+Frame1.Title = "设置";
+Label1.Title = "选择轴系 ";
+SelectorList1.Title = "";
+Label2.Title = "文本文件:";
+Editor1.Title = "";
+PushButton1.Title = "浏览...";
+PushButton2.Title = "刷新";
+Navigation3DViewer1.Title = "预览";
+Frame1.Label1.Title = "选择轴系 ";
+Frame1.Label2.Title = "Txt文件 : ";
+Frame1.PushButton1.Title = "浏览...";
+Frame1.PushButton2.Title = "刷新";

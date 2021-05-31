@@ -1,0 +1,9 @@
+<meta charset="UTF-8"/>
+Title = "Add Action";
+Frame1.Title = "Frame1";
+Frame1.Label1.Title = "Relations Set: ";
+Frame1.Label2.Title = "Txt file path : ";
+Frame1.PushButton1.Title = "Browse...";
+
+msg.Title = "Error";
+msg.Text = "Please select the correct file path !";

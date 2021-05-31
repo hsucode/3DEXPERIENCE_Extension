@@ -1,0 +1,11 @@
+Excel.Label2.Title = "[~CATFeatureImportDataDlg,Excel.Label2.Title~ Héåder Røw :]";
+Title = "[~CATFeatureImportDataDlg,Title~ UDF Dåta Impørt]";
+Excel.Label3.Title = "[~CATFeatureImportDataDlg,Excel.Label3.Title~ Påraméters Nümber :]";
+Excel.Excelpath.Title = "[~CATFeatureImportDataDlg,Excel.Excelpath.Title~ Excél Fîle Påth   : ]";
+Excel.Label4.Title = "[~CATFeatureImportDataDlg,Excel.Label4.Title~ Stårt Wrîting Røw :]";
+Frame1.Title = "[~CATFeatureImportDataDlg,Frame1.Title~ Sétüp]";
+Frame1.SelAxis.Title = "[~CATFeatureImportDataDlg,Frame1.SelAxis.Title~ UDF Séts  :]";
+Frame1.PushButton1.Title = "[~CATFeatureImportDataDlg,Frame1.PushButton1.Title~ PüshButtøn1]";
+Excel.BrowseExcel.Title = "[~CATFeatureImportDataDlg,Excel.BrowseExcel.Title~ Brøwsé...]";
+Excel.Title = "[~CATFeatureImportDataDlg,Excel.Title~ Excél]";
+Excel.Label1.Title = "[~CATFeatureImportDataDlg,Excel.Label1.Title~ Héåder Cølümn  :]";

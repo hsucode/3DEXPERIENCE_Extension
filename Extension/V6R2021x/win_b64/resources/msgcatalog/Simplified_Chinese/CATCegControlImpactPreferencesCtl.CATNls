@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+//---------------------------------------------------------
+// CATCegControlImpactPreferencesCtl.CATNls
+//---------------------------------------------------------
+
+ControlImpactLabel="垂直线路中的影响模式";
+NoImpactModeLabel="无影响";
+DeleteAllModeLabel="全部删除";
+ManualFixModeLabel="手动修复";
+

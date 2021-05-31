@@ -1,0 +1,13 @@
+<meta charset="UTF-8"/>
+Title = "梁数计算定义";
+Frame1.Title = "Excel";
+Frame1.Label1.Title = "Excel";
+Frame1.PushButton1.Title = "浏览...";
+Frame1.Label2.Title = "开始行";
+Frame1.Label3.Title = "小里程数据列  ";
+Frame2.Title = "Beam Data";
+Frame2.Label5.Title = "最大梁距";
+Frame2.Label6.Title = "最小梁距";
+Frame2.Label7.Title = "标准梁距";
+Frame1.Label4.Title = "大里程数据列";
+Frame1.Label8.Title = "写入列";

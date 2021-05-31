@@ -1,0 +1,13 @@
+<meta charset="UTF-8"/>
+Title = "道路交叉口";
+Label1.Title = "顶点";
+Label2.Title = "右侧路边线";
+Label3.Title = "右侧路中线 ";
+Label4.Title = "左侧路边线";
+Label5.Title = "左侧路中线  ";
+Label6.Title = "左侧路";
+Label7.Title = "右侧路";
+Label8.Title = "倒角半径 ";
+
+msg.Title = "Error";
+msg.Text = "创建失败";

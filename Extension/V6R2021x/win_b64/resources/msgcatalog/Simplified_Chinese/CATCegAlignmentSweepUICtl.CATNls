@@ -1,0 +1,103 @@
+<meta charset="UTF-8"/>
+
+CATCegAlignmentSweep_Panel="道路曲面";
+CATCegRailwaySweep_Panel="铁路曲面";
+
+SelectAlignment="（选择 3D 线路）";
+
+// Name Editor
+GridEditorName.txtAlignment.Text="线路";
+GridRotationAndLane.txtAlignment.Text="线路";
+
+// Lane Type Combo
+GroupLane.Label="路径";
+GroupLane.GridLane.txtLane.Text="类型";
+LaneType.Planar="平面";
+LaneType.Crowned="径向";
+
+// Superelevation and Cant combo
+Combo.Auto="自动";
+Combo.ByLaw="按法则";
+Combo.Fixed="固定";
+// Tooltip
+Tooltip.Auto.Superelevation="将基于设计规则计算曲面。\n超高、过渡长度和实现方法\n将从设计规则的数据设置中读取";
+Tooltip.Auto.Cant="将根据设计规则计算曲面。\超高、过渡长度和实现方法\n将从设计规则的数据设置中读取";
+Tooltip.ByLaw="手动定义斜角变化的高级模式";
+Tooltip.Fixed="基于正常斜坡参数的固定角度斜坡";
+
+Tooltip.Widening.Auto="将根据加宽信息计算曲面";
+Tooltip.Widening.ByLaw="高级模式用于手动定义宽度";
+Tooltip.Widening.Fixed="固定宽度";
+
+// Superelevation and Cant Group
+Superlevation="超高";
+Cant="超高";
+//For Old Panel (ODT versioning)
+GroupSuperCant.txtComboMode.Text="模式"; //For railway panel
+GroupSuperCant.GridLaw.GridPlanar.txtByLawPlanarSketch.Text="角度法则";
+GroupSuperCant.GridLaw.GridPlanar.btnByLawPlanarSketch.TooltipShortHelp="单击以编辑角度法则的草图";
+GroupSuperCant.GridLaw.GridCrowned.txtByLawCrownedLeft.Text="左侧";
+GroupSuperCant.GridLaw.GridCrowned.btnByLawCrownedLeft.TooltipShortHelp="单击以编辑左侧法则的草图";
+GroupSuperCant.GridLaw.GridCrowned.txtByLawCrownedRight.Text="右侧";
+GroupSuperCant.GridLaw.GridCrowned.btnByLawCrownedRight.TooltipShortHelp="单击以编辑右侧法则的草图";
+GroupSuperCant.GridLaw.GridUnit.txtMeasureCombo.Text="测量的单位";
+GroupSuperCant.GridLaw.GridUnit.txtAppliedCombo.Text="应用的单位";
+GroupSuperCant.GridFixed.txtReverse.Text="反方向";
+GroupSuperCant.GridFixed.txtReverse.TooltipShortHelp="反转曲面方向";
+
+MainTab.TabSuperElevation.txtComboMode.Text="模式";
+MainTab.TabSuperElevation.HeaderData.Label="超高";
+MainTab.TabSuperElevation.GridLaw.GridPlanar.txtByLawPlanarSketch.Text="角度法则";
+MainTab.TabSuperElevation.GridLaw.GridPlanar.btnByLawPlanarSketch.TooltipShortHelp="单击以编辑角度法则的草图";
+MainTab.TabSuperElevation.GridLaw.GridCrowned.txtByLawCrownedLeft.Text="左侧";
+MainTab.TabSuperElevation.GridLaw.GridCrowned.btnByLawCrownedLeft.TooltipShortHelp="单击以编辑左侧法则的草图";
+MainTab.TabSuperElevation.GridLaw.GridCrowned.txtByLawCrownedRight.Text="右侧";
+MainTab.TabSuperElevation.GridLaw.GridCrowned.btnByLawCrownedRight.TooltipShortHelp="单击以编辑右侧法则的草图";
+MainTab.TabSuperElevation.GridLaw.GridUnit.txtMeasureCombo.Text="测量的单位";
+MainTab.TabSuperElevation.GridLaw.GridUnit.txtAppliedCombo.Text="应用的单位";
+MainTab.TabSuperElevation.GridFixed.txtReverse.Text="反方向";
+MainTab.TabSuperElevation.GridFixed.txtReverse.TooltipShortHelp="反转曲面方向";
+
+MainTab.TabWidth.txtWideningComboMode.Text="模式";
+MainTab.TabWidth.HeaderData.Label="宽度";
+
+txtTransitionRate.Text="转变速率";
+txtSmoothing.Text="光顺";
+txtNormalSlope.Text="正常坡度";
+
+// Rotation combo
+GroupRotation.Label="旋转";
+GroupRotation.GridRotation.txtRotation.Text="模式";
+GroupSuperCant.txtRotation.Text="旋转";
+
+GridRotationAndLane.txtRotation.Text="旋转模式";
+GridRotationAndLane.txtLane.Text="行驶车道类型";
+
+Rotation.Center="中心线";
+Rotation.Outer="外边线";
+Rotation.Inner="内边线";
+Rotation.OuterRail="外轨道";
+Rotation.InnerRail="内轨道";
+Rotation.Left="左侧";
+Rotation.Right="右侧";
+
+// Parameters
+GroupParameters.Label="参数";
+GroupParameters.GridParameters.txtVerticalOffset.Text="从轨道顶部垂直偏移";
+GroupParameters.GridParameters.txtVerticalOffsetCaption.Text="(a)";
+
+// Width
+WidthGroup.Label="宽度";
+WidthGroup.txtWideningComboMode.Text="模式";
+btnEditWidth1Law.TooltipShortHelp="单击以编辑宽度法则的草图。";
+btnEditWidth2Law.TooltipShortHelp="单击以编辑宽度法则的草图。";
+txtWidth1.Text="左侧宽度";
+txtWidth2.Text="右侧宽度";
+txtWidth1.Text.Railway="左肩宽度";
+GroupParameters.GridParameters.txtWidth1Caption.Text="(b)";
+txtWidth2.Text.Railway="右肩宽度";
+GroupParameters.GridParameters.txtWidth2Caption.Text="(c)";
+
+// Context Updated
+ContextUpdated="已使用线路 /p1 时定义的值成功更新上下文：/p2";
+

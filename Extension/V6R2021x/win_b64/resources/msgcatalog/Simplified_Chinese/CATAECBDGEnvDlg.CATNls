@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title = "Environmental configuration";
+Frame1.Title = "Setup";
+Frame1.Label1.Title = "xml:";
+Frame1.Label2.Title = "Title:";
+Frame1.Label3.Title = "discri:";
+Frame1.PushButton1.Title = "Browse...";

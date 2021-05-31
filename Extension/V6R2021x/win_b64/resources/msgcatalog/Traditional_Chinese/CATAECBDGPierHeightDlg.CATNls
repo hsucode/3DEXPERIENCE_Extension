@@ -1,0 +1,12 @@
+<meta charset="UTF-8"/>
+
+Title = "墩高定義";
+Excel.Title = "Excel";
+Excel.Excelpath.Title = "Excel路徑 : ";
+Excel.BrowseExcel.Title = "瀏覽...";
+Excel.Label1.Title = "輸入列號 :";
+Excel.Label2.Title = "輸入行號 :";
+Frame1.Title = "設置";
+Frame1.SelAxis.Title = "軸系集合 :";
+Frame1.SelRoadCurve.Title = "道路中心綫 :";
+Frame1.PushButton1.Title = "PushButton1";

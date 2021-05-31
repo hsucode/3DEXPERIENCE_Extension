@@ -1,0 +1,22 @@
+Title = "Alignment Type A";
+Label3.Title = "Generate Vertical Alignment";
+Label4.Title = "Ver_Text";
+Editor2.ShortHelp = "C:\Temp";
+PushButton2.Title = "Browse...";
+Label6.Title = "Curve : ";
+Label7.Title = "Start Point : ";
+PushButton4.Title = "Excute";
+
+
+msg.Title = "Error";
+msg.Text = "Txt Path is NULL !";
+msg1.Title = "Error";
+msg1.Text = "Txt file does not exist !";
+msg2.Title = "Error";
+msg2.Text = "Get Data From Txt  is Failed !";
+msg3.Title = "Error";
+msg3.Text = "Input is NULL !";
+
+doubleError.Title = "Error";
+doubleError.Text = "Txt File Data is Error !";
+

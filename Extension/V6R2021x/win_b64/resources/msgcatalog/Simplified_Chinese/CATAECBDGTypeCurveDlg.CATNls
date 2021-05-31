@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+Title = "桥梁类型定义";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 曲线 ：           ";
+Frame1.Label2.Title = " 轴系或点 : ";
+Frame1.PushButton1.Title = "PushButton1";
+Excel.Title = "Excel";
+Excel.Excelpath.Title = "Excel路径  : ";
+Excel.BrowseExcel.Title = "浏览...";
+Excel.Label4.Title = "表头列号:";
+Excel.Label3.Title = "表头行号:";

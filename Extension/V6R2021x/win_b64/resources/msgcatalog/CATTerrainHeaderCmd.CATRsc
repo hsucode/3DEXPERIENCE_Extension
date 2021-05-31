@@ -1,0 +1,272 @@
+//=================================================================================================
+// Import / Export
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmImportHdr.Icon.Normal  = "I_CloudImport" ;
+CATTerrainHeaderCmd.CATDtmImportHdr.Icon.Focused = "IF_CloudImport" ;
+CATTerrainHeaderCmd.CATDtmImportHdr.Icon.Pressed = "IP_CloudImport" ;
+//CATTerrainHeaderCmd.CATDtmImportHdr.LongHelpId   = "CATTerrainHeaderCmd.CATDtmImportHdr" ;
+
+CATTerrainHeaderCmd.CATDtmExportHdr.Icon.Normal  = "I_CloudExport" ;
+CATTerrainHeaderCmd.CATDtmExportHdr.Icon.Focused = "IF_CloudExport" ;
+CATTerrainHeaderCmd.CATDtmExportHdr.Icon.Pressed = "IP_CloudExport" ;
+//CATTerrainHeaderCmd.CATDtmExportHdr.LongHelpId   = "CATTerrainHeaderCmd.CATDtmExportHdr" ;
+
+CATTerrainHeaderCmd.CATDtm3DExpImportHdr.Icon.Normal = "I_CloudImport" ;
+CATTerrainHeaderCmd.CATDtm3DExpImportHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtm3DExpExportHdr.Icon.Normal = "I_CloudExport" ;
+CATTerrainHeaderCmd.CATDtm3DExpExportHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// GSD
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmGSDPolylineHdr.Icon.Normal = "I_AssembleMono" ;
+CATTerrainHeaderCmd.CATDtmGSDPolylineHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmGSDCircleHdr.Icon.Normal = "I_Circle" ;
+CATTerrainHeaderCmd.CATDtmGSDCircleHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Cloud / Points
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmCloudPointsHdr.Icon.Normal = "I_CldCloudPoints" ;
+CATTerrainHeaderCmd.CATDtmCloudPointsHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Geolocated Point
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmGeolocatedPointHdr.Icon.Normal = "I_CivGeolocatedPoint" ;
+CATTerrainHeaderCmd.CATDtmGeolocatedPointHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Mesh Creation
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmPolygonizationHdr.Icon.Normal  = "I_CloudTess" ;
+CATTerrainHeaderCmd.CATDtmPolygonizationHdr.Icon.Focused = "IF_CloudTess" ;
+CATTerrainHeaderCmd.CATDtmPolygonizationHdr.Icon.Pressed = "IP_CloudTess" ;
+CATTerrainHeaderCmd.CATDtmPolygonizationHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshZLevelHdr.Icon.Normal = "I_TrnTerrainFromLines" ;
+CATTerrainHeaderCmd.CATDtmMeshZLevelHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmTessellationHdr.Icon.Normal = "I_CldTessellate2" ;
+CATTerrainHeaderCmd.CATDtmTessellationHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmExcavationHdr.Icon.Normal = "I_TrnExcavation" ;
+CATTerrainHeaderCmd.CATDtmExcavationHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Polylines Creation
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmFreeEdgesHdr.Icon.Normal  = "I_CloudFreeEdges" ;
+CATTerrainHeaderCmd.CATDtmFreeEdgesHdr.Icon.Focused = "IF_CloudFreeEdges" ;
+CATTerrainHeaderCmd.CATDtmFreeEdgesHdr.Icon.Pressed = "IP_CloudFreeEdges" ;
+CATTerrainHeaderCmd.CATDtmFreeEdgesHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmScanOnCloudHdr.Icon.Normal  = "I_ScanOnCloud" ;
+CATTerrainHeaderCmd.CATDtmScanOnCloudHdr.Icon.Focused = "IF_ScanOnCloud" ;
+CATTerrainHeaderCmd.CATDtmScanOnCloudHdr.Icon.Pressed = "IP_ScanOnCloud" ;
+CATTerrainHeaderCmd.CATDtmScanOnCloudHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmPlanarSectionHdr.Icon.Normal  = "I_CloudSection" ;
+CATTerrainHeaderCmd.CATDtmPlanarSectionHdr.Icon.Focused = "IF_CloudSection" ;
+CATTerrainHeaderCmd.CATDtmPlanarSectionHdr.Icon.Pressed = "IP_CloudSection" ;
+CATTerrainHeaderCmd.CATDtmPlanarSectionHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshIntersectHdr.Icon.Normal  = "I_CldMeshIntersect";
+CATTerrainHeaderCmd.CATDtmMeshIntersectHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmDiscrCurveHdr.Icon.Normal  = "I_CurveToScan" ;
+CATTerrainHeaderCmd.CATDtmDiscrCurveHdr.Icon.Focused = "IF_CurveToScan" ;
+CATTerrainHeaderCmd.CATDtmDiscrCurveHdr.Icon.Pressed = "IP_CurveToScan" ;
+CATTerrainHeaderCmd.CATDtmDiscrCurveHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmProjectCurveHdr.Icon.Normal  = "I_CloudProjCrv" ;
+CATTerrainHeaderCmd.CATDtmProjectCurveHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Curve Creation
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmPolylineHdr.Icon.Normal = "I_CldPolyline" ;
+CATTerrainHeaderCmd.CATDtmPolylineHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Surface Creation
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmTerrainSurfaceHdr.Icon.Normal = "I_TrnAutoSurfForCivil" ;
+CATTerrainHeaderCmd.CATDtmTerrainSurfaceHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Volume Creation
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmVolumeExtrudeHdr.Icon.Normal = "I_VolumeExtrude" ;
+CATTerrainHeaderCmd.CATDtmVolumeExtrudeHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Edition
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmActivateHdr.Icon.Normal  = "I_CloudActivate" ;
+CATTerrainHeaderCmd.CATDtmActivateHdr.Icon.Focused = "IF_CloudActivate" ;
+CATTerrainHeaderCmd.CATDtmActivateHdr.Icon.Pressed = "IP_CloudActivate" ;
+CATTerrainHeaderCmd.CATDtmActivateHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmRemoveHdr.Icon.Normal  = "I_CloudRemove" ;
+CATTerrainHeaderCmd.CATDtmRemoveHdr.Icon.Focused = "IF_CloudRemove" ;
+CATTerrainHeaderCmd.CATDtmRemoveHdr.Icon.Pressed = "IP_CloudRemove" ;
+CATTerrainHeaderCmd.CATDtmRemoveHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmFilterHdr.Icon.Normal  = "I_CloudFilter" ;
+CATTerrainHeaderCmd.CATDtmFilterHdr.Icon.Focused = "IF_CloudFilter" ;
+CATTerrainHeaderCmd.CATDtmFilterHdr.Icon.Pressed = "IP_CloudFilter" ;
+CATTerrainHeaderCmd.CATDtmFilterHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshCleanerHdr.Icon.Normal  = "I_CldMeshCleaner" ;
+CATTerrainHeaderCmd.CATDtmMeshCleanerHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshPreparationHdr.Icon.Normal  = "I_CldMeshPrep" ;
+CATTerrainHeaderCmd.CATDtmMeshPreparationHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmStopGapHdr.Icon.Normal  = "I_CloudStopGap" ;
+CATTerrainHeaderCmd.CATDtmStopGapHdr.Icon.Focused = "IF_CloudStopGap" ;
+CATTerrainHeaderCmd.CATDtmStopGapHdr.Icon.Pressed = "IP_CloudStopGap" ;
+CATTerrainHeaderCmd.CATDtmStopGapHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmManualMeshHdr.Icon.Normal = "I_CldManualMesh" ;
+CATTerrainHeaderCmd.CATDtmManualMeshHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshEditAddPtHdr.Icon.Normal  = "I_MeshAddPoint" ;
+CATTerrainHeaderCmd.CATDtmMeshEditAddPtHdr.Icon.Focused = "IF_MeshAddPoint" ;
+CATTerrainHeaderCmd.CATDtmMeshEditAddPtHdr.Icon.Pressed = "IP_MeshAddPoint" ;
+CATTerrainHeaderCmd.CATDtmMeshEditAddPtHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshEditMovePtHdr.Icon.Normal  = "I_MeshMovePoint" ;
+CATTerrainHeaderCmd.CATDtmMeshEditMovePtHdr.Icon.Focused = "IF_MeshMovePoint" ;
+CATTerrainHeaderCmd.CATDtmMeshEditMovePtHdr.Icon.Pressed = "IP_MeshMovePoint" ;
+CATTerrainHeaderCmd.CATDtmMeshEditMovePtHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshEditCollapseHdr.Icon.Normal  = "I_MeshEltCollapse" ;
+CATTerrainHeaderCmd.CATDtmMeshEditCollapseHdr.Icon.Focused = "IF_MeshEltCollapsee" ;
+CATTerrainHeaderCmd.CATDtmMeshEditCollapseHdr.Icon.Pressed = "IP_MeshEltCollapse" ;
+CATTerrainHeaderCmd.CATDtmMeshEditCollapseHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshEditRemoveHdr.Icon.Normal  = "I_MeshEltDelete" ;
+CATTerrainHeaderCmd.CATDtmMeshEditRemoveHdr.Icon.Focused = "IF_MeshEltDelete" ;
+CATTerrainHeaderCmd.CATDtmMeshEditRemoveHdr.Icon.Pressed = "IP_MeshEltDelete" ;
+CATTerrainHeaderCmd.CATDtmMeshEditRemoveHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshEditFlipEdgeHdr.Icon.Normal  = "I_CloudFlipEdge" ;
+CATTerrainHeaderCmd.CATDtmMeshEditFlipEdgeHdr.Icon.Focused = "IF_CloudFlipEdge" ;
+CATTerrainHeaderCmd.CATDtmMeshEditFlipEdgeHdr.Icon.Pressed = "IP_CloudFlipEdge" ;
+CATTerrainHeaderCmd.CATDtmMeshEditFlipEdgeHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmScanEditionHdr.Icon.Normal  = "I_ScanEdition" ;
+CATTerrainHeaderCmd.CATDtmScanEditionHdr.Icon.Focused = "IF_ScanEdition" ;
+CATTerrainHeaderCmd.CATDtmScanEditionHdr.Icon.Pressed = "IP_ScanEdition" ;
+CATTerrainHeaderCmd.CATDtmScanEditionHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Operations
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmMeshRefinementHdr.Icon.Normal = "I_TrnRefineTerrain" ;
+CATTerrainHeaderCmd.CATDtmMeshRefinementHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmBreakLinesHdr.Icon.Normal  = "I_TrnBreakLines";
+CATTerrainHeaderCmd.CATDtmBreakLinesHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMeshMorphingHdr.Icon.Normal  = "I_CldMeshMorphing" ;
+CATTerrainHeaderCmd.CATDtmMeshMorphingHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmDecimateHdr.Icon.Normal = "I_StyDecimateCmd" ;
+CATTerrainHeaderCmd.CATDtmDecimateHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmSplitHdr.Icon.Normal  = "I_CldSplit" ;
+CATTerrainHeaderCmd.CATDtmSplitHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmTrimSplitHdr.Icon.Normal  = "I_TrimSurfaces" ;
+CATTerrainHeaderCmd.CATDtmTrimSplitHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmBooleanHdr.Icon.Normal  = "I_CldBoolean";
+CATTerrainHeaderCmd.CATDtmBooleanHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmMultiSectionHdr.Icon.Normal  = "I_TrnMultiSection";
+CATTerrainHeaderCmd.CATDtmMultiSectionHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmDisassembleHdr.Icon.Normal  = "I_CldDisassemble" ;
+CATTerrainHeaderCmd.CATDtmDisassembleHdr.Icon.Focused = "IF_CldDisassemble" ;
+CATTerrainHeaderCmd.CATDtmDisassembleHdr.Icon.Pressed = "IP_CldDisassemble" ;
+CATTerrainHeaderCmd.CATDtmDisassembleHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmUnionHdr.Icon.Normal  = "I_CloudUnion" ;
+CATTerrainHeaderCmd.CATDtmUnionHdr.Icon.Focused = "IF_CloudUnion" ;
+CATTerrainHeaderCmd.CATDtmUnionHdr.Icon.Pressed = "IP_CloudUnion" ;
+CATTerrainHeaderCmd.CATDtmUnionHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Dress-up
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmZLevelMapHdr.Icon.Normal  = "I_TrnContourMap" ;
+CATTerrainHeaderCmd.CATDtmZLevelMapHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmApplyColorHdr.Icon.Normal = "I_TrnApplyColor" ;
+CATTerrainHeaderCmd.CATDtmApplyColorHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmImageMappingHdr.Icon.Normal = "I_TrnImageMapping" ;
+CATTerrainHeaderCmd.CATDtmImageMappingHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// Watershed Analysis
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATTrnWatershedUICmdHdr.Icon.Normal = "I_TrnWatershedAnalysis" ;
+CATTerrainHeaderCmd.CATTrnWatershedUICmdHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+//=================================================================================================
+// View Selector / View focal
+//=================================================================================================
+
+//CATTerrainHeaderCmd.CATDtmViewSelectorHdr.Icon.Normal  = "I_CldViewSelector" ;
+//CATTerrainHeaderCmd.CATDtmViewSelectorHdr.Icon.Focused = "IF_CldViewSelector" ;
+//CATTerrainHeaderCmd.CATDtmViewSelectorHdr.Icon.Pressed = "IP_CldViewSelector" ;
+//CATTerrainHeaderCmd.CATDtmViewSelectorHdr.LongHelpId   = "CATTerrainHeaderCmd.CATDtmViewSelectorHdr" ;
+//CATTerrainHeaderCmd.CATDtmViewSelectorHdr.Accelerator  = "F4" ;
+
+//CATTerrainHeaderCmd.CATDtmFocalAdjusmentHdr.Icon.Normal  = "I_CldFocalAdjusment" ;
+//CATTerrainHeaderCmd.CATDtmFocalAdjusmentHdr.Icon.Focused = "IF_CldFocalAdjusment" ;
+//CATTerrainHeaderCmd.CATDtmFocalAdjusmentHdr.Icon.Pressed = "IP_CldFocalAdjusment" ;
+//CATTerrainHeaderCmd.CATDtmFocalAdjusmentHdr.LongHelpId   = "CATTerrainHeaderCmd.CATDtmFocalAdjusmentHdr" ;
+//CATTerrainHeaderCmd.CATDtmFocalAdjusmentHdr.Accelerator  = "F2" ;
+
+CATTerrainHeaderCmd.CATCivilUIPreviewHdr.Icon.Normal  = "I_CivDisplayCoordinates" ;
+CATTerrainHeaderCmd.CATCivilUIPreviewHdr.Icon.Focused = "IF_CivDisplayCoordinates" ;
+CATTerrainHeaderCmd.CATCivilUIPreviewHdr.Icon.Pressed = "IP_CivDisplayCoordinates" ;
+CATTerrainHeaderCmd.CATCivilUIPreviewHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+CATTerrainHeaderCmd.CATCivilUIPreviewHdr.Accelerator  = "F11" ;
+
+CATTerrainHeaderCmd.CATDtmHideImageMappingHdr.Icon.Normal = "I_TrnHideImageMapping" ;
+CATTerrainHeaderCmd.CATDtmHideImageMappingHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmShowImageMappingHdr.Icon.Normal = "I_TrnShowImageMapping" ;
+CATTerrainHeaderCmd.CATDtmShowImageMappingHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+
+//=================================================================================================
+// Tools
+//=================================================================================================
+
+CATTerrainHeaderCmd.CATDtmDevAnalysisHdr.Icon.Normal  = "I_CldColorMap" ;
+CATTerrainHeaderCmd.CATDtmDevAnalysisHdr.HelpRsc="CATTerrainWorkbenchHelpForCommands";
+
+CATTerrainHeaderCmd.CATDtmConvertToBodyHdr.Icon.Normal="I_CldMeshSegment";
+CATTerrainHeaderCmd.CATDtmConvertToBodyHdr.HelpRsc = "CATTerrainWorkbenchHelpForCommands";

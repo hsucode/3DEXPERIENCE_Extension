@@ -1,0 +1,362 @@
+<meta charset="UTF-8"/>
+ERR_NoWire.Request="无效线路线";
+ERR_NoWire.Diagnostic="线路线不含任何几何图形。";
+ERR_NoWire.Advice="检查线路定义并相应地做出更改。";
+
+ERR_InvalidWire.Request="无效线路线";
+ERR_InvalidWire.Diagnostic="线路线必须具有连续性，并且未分叉。";
+ERR_InvalidWire.Advice="检查线路定义并相应地做出更改。";
+
+ERR_MultiDomains.Request="线路不连续。";
+ERR_MultiDomains.Diagnostic="线路不具有连续性且正在分叉。";
+ERR_MultiDomains.Advice="检查线路定义并相应地做出更改。";
+
+ERR_WireGap.Request="不连续 #/P1";
+ERR_WireGap.Diagnostic="此段上的线路不连续。";
+ERR_WireGap.Advice="添加一个段。";
+
+ERR_NotHomogeneous.Request="无效线路线。";
+ERR_NotHomogeneous.Diagnostic="线路不同类：它包含点。";
+ERR_NotHomogeneous.Advice="检查线路定义并相应地做出更改。";
+
+ERR_Manifold.Request="无效线路线。";
+ERR_Manifold.Diagnostic="线路是非流形。";
+ERR_Manifold.Advice="检查线路定义并相应地做出更改。";
+
+ERR_Continuity.Request="无效线路线。";
+ERR_Continuity.Diagnostic="线路不具有连续性。";
+ERR_Continuity.Advice="检查线路定义并相应地做出更改。";
+
+ERR_Tangency.Request="无效线路线。";
+ERR_Tangency.Diagnostic="线路在相切中不具有连续性。";
+ERR_Tangency.Advice="检查线路定义并相应地做出更改。";
+
+ERR_Close.Request="无效线路线。";
+ERR_Close.Diagnostic="线路已关闭。";
+ERR_Close.Advice="检查线路定义并相应地做出更改。";
+
+ERR_Intersection.Request="无效线路线。";
+ERR_Intersection.Diagnostic="线路自相交";
+ERR_Intersection.Advice="检查线路定义并相应地做出更改。";
+
+INF_ConnectedMasterStation.Request="已连接的点。";
+INF_ConnectedMasterStation.Diagnostic="点已通过其他线路连接至主点。";
+INF_ConnectedMasterStation.Advice="无法更改点位置，并且某些参数已锁定。\n启动线路连接命令以检查所有连接。";
+
+INF_ConnectedSlaveStation.Request="已连接的点。";
+INF_ConnectedSlaveStation.Diagnostic="点已通过其他线路连接至从属点。";
+INF_ConnectedSlaveStation.Advice="修改点位置将影响从属点。
+启动线路连接命令以检查所有连接。";
+
+ERR_SwithConnectedPkPoint.Request="无法切换点。";
+ERR_SwithConnectedPkPoint.Diagnostic="点已通过其他线路连接至主点。";
+ERR_SwithConnectedPkPoint.Advice="无法修改点 /P1。\n启动线路连接命令以编辑连接。";
+
+ERR_InvalidAlignment="线路不合标准";
+ERR_AlignmentNotCompliant.Request="线路问题";
+ERR_AlignmentNotCompliant.Diagnostic="线路不合标准";
+ERR_AlignmentNotCompliant.Advice="关于详细的错误，请检查线路定义并进行相应的更改。";
+
+INF_ValidAlignment="线路符合标准";
+ERR_DesignRule="线路不符合设计规则。\n检查线路定义并相应地做出更改。";
+
+ERR_ClothoidLength="回旋曲线长度 /P1不遵守设计规则 ";
+ERR_ParabolaLength="抛物线长度 /P1 不遵守设计规则 ";
+
+ERR_VerticalWireLength="纵面线路长度小于总线路长度。";
+ERR_VerticalWireStart="纵面线路未在线路的开始位置开始。";
+
+ERR_Corner.Request="圆角创建失败";
+ERR_Corner.Diagnostic="圆角创建无法具有当前参数值";
+ERR_Corner.Advice="更改参数值";
+
+ERR_Stationing1.Request="错误的桩号";
+ERR_Stationing1.Diagnostic="桩号定义必须遵循某些规则。";
+ERR_Stationing1.Advice="通过公式 A + B : C 定义桩号，其中 \n A = 站点编号\n B（可选） = 与站点之间的距离 \n C（可选） = 侧面垂直偏移\n 可在布点开头添加可选标签\n 例如：P2 + 25 : 10";
+
+ERR_Stationing2.Request="错误的布点";
+ERR_Stationing2.Diagnostic="布点超过线路长度";
+ERR_Stationing2.Advice="更改布点值以减小其值";
+
+ERR_Stationing3.Request="错误的布点";
+ERR_Stationing3.Diagnostic="布点定义必须遵循某些规则。";
+ERR_Stationing3.Advice="通过公式 A + B 定义布点，其中 \n A = 站点编号\n B（可选） = 与站点之间的距离";
+
+ERR_Stationing4.Request="布点模糊";
+ERR_Stationing4.Diagnostic="一些布点共享相同的标签和范围。";
+ERR_Stationing4.Advice="为了避免任何模糊，请考虑更改布点标签和/或范围。";
+
+ERR_Stationing5.Request="布点模糊";
+ERR_Stationing5.Diagnostic="定义了多个布点。";
+ERR_Stationing5.Advice="使用标签定义布点。";
+
+ERR_UpdateTable.Request="表创建失败";
+ERR_UpdateTable.Diagnostic="表创建失败";
+ERR_UpdateTable.Advice="线路方式无效\n 或文件 resources\\Civil\\Alignment\\TableFilter.xsl 限制性太强。必需数据包括：\n - Distance\\CumulDistance \n - Distance\\PartialDistance \n - HorizontalAlignment \n - VerticalAlignment";
+
+Min="最小值：/P1";
+Max="最大值：/P1";
+
+ERR_NoRefGeom="无效的参考地形。\n选择参考地形曲线。";
+
+Status_Red="计算失败";
+Status_Green="已计算";
+Status_Orange="未计算";
+Status_Yellow="结果不是最新";
+
+ERR_NoRadiusStartValues.Request="没有最小/最大半径值";
+ERR_NoRadiusStartValues.Diagnostic="未在起点上找到最小/最大半径值";
+ERR_NoRadiusStartValues.Advice="检查起点参数速度、类别和设计规则";
+
+ERR_NoLengthStartValues.Request="没有最小/最大长度值";
+ERR_NoLengthStartValues.Diagnostic="未在起点上找到最小/最大长度值";
+ERR_NoLengthStartValues.Advice="检查起点参数速度、类别和设计规则";
+
+ERR_NoGradientStartValues.Request="没有最小/最大梯度值";
+ERR_NoGradientStartValues.Diagnostic="未在起点上找到最小/最大梯度值";
+ERR_NoGradientStartValues.Advice="检查起点参数速度、类别和设计规则";
+
+ERR_NoTransitionAngleStartValues.Request="没有最小/最大过渡角值";
+ERR_NoTransitionAngleStartValues.Diagnostic="未在起点上找到最小/最大过渡角值";
+ERR_NoTransitionAngleStartValues.Advice="检查起点参数速度、类别和设计规则";
+
+ERR_NoTransitionGradientStartValues.Request="没有最小/最大过渡梯度值";
+ERR_NoTransitionGradientStartValues.Diagnostic="未在起点上找到最小/最大过渡梯度值";
+ERR_NoTransitionGradientStartValues.Advice="检查起点参数速度、类别和设计规则";
+
+ERR_NoRadiusValues.Request="未找到最小/最大半径值";
+ERR_NoRadiusValues.Diagnostic="\n检查点参数速度、类别和设计规则。";
+
+ERR_NoLengthValues.Request="未找到最小/最大长度值";
+ERR_NoLengthValues.Diagnostic="\n检查点参数速度、类别和设计规则。";
+
+ERR_NoGradientValues.Request="未找到最小/最大梯度值";
+ERR_NoGradientValues.Diagnostic="\n检查点参数速度、类别和设计规则。";
+
+ERR_NoTransitionAngleValues.Request="未找到最小/最大过渡角值";
+ERR_NoTransitionAngleValues.Diagnostic="\n检查点参数速度、类别和设计规则。";
+
+ERR_NoTransitionGradientValues.Request="未找到最小/最大过渡梯度值";
+ERR_NoTransitionGradientValues.Diagnostic="\n检查点参数速度、类别和设计规则。";
+
+ERR_InvalidRadius.Request="半径超出限制";
+ERR_InvalidRadius.Diagnostic="半径 = /P1 的弧形超出限制 /P2 /P3";
+ERR_InvalidRadius.Advice="修改半径值";
+
+ERR_InvalidLength.Request="长度超出限制";
+ERR_InvalidLength.Diagnostic="长度 =/P1 的几何图形超出限制 /P2 /P3";
+ERR_InvalidLength.Advice="修改长度值";
+
+ERR_InvalidLengthStoppingSightDistance.Request="曲线长度不符合停车视距条件";
+ERR_InvalidLengthStoppingSightDistance.Diagnostic="当前长度过短";
+ERR_InvalidLengthStoppingSightDistance.Advice="修改曲线形状或更改车速限制\n/P1";
+
+INFO_ValidLengthStoppingSightDistance.Request="所有道路上都符合停车视距";
+INFO_ValidLengthStoppingSightDistance.Diagnostic="";
+INFO_ValidLengthStoppingSightDistance.Advice="";
+
+WAR_ImpossibleToComputeStoppingSightDistance.Request="无法计算停车视距";
+WAR_ImpossibleToComputeStoppingSightDistance.Diagnostic="为抛物线长度选择的默认设计规则";
+WAR_ImpossibleToComputeStoppingSightDistance.Advice="降低进或出坡度以解决问题";
+
+ERR_InvalidPassingSightDistance.Request="仅道路的 /P2 上符合 /P1 的超车区间";
+ERR_InvalidPassingSightDistance.Diagnostic="";
+ERR_InvalidPassingSightDistance.Advice="";
+
+INFO_ValidPassingSightDistance.Request="道路 /P2 上符合 /P1 的超车区间";
+INFO_ValidPassingSightDistance.Diagnostic="";
+INFO_ValidPassingSightDistance.Advice="";
+
+ERR_InvalidPassengerComfort.Request="乘客舒适度在弦高方面不满足";
+ERR_InvalidPassengerComfort.Diagnostic="当前长度过短";
+ERR_InvalidPassengerComfort.Advice="修改抛物线形状或更改车速限制\n";
+
+INFO_ValidPassengerComfort.Request="在整个道路上都符合乘客舒适度条件";
+INFO_ValidPassengerComfort.Diagnostic="";
+INFO_ValidPassengerComfort.Advice="";
+
+ERR_InvalidDrainageControl.Request="曲线位于曲线截面，过于扁平";
+ERR_InvalidDrainageControl.Diagnostic="应在距级别点 15 米内提供 0.30% 的最低等级";
+ERR_InvalidDrainageControl.Advice="修改曲线形状";
+
+INFO_ValidDrainageControl.Request="整条道路都符合流域条件";
+INFO_ValidDrainageControl.Diagnostic="";
+INFO_ValidDrainageControl.Advice="";
+
+NoSightDistance="无需视距";
+BreakingDistance="中断距离";
+BreakingDistanceError="级别太高，计算因中断距离而失败";
+StoppingSightDistance="停止视距";
+StoppingSightDistanceError="级别太高，计算因停止视距而失败";
+ComfortLength="舒适长度";
+ComfortLengthError="顶部不需要舒适长度";
+ParabolaLength="抛物线长度";
+
+ERR_InvalidGradient.Request="梯度超出限制";
+ERR_InvalidGradient.Diagnostic="梯度 = /P1 的斜坡超出限制 /P2 /P3";
+ERR_InvalidGradient.Advice="<html>文本</html>";
+
+ERR_InvalidTransitionAngle.Request="过渡角超出限制";
+ERR_InvalidTransitionAngle.Diagnostic="过渡角度 = /P1 的线超出限制 /P2 /P3";
+ERR_InvalidTransitionAngle.Advice="修改过渡角";
+
+ERR_InvalidTransitionGradient.Request="过渡梯度超出限制";
+ERR_InvalidTransitionGradient.Diagnostic="过渡梯度 = /P1 的斜坡超出限制 /P2 /P3";
+ERR_InvalidTransitionGradient.Advice="修改过渡梯度";
+
+// -------------------------- Dummy father Dsi errors -------------------------------------------------------
+ERR_RadiusRule.Request="半径设计规则错误";
+ERR_GradientRule.Request="梯度设计规则错误";
+ERR_LengthRule.Request="长度设计规则错误";
+ERR_TransitionRule.Request="过渡设计规则错误";
+ERR_CantRule.Request="超高设计规则错误";
+ERR_SuperelevationRule.Request="超高设计规则错误";
+ERR_AttainmentMethodsRule.Request="实现方法设计规则错误";
+ERR_StoppingSightDistance.Request="停止视距";
+ERR_PassingSightDistance.Request="超车视距";
+ERR_PassengerComfort.Request="乘客舒适度";
+ERR_DrainageControl.Request="排水控制";
+// ----------------------------------------------------------------------------------------------------------
+
+ERR_NoValidStartPoint.Request="无效起点";
+ERR_NoValidStartPoint.Diagnostic="平面线路上未定义正确的起点。";
+ERR_NoValidStartPoint.Advice="- 没有起点\n- 或者起点未设置在线路端点上。";
+
+ERR_NoHAlignment.Request="无效平面线路";
+ERR_NoHAlignment.Diagnostic="未找到链接到线路的平面线路。";
+ERR_NoHAlignment.Advice="重新创建新的线路或者删除纵面线路。";
+
+
+ERR_NoAlignmentSet.Request="无效线路";
+ERR_NoAlignmentSet.Diagnostic="未找到链接到选定线路的纵面线路。";
+ERR_NoAlignmentSet.Advice="关闭并重新打开平面线路或撤消线路重命名。";
+
+ERR_CreateVerticalAlignment.Request="纵面线路创建";
+ERR_CreateVerticalAlignment.Diagnostic="致命错误。";
+ERR_CreateVerticalAlignment.Advice="纵面线路创建失败。";
+
+ERR_Create3DAlignment.Request="3D 线路创建";
+ERR_Create3DAlignment.Diagnostic="致命错误。";
+ERR_Create3DAlignment.Advice="3D 线路创建失败。";
+
+ERR_PkPointLR.Request="线性参考";
+ERR_PkPointLR.Diagnostic="未能计算线性参考。";
+ERR_PkPointLR.Advice="当前距离值超出曲线限制。\n更改距离值。";
+
+ERR_NoDRXML.Request="设计规则";
+ERR_NoDRXML.Diagnostic="数据设置中定义的设计规则 xml 有误。";
+ERR_NoDRXML.Advice="在数据设置资源集“线路设计规则定义”中设置正确的设计规则 xml。";
+
+ERR_NoDRTable.Request="设计规则 - 缺少规则";
+ERR_NoDRTable.Diagnostic="在 xml 中未找到选定设计规则表。";
+ERR_NoDRTable.Advice="在数据设置资源集“线路设计规则定义”中检查设计规则 xml。";
+
+ERR_MissingRule.Request="设计规则";
+ERR_MissingRule.Diagnostic="出现与设计规则相关的错误。有关错误的详细信息，请检查线路助手中的线路状态。";
+ERR_MissingRule.Advice="有关错误的详细信息，请检查线路助手中的线路状态。";
+
+ERR_NoDRValue.Request="设计规则。";
+ERR_NoDRValue.Diagnostic="在当前设计规则表中未找到任何值。";
+ERR_NoDRValue.Advice="检查此点或之前各点上的速度和类别值。\n在“数据设置”资源集“线路设计规则定义”中检查设计规则 xml。";
+
+ERR_InvalidRadiusRange.Request="无效半径范围。";
+ERR_InvalidRadiusRange.Diagnostic="定义的半径参数范围与设计规则不符。";
+ERR_InvalidRadiusRange.Advice="应用设计规则范围。";
+
+ERR_InvalidRadiusRange.Title="无效的半径范围。";
+ERR_InvalidRadiusRange.Text="定义的半径参数范围与设计规则不符。";
+ERR_InvalidRadiusRange.Info="是否要在半径参数上应用设计规则范围？";
+
+ERR_InvalidGradientRange.Request="无效梯度范围。";
+ERR_InvalidGradientRange.Diagnostic="定义的角度参数范围与设计规则不符。";
+ERR_InvalidGradientRange.Advice="应用设计规则范围。";
+
+ERR_InvalidLengthRange.Title="无效的长度范围。";
+ERR_InvalidLengthRange.Text="定义的长度参数范围与设计规则不符。";
+ERR_InvalidLengthRange.Info="是否要在长度参数上应用设计规则范围？";
+
+ERR_NoRadiusCst.Request="没有半径约束。";
+ERR_NoRadiusCst.Diagnostic="没有与圆弧关联的半径约束。";
+ERR_NoRadiusCst.Advice="创建半径约束。";
+
+ERR_NoGradientCst.Request="没有角度约束。";
+ERR_NoGradientCst.Diagnostic="没有与线关联的角度约束。";
+ERR_NoGradientCst.Advice="创建角度约束。";
+
+ERR_BadSupport.Diagnostic="投影支持面未定义，或无效。";
+ERR_NoProjection.Diagnostic="投影失败。检查输入参数和支持面。";
+
+ERR_NoVAlignment.Title="没有纵面线路。";
+ERR_NoVAlignment.Text="该线路不存在纵面线路。";
+ERR_NoVAlignment.Advice="首先创建纵面线路。";
+
+ERR_3DExists.Title="现有 3D 线路。";
+ERR_3DExists.Text="该线路已具有 3D 线路。";
+ERR_3DExists.Advice="选择不具有 3D 线路的线路。";
+
+ERR_SeveralAlignment.Title="多个线路。";
+ERR_SeveralAlignment.Text="该平面线路具有多个线路。";
+ERR_SeveralAlignment.Advice="直接选择线路";
+
+ERR_No3DAlignment.Title="没有 3D 线路";
+ERR_No3DAlignment.Text="该线路不存在 3D 线路。";
+ERR_No3DAlignment.Advice="首先创建 3D 线路。";
+
+ERR_NoLinkedCurve.Title="无链接曲线。";
+ERR_NoLinkedCurve.Text="未找到选定点的链接曲线。";
+ERR_NoLinkedCurve.Advice="选择其他点或移动主点，以与线路约束相合。";
+
+ERR_InvalidImport.Title="几何图形导入无效";
+ERR_InvalidImport.Text="导入的几何图形已断开或没有线路方式链接。";
+ERR_InvalidImport.Advice="编辑用户首选项以激活链接导入。";
+
+ERR_FormatChecker="无法从 XML 文件读取参数“/P1”。未定义或其值具有错误的语法。";
+ERR_FormatCheckerIntervals="参数值“MinorInterval”必须是多个参数值“MajorInterval”";
+
+ERR_Profile_Mode.Request="输出轮廓模式无效";
+ERR_Profile_Mode.Diagnostic="确保输出轮廓使用显式定义呈现多条直线";
+ERR_Profile_NoGeometry.Request="空输出轮廓";
+ERR_Profile_NoGeometry.Diagnostic="创建左、右轮廓";
+ERR_Profile_NbDomain.Request="输出轮廓无效";
+ERR_Profile_NbDomain.Diagnostic="创建左、右轮廓";
+ERR_Profile_Homogeneous.Request="输出轮廓无效";
+ERR_Profile_Homogeneous.Diagnostic="创建单独由直线构成的轮廓";
+ERR_Profile_Intersection.Request="输出轮廓无效";
+ERR_Profile_Intersection.Diagnostic="创建不相交轮廓";
+ERR_Profile_Geometry.Request="输出轮廓无效";
+ERR_Profile_Geometry.Diagnostic="创建单独由直线构成的轮廓";
+ERR_Profile_Color.Request="轮廓颜色错误";
+ERR_Invalid_Color.Request="元素颜色无效";
+ERR_Invalid_Color.Diagnostic="元素颜色与默认颜色不对应。";
+ERR_Invalid_Color.Advice="修改元素颜色或使用上下文菜单中的“修复错误”。";
+
+//-----------------------------------
+// Specific to cross section
+//-----------------------------------
+ERR_CrossSectionProfile_NoLine.Request="典型横截面轮廓无效";
+ERR_CrossSectionProfile_NoLine.Diagnostic="典型横截面轮廓“/P1”未定义。";
+
+ERR_CrossSectionProfile_NoCenterLine.Request="典型横截面轮廓无效";
+ERR_CrossSectionProfile_NoCenterLine.Diagnostic="中心线或其起点或终点未创建或已被删除。";
+
+INF_CrossSectionProfile_NoProfile.Request="关于典型横截面轮廓的消息";
+INF_CrossSectionProfile_NoProfile.Diagnostic="草图不包含任何挖掘轮廓或填充轮廓。";
+
+ERR_MultiDomaineLaw.Request="不连续法则草图";
+ERR_MultiDomaineLaw.Diagnostic="/p 不连续或正在分叉。\n";
+ERR_MultiDomaineLaw.Advice="检查法则草图并相应地做出更改。";
+
+ERR_SketchLawWireLength.Request="小法则 草图";
+ERR_SketchLawWireLength.Diagnostic="/p 小于总线路长度。\n";
+ERR_SketchLawWireLength.Advice="检查法则草图以确保法则草图覆盖整个线路。";
+
+//--------------------------------------
+// Specific to road / railway context
+//--------------------------------------
+ERR_NoContextOnAlignment.Request="缺少线路上下文";
+ERR_NoContextOnAlignment.Diagnostic="未在平面线路上定义上下文。";
+ERR_NoContextOnAlignment.Advice="在编辑曲面之前，必须先在线路 /p1 上定义上下文。";
+
+ERR_InvalidSweepContext.Request="曲面上缺少上下文";
+ERR_InvalidSweepContext.Diagnostic="未在曲面上定义上下文 ";
+ERR_InvalidSweepContext.Advice="必须在曲面上定义上下文。请编辑此曲面以设置上下文。";

@@ -1,0 +1,32 @@
+<meta charset="UTF-8"/>
+
+CATCegAlignmentConnect_Panel="已连接线路";
+
+ColumnAlignmentHeader="线路";
+ColumnPkPointHeader="点";
+ColumnTypeHeader="类型";
+ColumnStatusHeader="状态";
+
+ConnectButton.Label="连接";
+ConnectButton.Tooltip="连接至选定的点。";
+RemoveButton.Label="断开连接";
+RemoveButton.Tooltip="从相交点断开连接。";
+
+ClothoidButton.Tooltip="从相交点创建与线路相切的回旋曲线。";
+ProfileButton.Tooltip="从相交点创建轮廓。";
+
+LabelConnection="与 /P1 的已连接线路列表";
+
+CheckBoxLink.Label="创建约束";
+CheckBoxLink.Tooltip="在投影的几何图形上创建重合约束。
+已连接线路将与主线路紧密相连。";
+
+Slave="已连接的点";
+Master="相交点";
+
+Select="选择要连接的点";
+
+Connected="已连接";
+NotConnected="未连接";
+NotOnAlignment="点不在线路线上";
+

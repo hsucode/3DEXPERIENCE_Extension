@@ -1,0 +1,8 @@
+<meta charset="UTF-8"/>
+Title = "添加参数";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "Select Object : ";
+Frame1.Label2.Title = " Param Name : ";
+Frame1.Label3.Title = " Type : ";
+Frame1.Label4.Title = " Value : ";
+Frame1.PushButton1.Title = "Add";

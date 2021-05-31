@@ -1,0 +1,10 @@
+<meta charset="UTF-8"/>
+Title = "距离标注定义";
+Frame1.Title = "设置";
+Frame1.Label1.Title = "曲线集合   ";
+Frame2.Title = "UDF 设置";
+Frame2.Label2.Title = "模板Part名称 ";
+Frame2.Label3.Title = "UDF 名称";
+Frame2.Label4.Title = "版本";
+Frame1.RadioButton1.Title = "几何图形集";
+Frame1.RadioButton2.Title = "有序几何图形集";

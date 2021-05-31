@@ -1,0 +1,7 @@
+Label1.Title = "[~CATPrdRenameTreeDlg,Label1.Title~ Mødîfy Nåmé : ]";
+Title = "[~CATPrdRenameTreeDlg,Title~ CATPrdRénåmeTreeDlg]";
+msg1.Title = "[~CATPrdRenameTreeDlg,msg1.Title~ Errør]";
+Label2.Title = "[~CATPrdRenameTreeDlg,Label2.Title~ Prødüct : ]";
+msg.Title = "[~CATPrdRenameTreeDlg,msg.Title~ Errør]";
+msg1.Text = "[~CATPrdRenameTreeDlg,msg1.Text~ Rün îs Fåiléd !]";
+msg.Text = "[~CATPrdRenameTreeDlg,msg.Text~ Ç/ÊäÈ/ÒªÐÞ¸ÄµÄÃû³Æ]";

@@ -1,0 +1,5 @@
+Label1.Title = "[十CATPrtKPRunDlg,Label1.Title十一構ソチ－Product Name ｣ｺ]";
+Title = "[十CATPrtKPRunDlg,Title十一構ソチ－Run Part Knowledge Pattern ]";
+OpenWindowError.Text = "[十CATPrtKPRunDlg,OpenWindowError.Text十一構ソチ－ｴｪｵｽｴｰｿﾚﾊｧｰﾜ!]";
+Label2.Title = "[十CATPrtKPRunDlg,Label2.Title十一構ソチ－Time(min) : ]";
+OpenWindowError.Title = "[十CATPrtKPRunDlg,OpenWindowError.Title十一構ソチ－Error]";

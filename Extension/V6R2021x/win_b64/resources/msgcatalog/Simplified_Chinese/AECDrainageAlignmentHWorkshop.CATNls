@@ -1,0 +1,24 @@
+<meta charset="UTF-8"/>
+//----------------------------------------------------------------------------
+// Workshop
+//----------------------------------------------------------------------------
+AECDrainageAlignmentHWorkshop.Title="线路草图编辑器";
+AECDrainageAlignmentHWorkshop.ShortHelp="线路草图编辑器";
+AECDrainageAlignmentHWorkshop.Help="线路草图编辑器";
+AECDrainageAlignmentHWorkshop.LongHelp="线路草图编辑器";
+
+//----------------------------------------------------------------------------
+// ACTION BAR
+//----------------------------------------------------------------------------
+AlignmentSection.Title="线路";
+SketcherSection.Title="草图编辑器";
+AnalysisSection.Title="分析";
+
+//----------------------------------------------------------------------------
+// COMMAND Not in action bar
+//----------------------------------------------------------------------------
+AECDrainageAlignmentHWorkshop.AlignmentFixErrorHdr.Title="修复错误";
+AECDrainageAlignmentHWorkshop.AlignmentFixErrorHdr.Help="修复错误";
+AECDrainageAlignmentHWorkshop.AlignmentFixErrorHdr.ShortHelp="修复错误";
+AECDrainageAlignmentHWorkshop.AlignmentFixErrorHdr.LongHelp="通过修改几何图形修复错误。";
+

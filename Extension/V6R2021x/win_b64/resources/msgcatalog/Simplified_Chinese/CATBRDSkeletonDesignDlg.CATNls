@@ -1,0 +1,12 @@
+Title = "桥梁布跨定义";
+Frame1.Title = "Excel";
+Frame1.Label1.Title = "选择Excel : ";
+Frame1.PushButton1.Title = "浏览...";
+Frame2.Title = "输入";
+Frame2.Label2.Title = "起始桩号点: ";
+Frame2.Label3.Title = "地形面: ";
+Frame2.Label4.Title = "线路: ";
+Frame2.Label5.Title = "左侧路幅: ";
+Frame2.Label6.Title = "右侧路幅: ";
+Frame4.Title = "示意图";
+Frame4.Label19.Title = "Label19";

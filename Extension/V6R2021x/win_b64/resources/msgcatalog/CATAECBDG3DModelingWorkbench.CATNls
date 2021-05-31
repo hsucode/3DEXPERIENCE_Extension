@@ -1,0 +1,16 @@
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATAECBDG3DModelingWorkbench.Title      = "Building 3D Design Extension";
+CATAECBDG3DModelingWorkbench.ShortHelp  = "Building 3D Design Extension";
+CATAECBDG3DModelingWorkbench.Help       = "Building 3D Design Extension";
+CATAECBDG3DModelingWorkbench.LongHelp   = "Building 3D Design Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR 
+//---------------------------------------------------------------------------- 
+
+GridSection.Title="Grid";
+DataSection.Title="Global Data";
+StructureSection.Title="Structure";
+DraftingSection.Title="Drawing";

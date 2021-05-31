@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+AEC_REPORT_BUSINESS_OBJECT="业务对象： ";
+AEC_REPORT_EXTENSION="扩展： ";
+AEC_REPORT_ATTRIBUTE="属性： ";
+
+AEC_LOG_BUSINESS_OBJECT="未创建以下业务对象： ";
+AEC_LOG_DEGENERATED_BUSINESS_OBJECT="以下业务对象已退化为 AecElementAssembly： ";
+AEC_LOG_EXTENSION="未导入以下扩展，因为未在数据模型中对其进行定义： ";
+AEC_LOG_DEPRECATED_EXTENSION="未导入以下扩展，因为其在最新版的 IFC 中已被弃用： ";
+AEC_LOG_EXTENSION_ON_WRONG_OBJECT="未导入以下扩展，因为其关联到一个错误的业务对象： ";
+AEC_LOG_ATTRIBUTE="未导入以下属性，因为未在数据模型中对其进行定义： ";
+AEC_LOG_ELEVATION_LOSS_CARTESIAN_2D="未导入以下属性，因为默认坐标参考系是直角 2D 类型： ";
+
+AEC_LOG_ALIGNMENT_CURVE="未导入以下线路几何图形，因为参数错误：/P1";
+AEC_LOG_ALIGNMENT_CURVE_NOTSUPPORTED="未导入以下线路几何图形，因为其不受支持：/P1";
+AEC_LOG_ALIGNMENT="仅部分导入以下线路，因为某些几何图形尚未导入：/P1";
+AEC_LOG_ALIGNMENT_INVALID="已导入以下线路，但结果无效：/P1";

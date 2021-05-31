@@ -1,0 +1,17 @@
+<meta charset="UTF-8"/>
+//========================================================
+// CATCivilUICurviSelection.CATNls
+//========================================================
+State1.SelectStartElement="选择起始元素。";
+State1.SelectCenterElement="选择中心元素。";
+State1.SelectEndElement="选择终止元素。";
+State1.SelectCurve="选择曲线。";
+State1.SelectTerrain="选择地形。";
+State1.SelectSupportSnapPoint="选择一个点以捕捉支持面。";
+
+State1.SelectSkeletonGeom="选择布局元素。";
+State1.SelectStartSupportGeom="在超稳定跨跃开始时选择支持面布局元素。";
+State1.SelectEndSupportGeom="在超稳定跨跃结束时选择支持面布局元素。";
+
+ErrorMessage.PointType.StartStation="起点站类型无效。它必须定义为：";
+ErrorMessage.PointType.EndStation="终点站类型无效。不得将其定义为：";

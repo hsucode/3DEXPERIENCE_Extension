@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title = "UDF数据修改";
+Frame1.Title = "示意图";
+Label1.Title = "UDF集合 ";
+Label2.Title = "源参数";
+Label3.Title = "目标参数";
+Frame1.Label4.Title = "Label4";

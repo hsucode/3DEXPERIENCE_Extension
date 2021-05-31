@@ -1,0 +1,28 @@
+<meta charset="UTF-8"/>
+
+//----------------------------------------------------------------------------
+// WORKSHOP
+//----------------------------------------------------------------------------
+CATCivil3DModelingWorkbench.Title      = "Civil 3D Design Extension";
+CATCivil3DModelingWorkbench.ShortHelp  = "Civil 3D Design Extension";
+CATCivil3DModelingWorkbench.Help       = "Civil 3D Design Extension";
+CATCivil3DModelingWorkbench.LongHelp   = "Civil 3D Design Extension";
+
+//----------------------------------------------------------------------------
+// TOOLBAR
+//----------------------------------------------------------------------------
+
+Tab_Civil3DWkbSection.Title="土木工学";
+Tab_Road3DWkbSection.Title="道路";
+Tab_Terrain3DWkbSection.Title="地形";
+Tab_Bridge3DWkbSection.Title="橋の設計";
+Tab_RebarSection.Title="鐵筋";
+Tab_DrawingSection.Title="図面";
+Tab_AdditionalCivil3DWkbSection.Title="機能拡張";
+Tab_WireframeAndSurface.Title="ワイヤーフレームと表面";
+Tab_Volume.Title="体積";
+Tab_Solid.Title="ソリッド";
+Tab_Functional.Title="機能性";
+Tab_Review.Title="レビュー";
+AfrViewSection.Title="ビュー";
+AfrGeneralSection.Title="工具";

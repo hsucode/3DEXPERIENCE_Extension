@@ -1,0 +1,11 @@
+<meta charset="UTF-8"/>
+Title = "道路加宽";
+Frame1.Title = "设置";
+Frame1.Label1.Title = " 道路中心曲线 ";
+Frame1.Label2.Title = " 道路内边线 ";
+Frame1.Label3.Title = " 道路外边线 ";
+Frame1.Label4.Title = " 里程点1 : ";
+Frame1.Label5.Title = " 里程点2 : ";
+
+msg.Title = "错误";
+msg.Text = "创建失败，请检查输入 !";

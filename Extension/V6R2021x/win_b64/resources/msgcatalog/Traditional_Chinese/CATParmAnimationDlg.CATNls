@@ -1,0 +1,8 @@
+<meta charset="UTF-8"/>
+Title = "截圖定義";
+Frame1.Title = "設置";
+Frame1.Label1.Title = "選擇參數: ";
+Frame1.Label2.Title = "參數: ";
+Frame1.Label3.Title = "參數步長: ";
+Frame1.Label4.Title = "導出路徑: ";
+Frame1.PushButton1.Title = "瀏覽...";

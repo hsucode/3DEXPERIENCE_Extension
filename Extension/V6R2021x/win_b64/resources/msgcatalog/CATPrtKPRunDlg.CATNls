@@ -1,0 +1,7 @@
+<meta charset="UTF-8"/>
+Title = "Run Part Knowledge Pattern ";
+Label1.Title = "Product Name ：";
+
+OpenWindowError.Title = "Error";
+OpenWindowError.Text = "打开到窗口失败!";
+Label2.Title = "Time(min) : ";

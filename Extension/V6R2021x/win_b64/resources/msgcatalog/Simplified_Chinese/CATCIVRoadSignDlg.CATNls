@@ -1,0 +1,9 @@
+Title = "CATCIVRoadSignDlg";
+Frame1.Title = "Template";
+Frame1.Label1.Title = "零件ID : ";
+Frame1.Label2.Title = "UDF名称 : ";
+Frame1.Label3.Title = "版本 : ";
+Frame1.PushButton1.Title = "PushButton1";
+Frame2.Title = "Input";
+Frame2.Label4.Title = "曲线 : ";
+Frame2.Label5.Title = "桩号 : ";

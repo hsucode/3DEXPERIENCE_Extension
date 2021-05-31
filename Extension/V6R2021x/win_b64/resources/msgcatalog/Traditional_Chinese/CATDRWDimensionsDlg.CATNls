@@ -1,0 +1,14 @@
+<meta charset="UTF-8"/>
+Title = "立面展開標注";
+SelAxis.Title = "UDF集合:";
+PushButton1.Title = "PushButton1";
+Label1.Title = "圖紙：";
+Label2.Title = "Label2";
+Frame1.Label1.Title = "圖紙:";
+Frame1.Title = "設置";
+Frame1.SelAxis.Title = "UDF集合:";
+Frame1.PushButton1.Title = "PushButton1";
+Frame1.Label2.Title = "位置點偏移:";
+Frame2.Title = "示意圖";
+Frame2.diagram.Title = "Label3";
+Frame1.OutputFeatureNameLabel.Title = "點名稱:";

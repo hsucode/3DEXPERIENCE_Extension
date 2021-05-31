@@ -1,0 +1,6 @@
+<meta charset="UTF-8"/>
+Title = "綫路擬合定義";
+SelAxis.Title = "參考軸系:  ";
+SelRoadCurve.Title = "水平曲綫:  ";
+Label3.Title = "縱段曲綫(zx plane & -x Direction) :  ";
+PushButton1.Title = "選擇曲綫";

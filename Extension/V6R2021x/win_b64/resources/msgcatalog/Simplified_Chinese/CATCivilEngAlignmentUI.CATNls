@@ -1,0 +1,272 @@
+<meta charset="UTF-8"/>
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.UndoTitle="创建点";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.UndoTitle="线路轮廓";
+CATCivilEngAlignmentUI.CATCeg2DConnectCmd.UndoTitle="连接曲线";
+CATCivilEngAlignmentUI.CATCegCreateHorizontalAlignmentCmd.UndoTitle="创建平面线路";
+CATCivilEngAlignmentUI.CATCegAlignmentCmd.UndoTitle="创建线路";
+CATCivilEngAlignmentUI.CATCegAlignment2DLayoutCmd.UndoTitle="创建表";
+CATCivilEngAlignmentUI.CATCegAlignmentConnectCmd.UndoTitle="创建线路连接";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.UndoTitle="插入点";
+CATCivilEngAlignmentUI.CATCegAlignmentFixErrorCmd.UndoTitle="修复错误";
+CATCivilEngAlignmentUI.CATCeg2DPkPointByProjectionCmd.UndoTitle="按 3D 点投影创建点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.UndoTitle="创建点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOffsetCmd.UndoTitle="通过偏移创建点";
+CATCivilEngAlignmentUI.CATCegSelect2DGeomCmd.UndoTitle="选择 2D 点";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.UndoTitle="创建回旋曲线";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.UndoTitle="创建垂直曲线";
+CATCivilEngAlignmentUI.CATCegAlignmentSweepCmd.UndoTitle="通过线路曲线创建曲面";
+CATCivilEngAlignmentUI.CATCegDisplayAlignmentSegmentInfoCmd.UndoTitle="显示线段信息";
+CATCivilEngAlignmentUI.CATCegAlignment3DPointCmd.UndoTitle="创建分割点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.UndoTitle="创建分割点";
+CATCivilEngAlignmentUI.CATCegAlignmentSplitViewCmd.UndoTitle="分割当前视图";
+CATCivilEngAlignmentUI.CATCegAlignmentConvertGeomCmd.UndoTitle="保留选定几何图形";
+CATCivilEngAlignmentUI.CATCegAlignmentDeleteGeomCmd.UndoTitle="删除选定几何图形";
+CATCivilEngAlignmentUI.CATCegAlignmentConvertAllGeomCmd.UndoTitle="保留所有受影响的几何图形";
+CATCivilEngAlignmentUI.CATCegAlignmentDeleteAllGeomCmd.UndoTitle="删除所有受影响的几何图形";
+
+CATCivilEngAlignmentUI.CATCegAlignmentSweepCmd.SelectAlignment.Message="选择 3D 线路";
+CATCivilEngAlignmentUI.CATCegAlignment3DPointCmd.SelectAlignment.Message="选择 3D 线路";
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.PointCreation.Message="单击创建点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.PointSelection.Message="选择要切换的点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.PointEdition.Message="点定义";
+CATCivilEngAlignmentUI.CATCeg2DPkPointByProjectionCmd.PointSelection.Message="选择要投影的点";
+CATCivilEngAlignmentUI.CATCeg2DConnectCmd.PointCurveSelection.Message="选择 2D 点或曲线";
+CATCivilEngAlignmentUI.CATCeg2DConnectCmd.Connect.Message="连接定义";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.LineSelection.Message="选择 2D 直线";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.PointMove.Message="单击点位置";
+CATCivilEngAlignmentUI.CATCegSelectGeomCmd.GeomSelection.Message="选择几何图形";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.SelectStartPoint.Message="单击以创建起点";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.SelectEndPoint.Message="单击以创建终点";
+CATCivilEngAlignmentUI.CATCegDisplayAlignmentSegmentInfoCmd.SelectSegment.Message="选择线路线段";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.SelectPointState.Message="单击以创建分割点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.SelectFirstPointState.Message="单击以创建第一分割点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.SelectSecondPointState.Message="单击以创建第二分割点";
+
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.SelectTangent.Message="选择初始切线";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.SelectStartPoint.Message="选择起点";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.SelectFinalCurve.Message="选择点、线或圆（可选）";
+
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPoint.Message="单击或选择轮廓的起点";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.CreateLine.Message="单击或选择当前直线的终点";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.CreateTgtArc.Message="单击创建当前相切弧的终点";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.CreateCorner.Message="单击或选择点以创建圆角";
+
+// Gestion SwitchBar
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Line.Title="直线";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Line.Help="创建直线";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Line.LongHelp="切换至“直线”命令。";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Line.ShortHelp="直线";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Connect.Title="连接曲线";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Connect.Help="在 2 条直线之间创建连接曲线";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Connect.LongHelp="切换至“连接曲线”命令。";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.Connect.ShortHelp="连接曲线";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.TgtArc.Title="相切弧";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.TgtArc.Help="创建与线相切的弧。";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.TgtArc.LongHelp="切换至“相切弧”命令。";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.SwitchBar.TgtArc.ShortHelp="相切弧";
+
+// Gestion Visu Copilote
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.Name.Title="第一点： ";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.Name.Help="定义第一点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.Name.ShortHelp="第一点";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.Name.LongHelp="定义第一点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.ULabel.ShortHelp="第一点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.UEditor.ShortHelp="第一点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.VLabel.ShortHelp="第一点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.FirstPt.VEditor.ShortHelp="第一点的第二坐标";
+
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.Name.Title="中断点： ";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.Name.Help="定义中断点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.Name.ShortHelp="第一点";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.Name.LongHelp="定义中断点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.ULabel.ShortHelp="中断点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.UEditor.ShortHelp="中断点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.VLabel.ShortHelp="中断点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DBreakCmd.BreakPoint.VEditor.ShortHelp="中断点的第二坐标";
+
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.Name.Title="初始点： ";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.Name.Help="定义初始点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.Name.ShortHelp="初始点";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.Name.LongHelp="定义初始点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.ULabel.ShortHelp="初始点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.UEditor.ShortHelp="初始点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.VLabel.ShortHelp="初始点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DClothoidCmd.InitialPt.VEditor.ShortHelp="初始点的第二坐标";
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.Name.Title="点： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.Name.Help="定义点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.Name.ShortHelp="点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.Name.LongHelp="定义点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.ULabel.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.UEditor.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.VLabel.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Point.VEditor.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="桩号： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义桩号";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="桩号";
+CATCivilEngAlignmentUI.CATCeg2DPkPointCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义桩号。";
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.Name.Title="点： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.Name.Help="定义点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.Name.ShortHelp="点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.Name.LongHelp="定义点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.ULabel.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.UEditor.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.VLabel.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Point.VEditor.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="桩号： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义桩号";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="桩号";
+CATCivilEngAlignmentUI.CATCeg2DPkPointSplitStationingCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义桩号。";
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.Name.Title="点： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.Name.Help="定义点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.Name.ShortHelp="点";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.Name.LongHelp="定义点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.ULabel.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.UEditor.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.VLabel.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Point.VEditor.ShortHelp="点的第二坐标";
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="距离： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义距离";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="距离";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义距离。";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="桩号： ";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义桩号";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="桩号";
+CATCivilEngAlignmentUI.CATCeg2DPkPointOnCurveCmd.Stationing.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义桩号。";
+
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="梯度： ";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义渐变";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="梯度";
+CATCivilEngAlignmentUI.CATCeg2DProfileCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义渐变。";
+
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.Name.Title="点： ";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.Name.Help="定义点的坐标";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.Name.ShortHelp="点";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.Name.LongHelp="定义点的坐标。";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.ULabel.Title="H： ";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.ULabel.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.UEditor.ShortHelp="点的第一坐标";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.VLabel.Title="V： ";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.VLabel.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Point.VEditor.ShortHelp="点的第二坐标";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="梯度： ";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义起始梯度";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="梯度";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Gradient.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义起始梯度。";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="长度： ";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义水平长度";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="长度";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Length.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义水平长度。";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Radius.Dimension.EnglobingFrame.IntermediateFrame.Label.Title="半径： ";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Radius.Dimension.EnglobingFrame.IntermediateFrame.Label.Help="定义最小抛物线半径";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Radius.Dimension.EnglobingFrame.IntermediateFrame.Label.ShortHelp="半径";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Radius.Dimension.EnglobingFrame.IntermediateFrame.Label.LongHelp="定义最小抛物线半径。\n最小半径是抛物线焦距的两倍";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Concave.Check.Title="凹";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Concave.Check.ShortHelp="凹";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Concave.Check.Help="定义曲线为凸";
+CATCivilEngAlignmentUI.CATCeg2DBaseVerticalCmd.Concave.Check.LongHelp="定义曲线为凹，否则为凸";
+
+CATCivilEngAlignmentUI.CATCegSelect2DPointCmd.PointSelection.Message="选择点";
+
+CATCivilEngAlignmentUI.CATCeg2DPkPointOffsetCmd.PointEdition.Message="点定义。如有需要，选择起点。";
+
+CATCivilEngAlignmentUI.CATCegAlignmentCmd.StateContextDefinition.Message="定义线路上下文。";
+CATCivilEngAlignmentUI.CATCegAlignmentCmd.StateHoriAlignmentSelection.Message="选择平面线路。";
+CATCivilEngAlignmentUI.CATCegAlignmentCmd.StateAlignmentSelection.Message="选择线路。";
+CATCivilEngAlignmentUI.CATCegAlignmentCmd.StateTerrainSelection.Message="选择地形和地质层。";
+CATCivilEngAlignmentUI.CATCegAlignmentCmd.State3DSelection.Message="选择 3D 对象。";
+
+// Sketch virtual node
+StationGroup="线路点";
+
+// Report
+Type="类型";
+ReportName="线路报告";
+Stationing="桩号";
+CumulDistance="累积距离";
+PartialDistance="局部距离";
+ElevationTerrain="地形标高";
+Elevation="标高";
+ElevationDiff="标高 - 地形";
+GeomTypeH="线路直线和曲线";
+GeomTypeV="斜率和梯度";
+LineH="直线长度 = /P1";
+LineV="直线梯度 = /P1";
+Arc="圆弧半径 = /P1";
+Clothoid="回旋曲线长度 = /P1";
+Parabola="抛物线";
+Geolocation="地理位置";
+Easting="东";
+Northing="北";
+HCurve="水平曲线";
+VCurve="垂直曲线";
+StartEasting="起点向东";
+StartNorthing="起点向北";
+StartDirection="起始方向";
+Length="长度";
+Radius="半径";
+ClothoidConstant="回旋曲线常量";
+CCW="逆时针";
+IsEntry="为条目";
+StartDistance="起始距离";
+StartHeight="起始高度";
+StartGradient="起始梯度";
+EndGradient="结束梯度";
+HorizontalLength="水平长度";
+Sag="弦高";
+Convex="凸";
+StartTangentLength="起始切线长度";
+EndTangentLength="结束切线长度";
+PIEasting="PI 向东";
+PINorthing="PI 向北";
+
+EnableStep="附加离散点";
+EnableStep.TooltipShortHelp="在报告中添加具有等间距的点。";
+SpacingParm="间距";
+SpacingParm.TooltipShortHelp="报告中附加点的间距长度";
+
+AlignmentSegmentType_1="线";
+AlignmentSegmentType_2="圆";
+AlignmentSegmentType_3="抛物线";
+AlignmentSegmentType_4="回旋曲线";
+
+// eAlignmentPointType
+P="点";
+PI="相交点";
+TC="线-圆弧";
+CT="圆弧-线";
+ST="螺旋-线";
+TS="线-螺旋";
+SC="螺旋-圆弧";
+CS="圆弧-螺旋";
+TT="线-线";
+
+// CATCegAlignmentErrorDataCustom
+Object="对象";
+Value="值";
+MinValue="最小值";
+MaxValue="最大值";
+
+// Pk Point : Semantic typing
+SemanticTyping.SameTypeWarning="与上一个点类型相同。\n它将开始新的 /P1。";
+SemanticTyping.EmptySelection="未选择任何线路点！";
+
+ActiveProfileUpdated="活动水平线路现在为 /P1";
+NoActiveProfileUpdated="没有活动水平线路";

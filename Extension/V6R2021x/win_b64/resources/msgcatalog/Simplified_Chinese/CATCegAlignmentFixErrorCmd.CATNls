@@ -1,0 +1,12 @@
+<meta charset="UTF-8"/>
+GradientWarning.Title="梯度超出限制修复问题";
+GradientWarning.Text="未找到修复问题的解决方案";
+GradientWarning.InformativeText="通过更改正切的等级来获得所需的结果，从而手动修复";
+
+SightDistanceWarning.Title="视距修复问题";
+SightDistanceWarning.Text="没有足够的空间来更新抛物线的长度";
+SightDistanceWarning.InformativeText="通过更改车辆速度或更改垂直线路的几何图形来手动修复";
+
+RadiusWarning.Title="半径修复问题";
+RadiusWarning.Text="更改半径约束的值时遇到问题";
+RadiusWarning.InformativeText="手动维修或尝试更改车辆速度或水平线路的几何体";
