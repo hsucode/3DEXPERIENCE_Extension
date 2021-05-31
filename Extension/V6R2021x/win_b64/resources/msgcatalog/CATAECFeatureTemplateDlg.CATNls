@@ -1,6 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "AEC Feature Template";
-CheckButtonInput.Title = "INPUT";
-CheckButtonGeometricalSet.Title = "GEOMETRICAL SET";
-CheckButtonOrderedGeometricalSet.Title = "ORDERED GEOMETRICAL SET";
-CheckButtonInputConstruction.Title = "INPUT CONSTRUCTION";

@@ -1,7 +1,0 @@
-Title = "[~CATParmAnimationDlg,Title~ Påraméters Anîmatiøn Definition]";
-Frame1.Title = "[~CATParmAnimationDlg,Frame1.Title~ Sétüp]";
-Frame1.Label4.Title = "[~CATParmAnimationDlg,Frame1.Label4.Title~ Føldér Påth : ]";
-Frame1.Label2.Title = "[~CATParmAnimationDlg,Frame1.Label2.Title~ Påram Intérval : ]";
-Frame1.Label3.Title = "[~CATParmAnimationDlg,Frame1.Label3.Title~ Chångé Step : ]";
-Frame1.Label1.Title = "[~CATParmAnimationDlg,Frame1.Label1.Title~ Sélect Påram : ]";
-Frame1.PushButton1.Title = "[~CATParmAnimationDlg,Frame1.PushButton1.Title~ Brøwsé...]";

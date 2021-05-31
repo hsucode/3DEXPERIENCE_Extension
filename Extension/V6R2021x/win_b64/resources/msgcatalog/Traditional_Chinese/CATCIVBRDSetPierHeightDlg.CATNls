@@ -1,8 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "桥墩高度定义";
-Frame1.Title = "示意图";
-Frame2.Title = "数据";
-Frame2.Label1.Title = "轴系列表";
-Frame2.Label2.Title = "线路平曲线 ";
-Frame1.DiagramLabel.Title = "DiagramLabel";
-Frame2.Label3.Title = "减去值 ";

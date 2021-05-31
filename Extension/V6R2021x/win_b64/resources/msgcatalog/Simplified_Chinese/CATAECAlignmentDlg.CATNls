@@ -1,7 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "缓和曲线";
-Frame1.Title = "设置";
-Frame1.Label1.Title = " 选择直线集 ";
-Frame1.Label2.Title = " R ";
-Frame1.Label3.Title = " ls ";
-Frame1.Label4.Title = " le ";

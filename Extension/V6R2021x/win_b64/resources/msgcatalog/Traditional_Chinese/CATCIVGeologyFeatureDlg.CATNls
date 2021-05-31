@@ -1,5 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "地质";
-Frame1.Title = "设置";
-Frame1.Label1.Title = " 曲面集合 : ";
-Frame1.PushButton1.Title = "移除";

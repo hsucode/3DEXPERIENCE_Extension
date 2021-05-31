@@ -1,7 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "Rename Definition";
-Frame1.Title = "Setup";
-Frame1.Label1.Title = "String: ";
-Frame1.Label2.Title = "Index : ";
-Frame1.Editor1.Text = "A_";
-Frame1.Editor2.Title = "1";

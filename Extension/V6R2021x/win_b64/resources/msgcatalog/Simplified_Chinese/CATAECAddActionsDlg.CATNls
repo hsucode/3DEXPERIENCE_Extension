@@ -1,9 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "创建动作";
-Frame1.Title = "设置";
-Frame1.Label1.Title = "关系集: ";
-Frame1.Label2.Title = "文件路径: ";
-Frame1.PushButton1.Title = "浏览...";
-
-msg.Title = "错误";
-msg.Text = "文件路径有误，请重新选择";

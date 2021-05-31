@@ -1,8 +1,0 @@
-Title = "[廫CATInstantiatePrtUDFT1Dlg,Title廫堦峔僜僠亅实例化UDF定义]";
-Frame1.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.Title廫堦峔僜僠亅Setup]";
-Frame1.Label4.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.Label4.Title廫堦峔僜僠亅 UDF Name : ]";
-Frame1.Label5.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.Label5.Title廫堦峔僜僠亅 版本号 : ]";
-Frame1.Label2.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.Label2.Title廫堦峔僜僠亅 选择曲线(单选) : ]";
-Frame1.Label3.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.Label3.Title廫堦峔僜僠亅 Part Name : ]";
-Frame1.Label1.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.Label1.Title廫堦峔僜僠亅 选择点(多选)  : ]";
-Frame1.PushButton1.Title = "[廫CATInstantiatePrtUDFT1Dlg,Frame1.PushButton1.Title廫堦峔僜僠亅PushButton1]";

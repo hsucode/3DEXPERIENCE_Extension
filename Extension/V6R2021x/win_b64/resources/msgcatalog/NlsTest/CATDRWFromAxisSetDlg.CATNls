@@ -1,7 +1,0 @@
-Label1.Title = "[~CATDRWFromAxisSetDlg,Label1.Title~ Ax顂 S閠s : ]";
-Title = "[~CATDRWFromAxisSetDlg,Title~ CATDRWFr鴐Ax顂S閠Dlg]";
-msg1.Title = "[~CATDRWFromAxisSetDlg,msg1.Title~ Err鴕]";
-Label2.Title = "[~CATDRWFromAxisSetDlg,Label2.Title~ Pr鴇點t : ]";
-msg.Title = "[~CATDRWFromAxisSetDlg,msg.Title~ Err鴕]";
-msg1.Text = "[~CATDRWFromAxisSetDlg,msg1.Text~ 创建图纸或创建视图失败]";
-msg.Text = "[~CATDRWFromAxisSetDlg,msg.Text~ Ax顂数量或P錼t数量小于1]";

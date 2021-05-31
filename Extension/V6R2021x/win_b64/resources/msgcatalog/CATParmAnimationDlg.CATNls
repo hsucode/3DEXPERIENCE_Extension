@@ -1,8 +1,0 @@
-<meta charset="UTF-8"/>
-Title = "Parameters Animation Definition";
-Frame1.Title = "Setup";
-Frame1.Label1.Title = "Select Param : ";
-Frame1.Label2.Title = "Param Interval : ";
-Frame1.Label3.Title = "Change Step : ";
-Frame1.Label4.Title = "Folder Path : ";
-Frame1.PushButton1.Title = "Browse...";

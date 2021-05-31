@@ -1,8 +1,0 @@
-Title = "[~CATInstantiatePrtUDFT1Dlg,Title~ ÊµÀý»¯UDF¶¨Òå]";
-Frame1.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.Title~ Sétüp]";
-Frame1.Label4.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.Label4.Title~  UDF Nåmé : ]";
-Frame1.Label5.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.Label5.Title~  °æ±¾ºÅ : ]";
-Frame1.Label2.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.Label2.Title~  Ñ¡ÔñÇúÏß(µ¥Ñ¡) : ]";
-Frame1.Label3.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.Label3.Title~  Pårt Namé : ]";
-Frame1.Label1.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.Label1.Title~  Ñ¡Ôñµã(¶àÑ¡)  : ]";
-Frame1.PushButton1.Title = "[~CATInstantiatePrtUDFT1Dlg,Frame1.PushButton1.Title~ PüshButtøn1]";

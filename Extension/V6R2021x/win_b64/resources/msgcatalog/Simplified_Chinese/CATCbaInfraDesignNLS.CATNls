@@ -1,9 +1,0 @@
-<meta charset="UTF-8"/>
-CbaNewAnchorResultNode="部件规格";
-CbaNewInfraDesignSet="桥梁集";
-CbaNewInfraDesignSpec="桥梁规格";
-CbaNewInfraSkeletonMainSet="桥梁布局集";
-CbaNewInfraSkeletonSet.Deck="承板布局集";
-CbaNewInfraSkeletonSet.Support="支持面布局集";
-CbaNewInfraSkeletonGeom.Deck="跨越";
-CbaNewInfraSkeletonGeom.Support="支持面";
