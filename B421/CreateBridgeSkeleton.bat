@@ -18,15 +18,9 @@ set ModuleName=CreateBridgeSkeleton
 set PartName="prd-60736172-00021397"
 set PartVersion="A.1"
 set PLMType="VPMReference"
-<<<<<<< HEAD
 ::set LoginTicket="QUNDOEFFOTJFMTA2NDZBRDkwNzc4QzREQjY1ODBEQjd8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
 set LoginTicket=ODVCRTkwQ0M2NTRDNERDOUI3MzdCNjQyNzkwM0I2QzF8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA==
 set ExcelPath="C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_XUS_Code\CAAV6BatchRun\startup\Civil\CATCIVBridgeData.xlsx"
-=======
-set LoginTicket="QUNDOEFFOTJFMTA2NDZBRDkwNzc4QzREQjY1ODBEQjd8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
-
-set ExcelPath="%~dp0\startup\Civil\CATCIVBridgeData.xlsx"
->>>>>>> 24e15fa20a9498cf99fe202c98eeee0b76a4f762
 set geoName="LNS"
 
 
