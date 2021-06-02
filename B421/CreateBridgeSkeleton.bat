@@ -20,7 +20,7 @@ set PartVersion="A.1"
 set PLMType="VPMReference"
 ::set LoginTicket="QUNDOEFFOTJFMTA2NDZBRDkwNzc4QzREQjY1ODBEQjd8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
 set LoginTicket=ODVCRTkwQ0M2NTRDNERDOUI3MzdCNjQyNzkwM0I2QzF8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA==
-set ExcelPath="C:\XUS\200-CODE\Dassault_Systemes\3DEXPERIENCE_XUS_Code\CAAV6BatchRun\startup\Civil\CATCIVBridgeData.xlsx"
+set ExcelPath="%~dp0\startup\Civil\CATCIVBridgeData.xlsx"
 set geoName="LNS"
 
 
