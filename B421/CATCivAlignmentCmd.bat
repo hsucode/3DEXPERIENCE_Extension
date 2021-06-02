@@ -16,11 +16,11 @@ set ServerName=         "v6r2020x.3de.com"
 set ServerPort=         "443"
 set ServerRootURI=      "3dspace"
 set ModuleName=CATCivAlignmentCmd
-set PartName=			"prd-34612761-00000962"    
+set PartName=			"prd-60736172-00021436"    
 set PartVersion=		"A.1"
 set PLMType=			"VPMReference"
-set LoginTicket="NkQyODQ0OTUzQzFFNDVFRDk5RTI3MjE4MEYyQTY4MTJ8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
-
+::set LoginTicket="NkQyODQ0OTUzQzFFNDVFRDk5RTI3MjE4MEYyQTY4MTJ8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
+set LoginTicket=ODVCRTkwQ0M2NTRDNERDOUI3MzdCNjQyNzkwM0I2QzF8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA==
 %InstallationFolder%\\win_b64\\code\\bin\\CATSTART.exe -run "%CurrentFolder%win_b64\code\bin\%ModuleName% %Repository% %ServerName% %ServerPort% %ServerRootURI% %LoginTicket% %PartName% %PartVersion% %PLMType%"
 
 ::QUE0QURENDUxRjM1NDBDMkE5ODdCQkJGMkQ4RENFRER8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA==
