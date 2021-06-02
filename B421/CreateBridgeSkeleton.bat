@@ -15,7 +15,7 @@ set ServerName="3dexpv6r2019x.3ds.com"
 set ServerPort="443"
 set ServerRootURI="3dspace"
 set ModuleName=CreateBridgeSkeleton
-set PartName="prd-60736172-00021397"
+set PartName="prd-60736172-00021436"
 set PartVersion="A.1"
 set PLMType="VPMReference"
 ::set LoginTicket="QUNDOEFFOTJFMTA2NDZBRDkwNzc4QzREQjY1ODBEQjd8YWRtaW5fcGxhdGZvcm18YWRtaW5fcGxhdGZvcm18fHwwfA=="
